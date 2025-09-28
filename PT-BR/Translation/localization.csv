@@ -238,7 +238,7 @@ Dialogs_GroceryStory_RepeatWorkingHours_SecondRepeat_4_Mia,62917722163,Morning t
 Dialogs_GroceryStory_RepeatWorkingHours_SecondRepeat_5_Mia,62917722164,Noon till afternoon
 Dialogs_GroceryStory_RepeatWorkingHours_SecondRepeat_6_Mia,62917722165,and afternoon till evening
 Dialogs_GroceryStory_RepeatWorkingHours_SecondRepeat_7_Mia,62917722166,Got it?
-Dialogs_GroceryStory_RepeatWorkingHours_ShiftScedule_0_Story_0,62917722167,"""The schedule: morning–noon, noon–afternoon, and afternoon–evening. No work during evening or night hours"""
+Dialogs_GroceryStory_RepeatWorkingHours_ShiftScedule_0_Story_0,62917722167,"O horário: manhã-meio-dia, meio-dia-tarde e tarde-noite. Não há trabalho durante a noite ou madrugada."
 Dialogs_GroceryStory_RepeatWorkingHours_ShiftScedule_1_Story_0,62917722168,"""Type of schedule: Flexible hours"""
 Dialogs_GroceryStory_RepeatWorkingHours_ThirdRepeat_0_Player,62917722169,Não...
 Dialogs_GroceryStory_RepeatWorkingHours_ThirdRepeat_1_Mia,62917722170,.  .  .
@@ -341,7 +341,7 @@ Dialogs_HScene_MiaStoringRoom_YouLikeIt_0_Mia,62921916481,"Do you like it, @{pla
 Dialogs_HScene_MiaStoringRoom_YouLikeIt_1_Player,62921916482,Y... yes
 Dialogs_HScene_SarahSofaMassage_1_BeforeStartMassage_0_Player,62921916483,"""No way she actually agreed to this!"""
 Dialogs_HScene_SarahSofaMassage_1_BeforeStartMassage_1_Player,62921916484,"""I mean… I could try, but I have zero clue how to give a massage"""
-Dialogs_HScene_SarahSofaMassage_1_BeforeStartMassage_2_Player,62921916485,"""Oh god… please let her be drunk enough not to realize I have no idea what I’m doing"""
+Dialogs_HScene_SarahSofaMassage_1_BeforeStartMassage_2_Player,62921916485,"“Oh Deus... por favor, faça com que ela esteja bêbada o suficiente para não perceber que eu não tenho ideia do que estou fazendo.”"
 Dialogs_HScene_SarahSofaMassage_2_HereWeGo_0_Player,62921916486,"""You got this, @{player}"""
 Dialogs_HScene_SarahSofaMassage_2_HereWeGo_1_Sarah,62921916487,"But please, be gentle"
 Dialogs_HScene_SarahSofaMassage_2_HereWeGo_2_Sarah,62921916488,...
@@ -373,381 +373,381 @@ Dialogs_HScene_Story3_SarahSofa_4_BetterNow_0_Sarah,62926110741,Much better now
 Dialogs_HScene_Story3_SarahSofa_5_Enough_0_Sarah,62926110742,"Obrigado, @{player}"
 Dialogs_HScene_Story3_SarahSofa_5_Enough_1_Sarah,62926110743,Já chega.
 Dialogs_Intro_0_1Moan_0_Sarah,62926110744,Ahhh~
-Dialogs_Intro_0_3PlayerStops_0_Sarah,62926110745,Why did you stop?
-Dialogs_Intro_0_3PlayerStops_1_Player,62926110746,Benjamin is calling you...
-Dialogs_Intro_0_3PlayerStops_2_Sarah,62926110747,And?
-Dialogs_Intro_0_3PlayerStops_3_Player,62926110748,I thought you wanted to answer
-Dialogs_Intro_0_3PlayerStops_4_Sarah,62926110749,Do you want me to?
-Dialogs_Intro_0_3PlayerStops_5_Sarah,62926110750,"It would be really hot, wouldn't it?"
-Dialogs_Intro_0_3PlayerStops_6_Player,62926110751,It would...
-Dialogs_Intro_0_3PlayerStops_7_Sarah,62926110752,I suggest you just focus on me now
-Dialogs_Intro_0_4Distr_0_Sarah,62926110753,and don't get distracted by unimportant things
-Dialogs_Intro_0_5Twice_0_Player,62926110754,You don't have to ask twice
+Dialogs_Intro_0_3PlayerStops_0_Sarah,62926110745,Por que você parou?
+Dialogs_Intro_0_3PlayerStops_1_Player,62926110746,Benjamin está ligando para você...
+Dialogs_Intro_0_3PlayerStops_2_Sarah,62926110747,E?
+Dialogs_Intro_0_3PlayerStops_3_Player,62926110748,Pensei que você quisesse responder
+Dialogs_Intro_0_3PlayerStops_4_Sarah,62926110749,Você quer que eu faça isso?
+Dialogs_Intro_0_3PlayerStops_5_Sarah,62926110750,"Seria muito quente, não seria?"
+Dialogs_Intro_0_3PlayerStops_6_Player,62926110751,Seria...
+Dialogs_Intro_0_3PlayerStops_7_Sarah,62926110752,Sugiro que você se concentre apenas em mim agora
+Dialogs_Intro_0_4Distr_0_Sarah,62926110753,e não se distraia com coisas sem importância
+Dialogs_Intro_0_5Twice_0_Player,62926110754,Não precisa pedir duas vezes
 Dialogs_Intro_0_6Hm_0_Player,62926110755,Hm?
-Dialogs_Intro_1_2BusCallEnd_0_Player,62926110756,I guess I'll hang up now
-Dialogs_Intro_1_2BusCallEnd_1_Player,62926110757,Maybe take one more nap to pass the time
-Dialogs_Intro_1_2BusCallEnd_2_Emma,62926110758,"Ok, sweetie"
-Dialogs_Intro_1_2BusCallEnd_3_Emma,62926110759,Don’t forget to text me when you arrive at Sarah’s place
-Dialogs_Intro_1_2BusCallEnd_4_Player,62926110760,"Ok, I wont"
-Dialogs_Intro_1_2BusCallEnd_5_Player,62926110761,"Love you, mom. Bye!"
-Dialogs_Intro_1_2BusCallEnd_6_Emma,62926110762,<shake>Wait!!!</shake>
-Dialogs_Intro_1_2BusCallEnd_7_Emma,62926110763,I almost forgot
-Dialogs_Intro_1_2BusCallEnd_8_Emma,62926110764,"Here, I just sent you Sarah’s number"
-Dialogs_Intro_1_3SarahsNumber_0_Emma,62926110765,Just in case you get lost or something happens
-Dialogs_Intro_1_3SarahsNumber_1_Player,62926110766,"Omg, mom"
-Dialogs_Intro_1_3SarahsNumber_2_Player,62926110767,My heart almost jumped out of my chest when you screamed
+Dialogs_Intro_1_2BusCallEnd_0_Player,62926110756,Acho que vou desligar agora.
+Dialogs_Intro_1_2BusCallEnd_1_Player,62926110757,Talvez tirar mais uma soneca para passar o tempo
+Dialogs_Intro_1_2BusCallEnd_2_Emma,62926110758,"Ok, querido"
+Dialogs_Intro_1_2BusCallEnd_3_Emma,62926110759,Não se esqueça de me enviar uma mensagem quando chegar à casa da Sarah.
+Dialogs_Intro_1_2BusCallEnd_4_Player,62926110760,"Ok, eu não vou."
+Dialogs_Intro_1_2BusCallEnd_5_Player,62926110761,Te amo mamãe. Tchau!
+Dialogs_Intro_1_2BusCallEnd_6_Emma,62926110762,<shake>Espere!!!</shake>
+Dialogs_Intro_1_2BusCallEnd_7_Emma,62926110763,Quase me esqueci
+Dialogs_Intro_1_2BusCallEnd_8_Emma,62926110764,"Aqui, acabei de te enviar o número da Sarah."
+Dialogs_Intro_1_3SarahsNumber_0_Emma,62926110765,Caso você se perca ou algo aconteça
+Dialogs_Intro_1_3SarahsNumber_1_Player,62926110766,"Meu Deus, mãe!"
+Dialogs_Intro_1_3SarahsNumber_2_Player,62926110767,Meu coração quase saltou do peito quando você gritou.
 Dialogs_Intro_1_3SarahsNumber_3_Emma,62926110768,"Haha, desculpa"
-Dialogs_Intro_1_3SarahsNumber_4_Emma,62926110769,Have you got the number?
-Dialogs_Intro_1_3SarahsNumber_5_Player,62926110770,"Yeah, it's on my phone"
-Dialogs_Intro_1_3SarahsNumber_6_Emma,62926110771,"Okay, then enjoy your nap! Hee-hee"
-Dialogs_Intro_1_3SarahsNumber_7_Player,62926110772,Thank you. Bye
-Dialogs_Intro_1_3SarahsNumber_8_Emma,62926110773,Love you <3
+Dialogs_Intro_1_3SarahsNumber_4_Emma,62926110769,Você tem o número?
+Dialogs_Intro_1_3SarahsNumber_5_Player,62926110770,"Sim, está no meu celular."
+Dialogs_Intro_1_3SarahsNumber_6_Emma,62926110771,"Ok, então aproveite sua soneca! Hee-hee"
+Dialogs_Intro_1_3SarahsNumber_7_Player,62926110772,Obrigado. Tchau.
+Dialogs_Intro_1_3SarahsNumber_8_Emma,62926110773,Te amo <3
 Dialogs_Intro_1_BusCall_0_Player,62926110774,Olá?
-Dialogs_Intro_1_BusCall_1_Emma,62926110775,"Hey, @{player}! What took you so long to get on the phone!?"
-Dialogs_Intro_1_BusCall_2_Player,62926110776,"Sorry, I fell asleep"
-Dialogs_Intro_1_BusCall_3_Emma,62926110777,Thank god nothing bad happened...
-Dialogs_Intro_1_BusCall_4_Emma,62926110778,"You missed the first three calls, so I’d already imagined the worst..."
-Dialogs_Intro_1_BusCall_5_Player,62926110779,"Mom, I'm on the bus. What could have happened?"
-Dialogs_Intro_1_BusCall_6_Emma,62926110780,Like a crash or something? I don't know...
-Dialogs_Intro_1_BusCall_7_Player,62926110781,"Mom, you're too worried. I'm an adult now... I'm fine"
-Dialogs_Intro_1_BusCall_8_Emma,62926110782,I guess you are right... sorry
-Dialogs_Intro_1_BusCall_9_Emma,62926110783,How is your ride going then?
-Dialogs_Intro_1_BusCall_10_Player,62926110784,Pretty long... not much else to say
-Dialogs_Intro_1_BusCall_11_Emma,62926110785,Have you eaten?
-Dialogs_Intro_1_BusCall_12_Player,62926110786,"No, mom. I'm not going to die from starvation in a few hours drive... "
-Dialogs_Intro_1_BusCall_13_Emma,62926110787,"Haha, of course you're not."
-Dialogs_Intro_1_BusCall_14_Emma,62926110788,Sorry if I’m making you uncomfortable...
-Dialogs_Intro_1_BusCall_15_Emma,62926110789,I didn't mean to
-Dialogs_Intro_1_BusCall_16_Emma,62926110790,"I know you're an adult, and I respect that"
-Dialogs_Intro_1_BusCall_17_Emma,62926110791,"But I’m your mom, and moms always worry about their kids"
-Dialogs_Intro_1_BusCall_18_Emma,62926110792,"No matter how old they are, hee-hee"
-Dialogs_Intro_1_BusCall_19_Player,62926110793,Pheeew... great...
-Dialogs_Intro_1_BusCall_20_Player,62926110794,Now I feel guilty for talking to you like that...
-Dialogs_Intro_2_1Welcome_0_Sarah,62926110795,"Look at you, you have grown so much"
-Dialogs_Intro_2_1Welcome_1_Sarah,62926110796,Such a handsome man!
-Dialogs_Intro_2_1Welcome_2_Sarah,62926110797,You make me envy Emma
-Dialogs_Intro_2_1Welcome_3_Player,62926110798,"Hehe, thank you, Sarah"
-Dialogs_Intro_2_1Welcome_4_Player,62926110799,You look great too
-Dialogs_Intro_2_1Welcome_5_Sarah,62926110800,Mrs. Sarah?
-Dialogs_Intro_2_1Welcome_6_Sarah,62926110801,Am I that old?
-Dialogs_Intro_2_1Welcome_7_Player,62926110802,"Oh... no, not at all... It's just"
-Dialogs_Intro_2_1Welcome_8_Sarah,62926110803,I guess you're not in that age anymore
-Dialogs_Intro_2_1Welcome_9_Sarah,62926110804,"Anyway, how was the bus ride?"
-Dialogs_Intro_2_1Welcome_10_Player,62926110805,"It was long, but not too bad :)"
-Dialogs_Intro_2_1Welcome_11_Player,62926110806,"Slept most of the time, so it was fine"
-Dialogs_Intro_2_1Welcome_12_Sarah,62926110807,It's nice to hear
-Dialogs_Intro_2_1Welcome_13_Sarah,62926110808,I’m glad you made it!
-Dialogs_Intro_2_1Welcome_14_Sarah,62926110809,"Oh I missed you so much, @{player}!"
-Dialogs_Intro_2_1Welcome_15_Sarah,62926110810,"We have so much to talk about, but..."
-Dialogs_Intro_2_1Welcome_16_Sarah,62926110811,...I still need to finish cooking
-Dialogs_Intro_2_1Welcome_17_Sarah,62926110812,So let me show you your new room
-Dialogs_Intro_2_1Welcome_18_Sarah,62926110813,And later we'll chat more
-Dialogs_Intro_2_2FollowSarah_0_Sarah,62926110814,Follow me!
+Dialogs_Intro_1_BusCall_1_Emma,62926110775,"Ei, @{player}! Por que demorou tanto para atender o telefone?"
+Dialogs_Intro_1_BusCall_2_Player,62926110776,"Desculpa, acabei adormecendo."
+Dialogs_Intro_1_BusCall_3_Emma,62926110777,Graças a Deus nada de ruim aconteceu...
+Dialogs_Intro_1_BusCall_4_Emma,62926110778,"Você não atendeu as três primeiras chamadas, então eu já imaginei o pior..."
+Dialogs_Intro_1_BusCall_5_Player,62926110779,"Mãe, estou no ônibus. O que poderia ter acontecido?"
+Dialogs_Intro_1_BusCall_6_Emma,62926110780,Como um acidente ou algo assim? Não sei...
+Dialogs_Intro_1_BusCall_7_Player,62926110781,"Mãe, você está muito preocupada. Eu sou adulta agora... Estou bem."
+Dialogs_Intro_1_BusCall_8_Emma,62926110782,Acho que você está certo... desculpe.
+Dialogs_Intro_1_BusCall_9_Emma,62926110783,Como está indo sua viagem?
+Dialogs_Intro_1_BusCall_10_Player,62926110784,Bastante longo... não há muito mais a dizer.
+Dialogs_Intro_1_BusCall_11_Emma,62926110785,Você já comeu?
+Dialogs_Intro_1_BusCall_12_Player,62926110786,"Não, mãe. Não vou morrer de fome em algumas horas de viagem... "
+Dialogs_Intro_1_BusCall_13_Emma,62926110787,"Haha, é claro que não."
+Dialogs_Intro_1_BusCall_14_Emma,62926110788,Sinto muito se estou deixando você desconfortável...
+Dialogs_Intro_1_BusCall_15_Emma,62926110789,Eu não quis dizer isso.
+Dialogs_Intro_1_BusCall_16_Emma,62926110790,Sei que você é um adulto e respeito isso.
+Dialogs_Intro_1_BusCall_17_Emma,62926110791,"Mas eu sou sua mãe, e as mães sempre se preocupam com os filhos."
+Dialogs_Intro_1_BusCall_18_Emma,62926110792,"Não importa a idade que tenham, hee-hee"
+Dialogs_Intro_1_BusCall_19_Player,62926110793,Ufa... ótimo...
+Dialogs_Intro_1_BusCall_20_Player,62926110794,Agora me sinto culpado por ter falado assim com você...
+Dialogs_Intro_2_1Welcome_0_Sarah,62926110795,"Olha só para você, cresceu tanto!"
+Dialogs_Intro_2_1Welcome_1_Sarah,62926110796,Que homem bonito!
+Dialogs_Intro_2_1Welcome_2_Sarah,62926110797,Você me faz invejar a Emma.
+Dialogs_Intro_2_1Welcome_3_Player,62926110798,"Hehe, obrigado, Sarah."
+Dialogs_Intro_2_1Welcome_4_Player,62926110799,Você também está ótimo.
+Dialogs_Intro_2_1Welcome_5_Sarah,62926110800,Sra. Sarah?
+Dialogs_Intro_2_1Welcome_6_Sarah,62926110801,Eu estou assim tão velha?
+Dialogs_Intro_2_1Welcome_7_Player,62926110802,"Ah... não, de forma alguma... É só que..."
+Dialogs_Intro_2_1Welcome_8_Sarah,62926110803,Acho que você já não está nessa idade.
+Dialogs_Intro_2_1Welcome_9_Sarah,62926110804,"De qualquer forma, como foi a viagem de ônibus?"
+Dialogs_Intro_2_1Welcome_10_Player,62926110805,"Foi longo, mas não foi tão ruim assim."
+Dialogs_Intro_2_1Welcome_11_Player,62926110806,"Dormi a maior parte do tempo, então foi bom."
+Dialogs_Intro_2_1Welcome_12_Sarah,62926110807,É bom ouvir isso.
+Dialogs_Intro_2_1Welcome_13_Sarah,62926110808,Que bom que você conseguiu!
+Dialogs_Intro_2_1Welcome_14_Sarah,62926110809,"Oh, senti tanta falta de você, @{player}!"
+Dialogs_Intro_2_1Welcome_15_Sarah,62926110810,"Temos muito o que conversar, mas..."
+Dialogs_Intro_2_1Welcome_16_Sarah,62926110811,...Ainda preciso terminar de cozinhar.
+Dialogs_Intro_2_1Welcome_17_Sarah,62926110812,"Então, quero mostrar o seu novo quarto."
+Dialogs_Intro_2_1Welcome_18_Sarah,62926110813,E mais tarde conversaremos mais.
+Dialogs_Intro_2_2FollowSarah_0_Sarah,62926110814,Venha comigo!
 Dialogs_Intro_2_3RoomDoor_0_Sarah,62926110815,Aqui está
-Dialogs_Intro_2_3RoomDoor_1_Sarah,62926110816,Behind that door is your new room for the next few<?emotion=13>...
-Dialogs_Intro_2_3RoomDoor_2_Sarah,62926110817,The next few...
-Dialogs_Intro_2_3RoomDoor_3_Sarah,62926110818,"... For the time of your stay, no matter how long that might be."
-Dialogs_Intro_2_3RoomDoor_4_Sarah,62926110819,"Go on, open the door"
-Dialogs_Intro_2_Hello_0_Player,62926110820,Hello!? Is anyone home?
-Dialogs_Intro_3_1InteractSarah_0_Sarah,62926110821,"Hm? Don't you want to see it? "
+Dialogs_Intro_2_3RoomDoor_1_Sarah,62926110816,Atrás dessa porta está o seu novo quarto para os próximos dias<?emotion=13>...
+Dialogs_Intro_2_3RoomDoor_2_Sarah,62926110817,Os próximos...
+Dialogs_Intro_2_3RoomDoor_3_Sarah,62926110818,"... Pelo tempo de sua estadia, não importa quanto tempo seja."
+Dialogs_Intro_2_3RoomDoor_4_Sarah,62926110819,"Vá lá, abra a porta."
+Dialogs_Intro_2_Hello_0_Player,62926110820,Olá!? Tem alguém em casa?
+Dialogs_Intro_3_1InteractSarah_0_Sarah,62926110821,"Hm? Você não quer ver? "
 Dialogs_Intro_3_SrResponse_0_Sarah,62926110822,Hm?
-Dialogs_Intro_3_SrResponse_1_Sarah,62926110823,"Oh my goodness, you're here!"
-Dialogs_Intro_4_MovingIn_0_Sarah,62926110824,"So, what do you think? "
-Dialogs_Intro_4_1MovingInEmpty1_0_Player,62926110825,"Well, it looks kinda empty"
-Dialogs_Intro_4_1MovingInEmpty1_1_Sarah,62926110826,You don't like it?
-Dialogs_Intro_4_1MovingInEmpty1_2_Player,62926110827,"What? No! I didn't mean it like that, its nice..."
+Dialogs_Intro_3_SrResponse_1_Sarah,62926110823,"Meu Deus, você está aqui!"
+Dialogs_Intro_4_MovingIn_0_Sarah,62926110824,"Então, o que você acha? "
+Dialogs_Intro_4_1MovingInEmpty1_0_Player,62926110825,"Bem, parece um pouco vazio."
+Dialogs_Intro_4_1MovingInEmpty1_1_Sarah,62926110826,Você não gosta?
+Dialogs_Intro_4_1MovingInEmpty1_2_Player,62926110827,"O quê? Não! Não foi isso que eu quis dizer, é legal..."
 Dialogs_Intro_4_1MovingInEmpty1_3_Player,62926110828,Espere...
-Dialogs_Intro_4_1MovingInEmpty1_4_Sarah,62926110829,Hahaha!
-Dialogs_Intro_4_1MovingInEmpty1_5_Sarah,62926110830,"Don't worry, it's alright. But you should have seen your face."
-Dialogs_Intro_4_1MovingInEmpty1_6_Player,62926110831,"Yeah, right... "
-Dialogs_Intro_4_2MovingInNice_0_Player,62926110832,It's nice.
-Dialogs_Intro_4_2MovingInNice_1_Sarah,62926110833,I'm glad you like it.
-Dialogs_Intro_4_2MovingInSmall_0_Player,62926110834,"I have to admit, it's pretty small"
-Dialogs_Intro_4_2MovingInSmall_1_Sarah,62926110835,"Yeah, you may be right"
-Dialogs_Intro_5_1SuchHonor_0_Player,62926110836,It's such an honor for me to be the room's first resident
-Dialogs_Intro_5_1SuchHonor_1_Player,62926110837,I'll treat it like a royal suite and consider myself privileged to be allowed to stay here! :)
-Dialogs_Intro_5_1SuchHonor_2_Sarah,62926110838,"<?rel_add=1>Just don't start demanding room service, your Majesty"
-Dialogs_Intro_5_1SuchHonor_3_Sarah,62926110839,I might make you a sandwich though
-Dialogs_Intro_5_1SuchHonor_4_Sarah,62926110840,If you ask nicely...
-Dialogs_Intro_5_1SuchHonor_5_Sarah,62926110841,By the way about food
+Dialogs_Intro_4_1MovingInEmpty1_4_Sarah,62926110829,Hahahaha!
+Dialogs_Intro_4_1MovingInEmpty1_5_Sarah,62926110830,"Não se preocupe, tudo bem. Você deveria ter visto sua cara."
+Dialogs_Intro_4_1MovingInEmpty1_6_Player,62926110831,"Sim, claro... "
+Dialogs_Intro_4_2MovingInNice_0_Player,62926110832,É bom.
+Dialogs_Intro_4_2MovingInNice_1_Sarah,62926110833,Fico feliz que você tenha gostado.
+Dialogs_Intro_4_2MovingInSmall_0_Player,62926110834,Tenho que admitir que é bem pequeno.
+Dialogs_Intro_4_2MovingInSmall_1_Sarah,62926110835,"Sim, talvez você tenha razão."
+Dialogs_Intro_5_1SuchHonor_0_Player,62926110836,É uma grande honra para mim ser o primeiro residente do quarto.
+Dialogs_Intro_5_1SuchHonor_1_Player,62926110837,Vou tratá-la como uma suíte real e me considerar privilegiado por poder ficar aqui! :)
+Dialogs_Intro_5_1SuchHonor_2_Sarah,62926110838,"<?rel_add=1>Só não comece a exigir serviço de quarto, Vossa Majestade."
+Dialogs_Intro_5_1SuchHonor_3_Sarah,62926110839,Mas talvez eu faça um sanduíche para você.
+Dialogs_Intro_5_1SuchHonor_4_Sarah,62926110840,Se você pedir gentilmente...
+Dialogs_Intro_5_1SuchHonor_5_Sarah,62926110841,"A propósito, sobre comida"
 Dialogs_Intro_5_2Cool_0_Player,62926110842,Isso é legal.
-Dialogs_Intro_5_2Cool_1_Sarah,62926110843,"Yeah, it is"
-Dialogs_Intro_5_3FinishRoom_0_Sarah,62926110844,"As I said earlier, I am a little busy preparing the food"
-Dialogs_Intro_5_3FinishRoom_1_Sarah,62930305024,Benjamin and the girls are going to be home soon
-Dialogs_Intro_5_3FinishRoom_2_Sarah,62930305025,"Get comfortable, and once you're done, come join me in the kitchen"
-Dialogs_Intro_5_3FinishRoom_3_Sarah,62930305026,I'd enjoy your company
+Dialogs_Intro_5_2Cool_1_Sarah,62926110843,"É, é mesmo."
+Dialogs_Intro_5_3FinishRoom_0_Sarah,62926110844,"Como eu disse antes, estou um pouco ocupado preparando a comida."
+Dialogs_Intro_5_3FinishRoom_1_Sarah,62930305024,Benjamin e as meninas vão chegar em casa em breve.
+Dialogs_Intro_5_3FinishRoom_2_Sarah,62930305025,"Fique à vontade e, quando terminar, venha se juntar a mim na cozinha."
+Dialogs_Intro_5_3FinishRoom_3_Sarah,62930305026,Gostaria de ter a sua companhia.
 Dialogs_Intro_5_3FinishRoom_4_Player,62930305027,Claro!
-Dialogs_Intro_5_3FinishRoom_5_Sarah,62930305028,Have fun!
+Dialogs_Intro_5_3FinishRoom_5_Sarah,62930305028,Divirta-se!
 Dialogs_Intro_5_4SrLeavesRoom_0_Sarah,62930305029,Até mais
-Dialogs_Intro_5_FinishRoom_0_Sarah,62930305030,It was originally meant to be Benjamin's office
-Dialogs_Intro_5_FinishRoom_1_Sarah,62930305031,But then he got promoted and started spending more and more time at the actual office
-Dialogs_Intro_5_FinishRoom_2_Sarah,62930305032,So this room kinda got useless...
-Dialogs_Intro_5_FinishRoom_3_Sarah,62930305033,"We thought, we'll make a room for guests..."
-Dialogs_Intro_5_FinishRoom_4_Sarah,62930305034,"You will be its first guest, by the way"
-Dialogs_Intro_6_1_PlayerWonders_0_Player,62930305035,Hm? Somebody texted me
-Dialogs_Intro_7_AfterChatFinish_0_Player,62930305036,Guess she's just busy at work...
+Dialogs_Intro_5_FinishRoom_0_Sarah,62930305030,"Originalmente, era para ser o escritório de Benjamin."
+Dialogs_Intro_5_FinishRoom_1_Sarah,62930305031,Mas então ele foi promovido e começou a passar cada vez mais tempo no escritório.
+Dialogs_Intro_5_FinishRoom_2_Sarah,62930305032,"Então, esta sala ficou meio que inútil..."
+Dialogs_Intro_5_FinishRoom_3_Sarah,62930305033,Pensamos em fazer um quarto para os hóspedes...
+Dialogs_Intro_5_FinishRoom_4_Sarah,62930305034,"Você será seu primeiro hóspede, aliás."
+Dialogs_Intro_6_1_PlayerWonders_0_Player,62930305035,Hm? Alguém me enviou uma mensagem.
+Dialogs_Intro_7_AfterChatFinish_0_Player,62930305036,Acho que ela está ocupada no trabalho...
 Dialogs_Intro_7_AfterChatFinish_1_Player,62930305037,. . .
-Dialogs_Intro_7_AfterChatFinish_2_Player,62930305038,"Alright, I’ve finished unpacking here"
-Dialogs_Intro_7_AfterChatFinish_3_Player,62930305039,Now I can go downstairs
+Dialogs_Intro_7_AfterChatFinish_2_Player,62930305038,"Tudo bem, terminei de desfazer as malas aqui."
+Dialogs_Intro_7_AfterChatFinish_3_Player,62930305039,Agora posso descer as escadas.
 Dialogs_Intro_8_SarahKitchen_0_Sarah,62930305040,Aí está você
-Dialogs_Intro_8_SarahKitchen_1_Sarah,62930305041,"You are just in time, sweetheart"
-Dialogs_Intro_8_SarahKitchen_2_Sarah,62930305042,"Food is ready, go and wash your hands"
-Dialogs_Intro_9_1FatherContinue_0_Player,62930305043,"""I hope he washed his hands"""
-Dialogs_Intro_9_1FatherContinue_1_Benjamin,62930305044,"Long time no see, little man"
-Dialogs_Intro_9_1FatherContinue_2_Benjamin,62930305045,I guess 'little man' isn’t quite the right term anymore?
-Dialogs_Intro_9_FatherSpeaks_0_Benjamin,62930305046,Hello there!
+Dialogs_Intro_8_SarahKitchen_1_Sarah,62930305041,"Você chegou bem na hora, querido"
+Dialogs_Intro_8_SarahKitchen_2_Sarah,62930305042,"A comida está pronta, vá lavar as mãos."
+Dialogs_Intro_9_1FatherContinue_0_Player,62930305043,Espero que ele tenha lavado as mãos.
+Dialogs_Intro_9_1FatherContinue_1_Benjamin,62930305044,"Há quanto tempo, rapazinho!"
+Dialogs_Intro_9_1FatherContinue_2_Benjamin,62930305045,"Acho que “homenzinho” já não é mais o termo certo, não é?"
+Dialogs_Intro_9_FatherSpeaks_0_Benjamin,62930305046,Olá!
 Dialogs_Intro_10_GirlsAreHome_0_Lucy,62930305047,Chegamos em casa!
 Dialogs_Intro_10_GirlsAreHome_0_Lisa,62930305048,Chegamos em casa!
-Dialogs_Intro_10_GirlsAreHome_1_Lucy,62930305049,@{player}!? Is it you?
+Dialogs_Intro_10_GirlsAreHome_1_Lucy,62930305049,@{player}!? É você?
 Dialogs_Intro_10_GirlsAreHome_2_Player,62930305050,Sim...
-Dialogs_Intro_10_GirlsAreHome_3_Lucy,62930305051,OMG! It's so nice to see you!
+Dialogs_Intro_10_GirlsAreHome_3_Lucy,62930305051,Nossa! É tão bom ver você!
 Dialogs_Intro_11_LisaHi_0_Lisa,62930305052,Oi
-Dialogs_Intro_11_1Revenge_0_Player,62930305053,"Haha, you're right"
-Dialogs_Intro_11_1Revenge_1_Player,62930305054,"Now that I’m bigger, I’ll make you pay for all those years of bullying. Hehehe"
+Dialogs_Intro_11_1Revenge_0_Player,62930305053,"Haha, você está certo."
+Dialogs_Intro_11_1Revenge_1_Player,62930305054,"Agora que estou maior, vou fazer você pagar por todos esses anos de bullying. Hehehe"
 Dialogs_Intro_11_1Revenge_2_Lucy,62930305055,.  .  .
-Dialogs_Intro_11_1Revenge_3_Lucy,62930305056,Yeah... I guess so
-Dialogs_Intro_11_2GoodToSeeYou_0_Player,62930305057,"I'm really happy to see you too, Lucy"
-Dialogs_Intro_11_3Complimet_0_Player,62930305058,"You know, you changed too, Lucy"
-Dialogs_Intro_11_3Complimet_1_Player,62930305059,You grown really pretty and feminine
-Dialogs_Intro_11_3Complimet_2_Player,62930305060,Not the tomboy I remember from childhood
-Dialogs_Intro_11_3Complimet_3_Lucy,62930305061,"Stop it, @{player}"
-Dialogs_Intro_11_3Complimet_4_Lucy,62930305062,"You’ve also become a smooth talker, huh?"
-Dialogs_Intro_11_3Complimet_5_Lucy,62930305063,The compliments could use some improvement though...
-Dialogs_Intro_11_3Complimet_6_Lucy,62930305064,...but thanks
-Dialogs_Intro_11_LucyHugs_0_Lucy,62930305065,"Wow, you're so tall"
-Dialogs_Intro_11_LucyHugs_1_Lucy,62930305066,"The last time we saw each other, you were just a little kid"
-Dialogs_Intro_11_LucyHugs_2_Lucy,62930305067,"It's good to see you, @{player}"
-Dialogs_Intro_12_FatherInterupt_0_Sarah,62930305068,"Don't mean to interrupt your sweet chatter, but the food is getting cold"
-Dialogs_Intro_12_FatherInterupt_1_Benjamin,62930305069,Your mom is right. Get to the table
-Dialogs_Intro_12_FatherInterupt_2_Lucy,62930305070,Fine... and what about you?
-Dialogs_Intro_12_FatherInterupt_3_Lucy,62930305071,Are you leaving for work again?
-Dialogs_Intro_12_FatherInterupt_4_Benjamin,62930305072,"No worries, just have to wash my hands after using the toilet"
-Dialogs_Intro_13_LucyFinal_0_Lucy,62930305073,"Let's get to the table then, @{player}"
-Dialogs_Intro_14_LookAtHand_0_Player,62930305074,"""So it turns out he didn't wash them after all"""
-Dialogs_Intro_15_Food_0_Lisa,62930305075,"The food smells delicious, as always, Mom"
-Dialogs_Intro_15_Food_1_Sarah,62930305076,"Thank you, honey"
-Dialogs_Intro_15_Food_2_Lucy,62930305077,Kiss-ass...
-Dialogs_Intro_15_Food_3_Lisa,62930305078,"What!? No, I mean it!"
-Dialogs_Intro_15_Food_4_Lucy,62930305079,"Hahahha, I'm just playing with you"
+Dialogs_Intro_11_1Revenge_3_Lucy,62930305056,Sim... Acho que sim.
+Dialogs_Intro_11_2GoodToSeeYou_0_Player,62930305057,"Também estou muito feliz em te ver, Lucy."
+Dialogs_Intro_11_3Complimet_0_Player,62930305058,"Você também mudou, Lucy."
+Dialogs_Intro_11_3Complimet_1_Player,62930305059,Você ficou muito bonita e feminina.
+Dialogs_Intro_11_3Complimet_2_Player,62930305060,Não é a moleca que eu me lembro da infância.
+Dialogs_Intro_11_3Complimet_3_Lucy,62930305061,"Pare com isso, @{player}"
+Dialogs_Intro_11_3Complimet_4_Lucy,62930305062,"Você também se tornou um bom conversador, não é?"
+Dialogs_Intro_11_3Complimet_5_Lucy,62930305063,"Os elogios poderiam ser melhorados, no entanto..."
+Dialogs_Intro_11_3Complimet_6_Lucy,62930305064,...mas obrigada
+Dialogs_Intro_11_LucyHugs_0_Lucy,62930305065,"Uau, você é tão alto!"
+Dialogs_Intro_11_LucyHugs_1_Lucy,62930305066,"A última vez que nos vimos, você era apenas uma criança."
+Dialogs_Intro_11_LucyHugs_2_Lucy,62930305067,"É bom ver você, @{player}"
+Dialogs_Intro_12_FatherInterupt_0_Sarah,62930305068,"Não quero interromper sua conversa agradável, mas a comida está esfriando."
+Dialogs_Intro_12_FatherInterupt_1_Benjamin,62930305069,Sua mãe está certa. Vá para a mesa.
+Dialogs_Intro_12_FatherInterupt_2_Lucy,62930305070,Tudo bem... e você?
+Dialogs_Intro_12_FatherInterupt_3_Lucy,62930305071,Você está saindo para trabalhar de novo?
+Dialogs_Intro_12_FatherInterupt_4_Benjamin,62930305072,"Não se preocupe, só preciso lavar as mãos depois de usar o banheiro."
+Dialogs_Intro_13_LucyFinal_0_Lucy,62930305073,"Vamos para a mesa, então, @{player}"
+Dialogs_Intro_14_LookAtHand_0_Player,62930305074,"“Então, afinal ele não as lavou”"
+Dialogs_Intro_15_Food_0_Lisa,62930305075,"A comida está cheirosa, como sempre, mãe."
+Dialogs_Intro_15_Food_1_Sarah,62930305076,"Obrigado, querida."
+Dialogs_Intro_15_Food_2_Lucy,62930305077,Puxa-saco...
+Dialogs_Intro_15_Food_3_Lisa,62930305078,"O quê!? Não, estou falando sério!"
+Dialogs_Intro_15_Food_4_Lucy,62930305079,"Hahahha, estou só brincando com você."
 Dialogs_Intro_15_Food_4_Lisa,62930305080,.  .  .
-Dialogs_Intro_15_Food_5_Benjamin,62930305081,"That's enough, girls"
-Dialogs_Intro_15_Food_6_Benjamin,62930305082,"Tell us, @{player}, how's your life going?"
-Dialogs_Intro_15_Food_7_Benjamin,62930305083,Got a girlfriend yet?
-Dialogs_Intro_15_Food_8_Sarah,62930305084,"Benjamin, is this really the first thing you want to know?"
-Dialogs_Intro_15_Food_9_Benjamin,62930305085,"Yeah, what's wrong with that?"
-Dialogs_Intro_15_Food_10_Lucy,62930305086,"Yeah, Mom. What's wrong with that question?"
-Dialogs_Intro_15_Food_11_Lucy,62930305087,I bet Lisa is dying to hear the answer too
-Dialogs_Intro_15_Food_12_Lisa,62930305088,What? Why me?
-Dialogs_Intro_15_Food_13_Benjamin,62930305089,"You're not gay, aren't you?"
+Dialogs_Intro_15_Food_5_Benjamin,62930305081,"Já chega, meninas"
+Dialogs_Intro_15_Food_6_Benjamin,62930305082,"Conte-nos, @{player}, como está sua vida?"
+Dialogs_Intro_15_Food_7_Benjamin,62930305083,Já arranjou uma namorada?
+Dialogs_Intro_15_Food_8_Sarah,62930305084,"Benjamin, é mesmo isso que você quer saber primeiro?"
+Dialogs_Intro_15_Food_9_Benjamin,62930305085,"É, qual é o problema nisso?"
+Dialogs_Intro_15_Food_10_Lucy,62930305086,"Sim, mãe. O que há de errado com essa pergunta?"
+Dialogs_Intro_15_Food_11_Lucy,62930305087,Aposto que a Lisa também está ansiosa para saber a resposta.
+Dialogs_Intro_15_Food_12_Lisa,62930305088,O quê? Por que eu?
+Dialogs_Intro_15_Food_13_Benjamin,62930305089,"Você não é gay, não é?"
 Dialogs_Intro_15_1JustNo_0_Player,62930305090,Não...
-Dialogs_Intro_15_1JustNo_1_Benjamin,62930305091,Good...
-Dialogs_Intro_15_1JustNo_2_Benjamin,62930305092,Then there's nothing wrong with that question
-Dialogs_Intro_15_1JustNo_3_Benjamin,62930305093,So do you have one?
+Dialogs_Intro_15_1JustNo_1_Benjamin,62930305091,Ótimo...
+Dialogs_Intro_15_1JustNo_2_Benjamin,62930305092,Então não há nada de errado com essa pergunta.
+Dialogs_Intro_15_1JustNo_3_Benjamin,62930305093,"Então, você tem um?"
 Dialogs_Intro_15_1_1NoAnswer_0_Player,62930305094,.  .  .
-Dialogs_Intro_15_1_1NoAnswer_1_Benjamin,62930305095,"Well, if you don't want to talk about it, then let's not talk about it..."
+Dialogs_Intro_15_1_1NoAnswer_1_Benjamin,62930305095,"Bem, se você não quer falar sobre isso, então não vamos falar sobre isso..."
 Dialogs_Intro_15_1_2No_0_Player,62930305096,Não
-Dialogs_Intro_15_1_2No_1_Benjamin,62930305097,It's a shame
-Dialogs_Intro_15_1_2No_2_Benjamin,62930305098,Make sure you'll get yourself one soon
-Dialogs_Intro_15_1_2No_3_Benjamin,62930305099,At your age I was almost married...
-Dialogs_Intro_15_1_2No_4_Sarah,62930305100,"Yeah, you were a real macho back then"
+Dialogs_Intro_15_1_2No_1_Benjamin,62930305097,É uma pena.
+Dialogs_Intro_15_1_2No_2_Benjamin,62930305098,Certifique-se de comprar um logo.
+Dialogs_Intro_15_1_2No_3_Benjamin,62930305099,"Na sua idade, eu estava quase casado..."
+Dialogs_Intro_15_1_2No_4_Sarah,62930305100,"Sim, você era um verdadeiro machão naquela época."
 Dialogs_Intro_15_1_2No_5_Lucy,62930305101,Hahaha
 Dialogs_Intro_15_1_2No_5_Lisa,62930305102,Hahaha
-Dialogs_Intro_15_2Polite_0_Player,62930305103,"I don't think, that I want to discuss it with you, Benjamin"
+Dialogs_Intro_15_2Polite_0_Player,62930305103,"Acho que não quero discutir isso com você, Benjamin."
 Dialogs_Intro_15_2Polite_1_Benjamin,62930305104,"Então, é um “sim”?"
-Dialogs_Intro_15_2Polite_2_Player,62930305105,It is not
-Dialogs_Intro_15_2Polite_3_Benjamin,62930305106,"Ok, I do not wish to make you uncomfortable, @{player}"
-Dialogs_Intro_15_2Polite_4_Benjamin,62930305107,You're a guest here after all
-Dialogs_Intro_15_2Polite_5_Benjamin,62930305108,Forgive me my manners
-Dialogs_Intro_15_2Polite_6_Sarah,62930305109,"Thank god, Benjamin"
-Dialogs_Intro_15_3Harshly_0_Player,62930305110,it's none of your business!
-Dialogs_Intro_15_3Harshly_1_Benjamin,62930305111,"Wow, young man!"
-Dialogs_Intro_15_3Harshly_2_Benjamin,62930305112,No need to be rude here
-Dialogs_Intro_15_3Harshly_3_Benjamin,62930305113,You're in my home after all
-Dialogs_Intro_15_3Harshly_4_Sarah,62930305114,"Leave him be, Benjamin"
-Dialogs_Intro_15_3Harshly_5_Sarah,62930305115,He just responded rudely to your rude question
+Dialogs_Intro_15_2Polite_2_Player,62930305105,Não é
+Dialogs_Intro_15_2Polite_3_Benjamin,62930305106,"Ok, não quero deixá-lo desconfortável, @{player}."
+Dialogs_Intro_15_2Polite_4_Benjamin,62930305107,"Você é um convidado aqui, afinal."
+Dialogs_Intro_15_2Polite_5_Benjamin,62930305108,Perdoe-me pela minha falta de educação.
+Dialogs_Intro_15_2Polite_6_Sarah,62930305109,"Graças a Deus, Benjamin."
+Dialogs_Intro_15_3Harshly_0_Player,62930305110,Não é da sua conta!
+Dialogs_Intro_15_3Harshly_1_Benjamin,62930305111,"Uau, jovem!"
+Dialogs_Intro_15_3Harshly_2_Benjamin,62930305112,Não há necessidade de ser rude
+Dialogs_Intro_15_3Harshly_3_Benjamin,62930305113,"Afinal, você está na minha casa"
+Dialogs_Intro_15_3Harshly_4_Sarah,62930305114,"Deixe-o em paz, Benjamin."
+Dialogs_Intro_15_3Harshly_5_Sarah,62930305115,Ele apenas respondeu de forma rude à sua pergunta rude.
 Dialogs_Intro_15_3Harshly_6_Benjamin,62930305116,. . .
-Dialogs_Intro_15_3Harshly_7_Sarah,62930305117,Let's continue without any negativity
-Dialogs_Intro_15_5Continue_0_Sarah,62930305118,Tell us something about you...
-Dialogs_Intro_15_5Continue_1_Sarah,62930305119,We haven't seen you for ages
-Dialogs_Intro_15_5Continue_2_Sarah,62930305120,And we don't know anything about your life...
+Dialogs_Intro_15_3Harshly_7_Sarah,62930305117,Vamos continuar sem qualquer negatividade
+Dialogs_Intro_15_5Continue_0_Sarah,62930305118,Conte-nos algo sobre você...
+Dialogs_Intro_15_5Continue_1_Sarah,62930305119,Não o vemos há séculos
+Dialogs_Intro_15_5Continue_2_Sarah,62930305120,E não sabemos nada sobre a sua vida...
 Dialogs_Intro_15_5_1Guitar_0_Player,62930305121,Gosto de tocar violão.
-Dialogs_Intro_15_5_1Guitar_1_Sarah,62930305122,"Oh, so you're a musician"
+Dialogs_Intro_15_5_1Guitar_1_Sarah,62930305122,"Ah, então você é músico."
 Dialogs_Intro_15_5_1Guitar_2_Sarah,62930305123,Isso é legal.
 Dialogs_Intro_15_5_1Guitar_3_Player,62930305124,"Na verdade, não..."
-Dialogs_Intro_15_5_1Guitar_4_Player,62930305125,I don't really know much about music...
-Dialogs_Intro_15_5_1Guitar_5_Player,62930305126,"I just like playing guitar, that's all"
-Dialogs_Intro_15_5_1Guitar_6_Sarah,62930305127,"Ah, so you're a self-taught guitarist?"
+Dialogs_Intro_15_5_1Guitar_4_Player,62930305125,Não sei muito sobre música...
+Dialogs_Intro_15_5_1Guitar_5_Player,62930305126,"Eu só gosto de tocar violão, só isso."
+Dialogs_Intro_15_5_1Guitar_6_Sarah,62930305127,"Ah, então você é um guitarrista autodidata?"
 Dialogs_Intro_15_5_1Guitar_7_Player,62930305128,Sim
-Dialogs_Intro_15_5_1Guitar_8_Sarah,62930305129,That's really impressive
-Dialogs_Intro_15_5_1Guitar_9_Sarah,62930305130,I would like to hear you play
-Dialogs_Intro_15_5_1Guitar_10_Sarah,62934499328,But judging by the small bag you had with you...
-Dialogs_Intro_15_5_1Guitar_11_Sarah,62934499329,I guess you don't have your guitar with you
+Dialogs_Intro_15_5_1Guitar_8_Sarah,62930305129,Isso é realmente impressionante.
+Dialogs_Intro_15_5_1Guitar_9_Sarah,62930305130,Gostaria de ouvir você tocar
+Dialogs_Intro_15_5_1Guitar_10_Sarah,62934499328,"Mas, a julgar pela pequena bolsa que você trazia consigo..."
+Dialogs_Intro_15_5_1Guitar_11_Sarah,62934499329,Acho que você não está com seu violão
 Dialogs_Intro_15_5_1Guitar_12_Player,62934499330,Não
-Dialogs_Intro_15_5_1Guitar_13_Sarah,62934499331,Well... maybe we'll find a guitar here in a town
-Dialogs_Intro_15_5_1Guitar_14_Sarah,62934499332,You can talk to Lisa later
-Dialogs_Intro_15_5_1Guitar_15_Sarah,62934499333,She's the musician in our family
-Dialogs_Intro_15_5_1Guitar_16_Sarah,62934499334,Maybe you could borrow one from her friends
+Dialogs_Intro_15_5_1Guitar_13_Sarah,62934499331,Bem... talvez encontremos uma guitarra aqui na cidade.
+Dialogs_Intro_15_5_1Guitar_14_Sarah,62934499332,Você pode falar com a Lisa mais tarde
+Dialogs_Intro_15_5_1Guitar_15_Sarah,62934499333,Ela é a musicista da nossa família
+Dialogs_Intro_15_5_1Guitar_16_Sarah,62934499334,Talvez você possa pedir um emprestado às amigas dela
 Dialogs_Intro_15_5_1Guitar_17_Player,62934499335,Ok...
-Dialogs_Intro_15_5_2Study_0_Player,62934499336,I studied Computer Science at the local university
-Dialogs_Intro_15_5_2Study_1_Player,62934499337,Had to take a break though... after the recent events
+Dialogs_Intro_15_5_2Study_0_Player,62934499336,Estudei Ciência da Computação na universidade local
+Dialogs_Intro_15_5_2Study_1_Player,62934499337,Tive que fazer uma pausa... depois dos recentes acontecimentos
 Dialogs_Intro_15_5_2Study_2_Sarah,62934499338,Ah...
-Dialogs_Intro_15_5_2Study_3_Sarah,62934499339,Emma told about your father
-Dialogs_Intro_15_5_2Study_4_Sarah,62934499340,We're sorry
-Dialogs_Intro_15_5_2Study_5_Player,62934499341,It's alright...
-Dialogs_Intro_15_5_2Study_6_Sarah,62934499342,Did you take an academic break?
+Dialogs_Intro_15_5_2Study_3_Sarah,62934499339,Emma falou sobre o seu pai.
+Dialogs_Intro_15_5_2Study_4_Sarah,62934499340,Lamentamos
+Dialogs_Intro_15_5_2Study_5_Player,62934499341,Tudo bem...
+Dialogs_Intro_15_5_2Study_6_Sarah,62934499342,Você tirou uma licença acadêmica?
 Dialogs_Intro_15_5_2Study_7_Player,62934499343,Não...
-Dialogs_Intro_15_5_2Study_8_Player,62934499344,I just left the university
-Dialogs_Intro_15_5_2Study_9_Sarah,62934499345,Why not an academic break instead?
-Dialogs_Intro_15_5_2Study_10_Player,62934499346,I had enough of that uni
-Dialogs_Intro_15_5_2Study_11_Player,62934499347,I didn't have fun at all and fathers death...
-Dialogs_Intro_15_5_2Study_12_Player,62934499348,"... well, that doesn't matter now..."
-Dialogs_Intro_15_5_2Study_13_Player,62934499349,It was a mistake and I admit it
-Dialogs_Intro_15_5_2Study_14_Sarah,62934499350,Wait... Emma told me that you plan to attend our university in town
-Dialogs_Intro_15_5_2Study_15_Sarah,62934499351,Is that so?
-Dialogs_Intro_15_5_2Study_16_Player,62934499352,"I don't know yet... It's what mom wants... "
-Dialogs_Intro_15_5_2Study_17_Player,62934499353,But I'm not sure if it's what I need...
-Dialogs_Intro_15_5_2Study_18_Sarah,62934499354,I guess you'll have to find that out by yourself...
-Dialogs_Intro_15_5_2Study_19_Player,62934499355,I guess I do...
+Dialogs_Intro_15_5_2Study_8_Player,62934499344,Acabei de sair da universidade
+Dialogs_Intro_15_5_2Study_9_Sarah,62934499345,Por que não uma pausa acadêmica?
+Dialogs_Intro_15_5_2Study_10_Player,62934499346,Eu já estava farto daquela universidade
+Dialogs_Intro_15_5_2Study_11_Player,62934499347,Não me diverti nada e a morte do meu pai...
+Dialogs_Intro_15_5_2Study_12_Player,62934499348,"... bem, isso agora não importa..."
+Dialogs_Intro_15_5_2Study_13_Player,62934499349,Foi um erro e eu admito isso
+Dialogs_Intro_15_5_2Study_14_Sarah,62934499350,Espere... Emma me disse que você planeja estudar na nossa universidade na cidade
+Dialogs_Intro_15_5_2Study_15_Sarah,62934499351,É mesmo?
+Dialogs_Intro_15_5_2Study_16_Player,62934499352,"Ainda não sei... É o que a minha mãe quer... "
+Dialogs_Intro_15_5_2Study_17_Player,62934499353,Mas não tenho certeza se é o que eu preciso...
+Dialogs_Intro_15_5_2Study_18_Sarah,62934499354,Acho que você terá que descobrir isso por conta própria...
+Dialogs_Intro_15_5_2Study_19_Player,62934499355,Acho que sim...
 Dialogs_Intro_15_5_3Gym_0_Player,62934499356,Há alguma academia por perto?
-Dialogs_Intro_15_5_3Gym_1_Sarah,62934499357,"So you like lifting some iron, huh?"
-Dialogs_Intro_15_5_3Gym_2_Sarah,62934499358,"I guess your body speaks for itself, haha"
-Dialogs_Intro_15_5_3Gym_3_Lucy,62934499359,Of course there is a gym in our town
-Dialogs_Intro_15_5_3Gym_4_Lucy,62934499360,You can talk to me later about that...
-Dialogs_Intro_15_5_3Gym_5_Lucy,62934499361,Maybe we could even work out together if you can handle the load
+Dialogs_Intro_15_5_3Gym_1_Sarah,62934499357,"Então você gosta de pegar ferro, né?"
+Dialogs_Intro_15_5_3Gym_2_Sarah,62934499358,"Acho que seu corpo fala por si mesmo, haha"
+Dialogs_Intro_15_5_3Gym_3_Lucy,62934499359,É claro que há uma academia em nossa cidade
+Dialogs_Intro_15_5_3Gym_4_Lucy,62934499360,Você pode falar comigo sobre isso mais tarde...
+Dialogs_Intro_15_5_3Gym_5_Lucy,62934499361,"Talvez pudéssemos até malhar juntos, se você aguentar o ritmo"
 Dialogs_Intro_15_6ContChat_0_Sarah,62934499362,Tudo bem...
-Dialogs_Intro_15_6ContChat_1_Lucy,62934499363,"Hey by the way, dad..."
-Dialogs_Intro_15_6ContChat_2_Lucy,62934499364,There's a party today at the university...
-Dialogs_Intro_15_6ContChat_3_Benjamin,62934499365,Is it organized by the university itself?
-Dialogs_Intro_15_6ContChat_4_Lucy,62934499366,"No, but..."
-Dialogs_Intro_15_6ContChat_5_Benjamin,62934499367,Then you're not going anywhere
-Dialogs_Intro_15_6ContChat_6_Benjamin,62934499368,"Instead of partying, you’d better study for the next exam"
+Dialogs_Intro_15_6ContChat_1_Lucy,62934499363,"A propósito, pai..."
+Dialogs_Intro_15_6ContChat_2_Lucy,62934499364,Hoje tem uma festa na universidade...
+Dialogs_Intro_15_6ContChat_3_Benjamin,62934499365,É organizado pela própria universidade?
+Dialogs_Intro_15_6ContChat_4_Lucy,62934499366,"Não, mas..."
+Dialogs_Intro_15_6ContChat_5_Benjamin,62934499367,Então você não vai a lugar algum
+Dialogs_Intro_15_6ContChat_6_Benjamin,62934499368,"Em vez de sair para festas, é melhor estudar para a próxima prova"
 Dialogs_Intro_15_6ContChat_7_Lucy,62934499369,Mas...
-Dialogs_Intro_15_6ContChat_8_Lucy,62934499370,But I'm already old enough to decide for myself!
-Dialogs_Intro_15_6ContChat_8_Lisa,62934499371,Sis...
-Dialogs_Intro_15_6ContChat_9_Benjamin,62934499372,"As long as you're living under my roof, I'll be deciding what you will and will not do!"
-Dialogs_Intro_15_6ContChat_10_Lucy,62934499373,You're so... <shake>Ugh!</shake>
-Dialogs_Intro_16LucyGoesAway_0_Lucy,62934499374,"I'll still go, no matter what you say"
-Dialogs_Intro_16LucyGoesAway_1_Benjamin,62934499375,"If you go, there will be consequences!"
+Dialogs_Intro_15_6ContChat_8_Lucy,62934499370,Mas já tenho idade suficiente para decidir por mim mesma!
+Dialogs_Intro_15_6ContChat_8_Lisa,62934499371,Mana...
+Dialogs_Intro_15_6ContChat_9_Benjamin,62934499372,"Enquanto você estiver morando sob meu teto, serei eu quem decidirá o que você fará ou não!"
+Dialogs_Intro_15_6ContChat_10_Lucy,62934499373,Você é tão... <shake>Ugh!</shake>
+Dialogs_Intro_16LucyGoesAway_0_Lucy,62934499374,"Eu ainda vou, não importa o que você diga"
+Dialogs_Intro_16LucyGoesAway_1_Benjamin,62934499375,"Se você for, haverá consequências!"
 Dialogs_Intro_16LucyGoesAway_2_Lucy,62934499376,Não me importo
-Dialogs_Intro_16LucyGoesAway_3_Sarah,62934499377,"Where are you going, Lucy? You haven't touched your food"
-Dialogs_Intro_16LucyGoesAway_4_Lucy,62934499378,I'm not hungry!
-Dialogs_Intro_16LucyGoesAway_5_Benjamin,62934499379,"Watch your tone when speaking to your mom, young lady!"
-Dialogs_Intro_16_1ContinueAfterLucyLeave_0_Player,62934499380,"""Damn, she has some nerve"""
-Dialogs_Intro_16_1ContinueAfterLucyLeave_1_Sarah,62934499381,She is right... we shouldn't be so strict with her
-Dialogs_Intro_16_1ContinueAfterLucyLeave_2_Benjamin,62934499382,"No, she should learn some respect when talking to her parents"
-Dialogs_Intro_16_1ContinueAfterLucyLeave_3_Benjamin,62934499383,She should be happy I didn't ground her for the way she spoke to me
-Dialogs_Intro_16_1ContinueAfterLucyLeave_4_Sarah,62934499384,"I don't know, she's 23 after all..."
-Dialogs_Intro_16_1ContinueAfterLucyLeave_5_Benjamin,62934499385,This does not matter...
-Dialogs_Intro_16_1ContinueAfterLucyLeave_6_Player,62934499386,"""Didn't know that Benjamin was so controlling"""
-Dialogs_Intro_16_1ContinueAfterLucyLeave_7_Lisa,62934499387,I guess I'll go talk to her
-Dialogs_Intro_16_1ContinueAfterLucyLeave_8_Sarah,62934499388,But you didn't touch your food either
-Dialogs_Intro_16_1ContinueAfterLucyLeave_9_Lisa,62934499389,I actually had some food earlier. I'm not hungry
-Dialogs_Intro_16_1ContinueAfterLucyLeave_10_Sarah,62934499390,Ok then...
-Dialogs_Intro_16_2LisaLeaves_0_Sarah,62934499391,Sorry about what happened
-Dialogs_Intro_16_2LisaLeaves_1_Sarah,62934499392,You shouldn't have seen it
-Dialogs_Intro_16_2LisaLeaves_2_Player,62934499393,It's fine. It's your home so don't mind me.
-Dialogs_Intro_16_2LisaLeaves_3_Sarah,62934499394,Let's eat now then
+Dialogs_Intro_16LucyGoesAway_3_Sarah,62934499377,"Aonde você vai, Lucy? Você não tocou na comida"
+Dialogs_Intro_16LucyGoesAway_4_Lucy,62934499378,Não estou com fome!
+Dialogs_Intro_16LucyGoesAway_5_Benjamin,62934499379,"Cuidado com o tom de voz quando falar com sua mãe, moça!"
+Dialogs_Intro_16_1ContinueAfterLucyLeave_0_Player,62934499380,"“Caramba, ela tem coragem.”"
+Dialogs_Intro_16_1ContinueAfterLucyLeave_1_Sarah,62934499381,Ela está certa... não devemos ser tão rígidos com ela
+Dialogs_Intro_16_1ContinueAfterLucyLeave_2_Benjamin,62934499382,"Não, ela deveria aprender a ter respeito ao falar com os pais"
+Dialogs_Intro_16_1ContinueAfterLucyLeave_3_Benjamin,62934499383,Ela deveria estar feliz por eu não tê-la castigado pela maneira como falou comigo
+Dialogs_Intro_16_1ContinueAfterLucyLeave_4_Sarah,62934499384,"Não sei, afinal ela tem 23 anos..."
+Dialogs_Intro_16_1ContinueAfterLucyLeave_5_Benjamin,62934499385,Isso não importa...
+Dialogs_Intro_16_1ContinueAfterLucyLeave_6_Player,62934499386,"""Não sabia que o Benjamin era tão controlador"""
+Dialogs_Intro_16_1ContinueAfterLucyLeave_7_Lisa,62934499387,Acho que vou falar com ela
+Dialogs_Intro_16_1ContinueAfterLucyLeave_8_Sarah,62934499388,Mas você também não tocou na sua comida
+Dialogs_Intro_16_1ContinueAfterLucyLeave_9_Lisa,62934499389,"Na verdade, já comi alguma coisa há pouco. Não estou com fome"
+Dialogs_Intro_16_1ContinueAfterLucyLeave_10_Sarah,62934499390,"Tudo bem, então..."
+Dialogs_Intro_16_2LisaLeaves_0_Sarah,62934499391,Desculpe pelo que aconteceu
+Dialogs_Intro_16_2LisaLeaves_1_Sarah,62934499392,Você não deveria ter visto isso
+Dialogs_Intro_16_2LisaLeaves_2_Player,62934499393,"Tudo bem. A casa é sua, então não se preocupe comigo."
+Dialogs_Intro_16_2LisaLeaves_3_Sarah,62934499394,"Vamos comer agora, então"
 Dialogs_Intro_16_2LisaLeaves_4_Benjamin,62934499395,Bom apetite!
 Dialogs_Intro_16_2LisaLeaves_4_Player,62934499396,Bom apetite!
-Dialogs_Intro_16_3AfterEat_0_Player,62934499397,The food was amazing.
-Dialogs_Intro_16_3AfterEat_1_Benjamin,62934499398,"I agree with @{player}, darling"
-Dialogs_Intro_16_3AfterEat_2_Benjamin,62934499399,"The food was delicious, as always"
-Dialogs_Intro_16_3AfterEat_3_Sarah,62934499400,Thank you guys
-Dialogs_Intro_16_3AfterEat_4_Sarah,62934499401,I'll take the plates
-Dialogs_Intro_16_3AfterEat_5_Player,62934499402,"""Maybe I should suggest my help with that"""
-Dialogs_Intro_16_4LetMeHelp_0_Player,62934499403,Let me help you with the plates
-Dialogs_Intro_16_4LetMeHelp_1_Sarah,62934499404,"Oh, that's very nice of you"
-Dialogs_Intro_16_4LetMeHelp_2_Sarah,62934499405,"But I got this, thank you"
-Dialogs_Intro_16_4LetMeHelp_3_Sarah,62934499406,You must be really tired of the long road you had before
-Dialogs_Intro_16_4LetMeHelp_4_Player,62934499407,I am not. Let me at least help you with cleaning the dishes.
-Dialogs_Intro_16_4LetMeHelp_5_Sarah,62934499408,"If you want to help me that badly, then okay"
-Dialogs_Intro_16_4LetMeHelp_6_Sarah,62934499409,Just let me get those plates to the sink
-Dialogs_Intro_16_4LetMeHelp_7_Sarah,62934499410,I'll be waiting for you there
-Dialogs_Intro_17_HelpSarah_0_Sarah,62934499411,Thank you for agreeing to help me
-Dialogs_Intro_17_HelpSarah_1_Sarah,62934499412,Here's the sink with plates
-Dialogs_Intro_17_HelpSarah_2_Sarah,62934499413,I guess I don't need to show you what to do
-Dialogs_Intro_17_HelpSarah_3_Player,62934499414,"Yeah, I got this."
+Dialogs_Intro_16_3AfterEat_0_Player,62934499397,A comida estava incrível.
+Dialogs_Intro_16_3AfterEat_1_Benjamin,62934499398,"Concordo com @{player}, querida."
+Dialogs_Intro_16_3AfterEat_2_Benjamin,62934499399,"A comida estava deliciosa, como sempre"
+Dialogs_Intro_16_3AfterEat_3_Sarah,62934499400,"Valeu, gente."
+Dialogs_Intro_16_3AfterEat_4_Sarah,62934499401,Vou levar os pratos
+Dialogs_Intro_16_3AfterEat_5_Player,62934499402,"""Talvez eu devesse oferecer minha ajuda com isso"""
+Dialogs_Intro_16_4LetMeHelp_0_Player,62934499403,Eu vou ajudá-lo com os pratos
+Dialogs_Intro_16_4LetMeHelp_1_Sarah,62934499404,"Ah, que gentileza sua!"
+Dialogs_Intro_16_4LetMeHelp_2_Sarah,62934499405,"Mas eu cuido disso, obrigado"
+Dialogs_Intro_16_4LetMeHelp_3_Sarah,62934499406,Você deve estar realmente cansado da longa estrada que percorreu até agora
+Dialogs_Intro_16_4LetMeHelp_4_Player,62934499407,Não estou. Deixe-me pelo menos ajudá-lo a lavar a louça
+Dialogs_Intro_16_4LetMeHelp_5_Sarah,62934499408,"Se você quer tanto me ajudar, tudo bem"
+Dialogs_Intro_16_4LetMeHelp_6_Sarah,62934499409,Apenas me deixe levar esses pratos para a pia
+Dialogs_Intro_16_4LetMeHelp_7_Sarah,62934499410,Estarei esperando por você lá
+Dialogs_Intro_17_HelpSarah_0_Sarah,62934499411,Obrigado por concordar em me ajudar
+Dialogs_Intro_17_HelpSarah_1_Sarah,62934499412,Aqui está a pia com os pratos
+Dialogs_Intro_17_HelpSarah_2_Sarah,62934499413,Acho que não preciso mostrar o que fazer
+Dialogs_Intro_17_HelpSarah_3_Player,62934499414,"Sim, eu cuido."
 Dialogs_Intro_17_HelpSarah_4_Sarah,62934499415,Bom
-Dialogs_Intro_17_HelpSarah_5_Sarah,62934499416,Then I'll be on my way
-Dialogs_Intro_17_HelpSarah_6_Sarah,62934499417,I still need to find some bed sheets for you
-Dialogs_Intro_17_HelpSarah_7_Sarah,62934499418,Forgot to do that earlier
-Dialogs_Intro_17_HelpSarah_8_Sarah,62934499419,Have fun
+Dialogs_Intro_17_HelpSarah_5_Sarah,62934499416,Então vou seguir meu caminho
+Dialogs_Intro_17_HelpSarah_6_Sarah,62934499417,Ainda preciso encontrar alguns lençóis para você
+Dialogs_Intro_17_HelpSarah_7_Sarah,62934499418,Esqueci de fazer isso antes
+Dialogs_Intro_17_HelpSarah_8_Sarah,62934499419,Divirta-se
 Dialogs_Intro_17_HelpSarah_9_Player,62934499420,Obrigado
-Dialogs_Intro_18_AfterWashing_0_Player,62934499421,"""I’m done here"""
-Dialogs_Intro_18_AfterWashing_1_Player,62934499422,"""Let’s go check out my new room. Sarah must’ve found the bed sheets by now"""
-Dialogs_Intro_19_LookAtSarah_0_Player,62934499423,"""Wow... look at this"""
-Dialogs_Intro_19_LookAtSarah_1_Player,62934499424,"""Despite her age, she has maintained her shape really well"""
-Dialogs_Intro_19_LookAtSarah_2_Player,62934499425,"""Maybe I can take a closer look"""
+Dialogs_Intro_18_AfterWashing_0_Player,62934499421,"“Já terminei aqui"""
+Dialogs_Intro_18_AfterWashing_1_Player,62934499422,"""Vamos dar uma olhada no meu novo quarto. A Sarah já deve ter encontrado os lençóis"""
+Dialogs_Intro_19_LookAtSarah_0_Player,62934499423,“Uau... olha só isso”
+Dialogs_Intro_19_LookAtSarah_1_Player,62934499424,"""Apesar da idade, ela manteve a forma muito bem"""
+Dialogs_Intro_19_LookAtSarah_2_Player,62934499425,"""Talvez eu possa dar uma olhada mais de perto"""
 Dialogs_Intro_20_SarahSeesYou_0_Sarah,62934499426,Hm?
-Dialogs_Intro_20_SarahSeesYou_1_Sarah,62934499427,"Ah, it's you @{player}"
-Dialogs_Intro_21_SarahContinues_0_Sarah,62934499428,Trying to scare me?
-Dialogs_Intro_21_SarahContinues_1_Player,62934499429,"""Mission failed"""
-Dialogs_Intro_21_SarahContinues_2_Sarah,62934499430,You’ve got sneaky feet
-Dialogs_Intro_21_SarahContinues_3_Sarah,62934499431,Didn't hear you coming
-Dialogs_Intro_21_SarahContinues_4_Player,62934499432,I'm sorry. I didn't mean to scare you.
-Dialogs_Intro_21_SarahContinues_5_Sarah,62934499433,No problem
-Dialogs_Intro_21_SarahContinues_6_Sarah,62934499434,Just keep in mind that I am a scaredy-cat
-Dialogs_Intro_21_SarahContinues_7_Sarah,62934499435,So don’t sneak up on me unless you want my heart to jump out of my chest
-Dialogs_Intro_21_SarahContinues_8_Player,62934499436,I'll keep it in mind next time
+Dialogs_Intro_20_SarahSeesYou_1_Sarah,62934499427,"Ah, é você @{player}"
+Dialogs_Intro_21_SarahContinues_0_Sarah,62934499428,Tentando me assustar?
+Dialogs_Intro_21_SarahContinues_1_Player,62934499429,“Missão falhou”
+Dialogs_Intro_21_SarahContinues_2_Sarah,62934499430,Você tem pés sorrateiros
+Dialogs_Intro_21_SarahContinues_3_Sarah,62934499431,Não ouvi você chegar
+Dialogs_Intro_21_SarahContinues_4_Player,62934499432,Desculpe. Não queria assustá-la
+Dialogs_Intro_21_SarahContinues_5_Sarah,62934499433,Sem problemas
+Dialogs_Intro_21_SarahContinues_6_Sarah,62934499434,Lembre-se de que sou um medrosa
+Dialogs_Intro_21_SarahContinues_7_Sarah,62934499435,"Então não se aproxime sorrateiramente de mim, a menos que queira que meu coração saia pela boca"
+Dialogs_Intro_21_SarahContinues_8_Player,62934499436,Vou lembrar disso da próxima vez
 Dialogs_Intro_21_SarahContinues_9_Sarah,62934499437,Obrigado
-Dialogs_Intro_21_SarahContinues_10_Sarah,62934499438,"So, here are the bed sheets"
-Dialogs_Intro_21_SarahContinues_11_Sarah,62934499439,I should have thought of them earlier
-Dialogs_Intro_21_SarahContinues_12_Sarah,62934499440,But I guess it just slipped out of my mind while I was cleaning up the dust in this room
-Dialogs_Intro_21_SarahContinues_13_Player,62934499441,"It's alright, I wasn’t that tired anyway"
-Dialogs_Intro_21_SarahContinues_14_Sarah,62934499442,Well... now you can have some proper rest
-Dialogs_Intro_21_SarahContinues_15_Sarah,62934499443,I have to do some laundry...
-Dialogs_Intro_21_SarahContinues_16_Sarah,62934499444,"If you'll need anything, you can find me somewhere around the house"
-Dialogs_Intro_21_SarahContinues_17_Sarah,62938693632,Enjoy your new room
-Dialogs_Intro_22_Resting_0_Story_0,62938693633,"While resting on the bed, you close your eyes for a little"
-Dialogs_Intro_22_Resting_1_Story_0,62938693634,But some discomfort prevents you from fully enjoying your rest
-Dialogs_Intro_22_Resting_2_Story_0,62938693635,A natural urge forces you to open your eyes and go to the restroom
-Dialogs_Intro_22_Resting_3_Story_0,62938693636,"You finally make it to the bathroom. A few quick moves with your pants, and you’re already relieving yourself"
-Dialogs_Intro_22_Resting_4_Story_0,62938693637,"But somehow, the desired feeling of relief is not coming to your body..."
-Dialogs_Intro_22_Resting_5_Story_0,62938693638,And you also notice that it's taking longer than usual
-Dialogs_Intro_22_Resting_6_Story_0,62938693639,"After standing in front of the toilet for about a minute now, you feel that the urge to urinate hasn't disappeared..."
-Dialogs_Intro_22_Resting_7_Story_0,62938693640,It even got worse
-Dialogs_Intro_22_Resting_8_Player,62938693641,"""Something is off here..."""
-Dialogs_Intro_22_Resting_9_Player,62938693642,"""Wait..."""
-Dialogs_Intro_23_PlayerWakeUp_0_Player,62938693643,Sigh...
-Dialogs_Intro_23_PlayerWakeUp_1_Player,62938693644,Thank god my pants are dry.
-Dialogs_Intro_23_PlayerWakeUp_2_Player,62938693645,What a realistic dream it was.
-Dialogs_Intro_23_PlayerWakeUp_3_Player,62938693646,"How fortunate that my """"soldier"""" did not believe the dream and fought to the end..."
-Dialogs_Intro_23_PlayerWakeUp_4_Player,62938693647,Not letting a single drop through... I'm proud of you T-T
-Dialogs_Intro_23_PlayerWakeUp_5_Player,62938693648,Let's get to the bathroom now.
-Dialogs_Intro_23_1PlayerGetUp_0_Player,62938693649,"""Alright... now let's got to the bathroom"""
-Dialogs_Intro_23_1PlayerGetUp_1_Player,62938693650,"""If I remember correctly, it should be the room where Benjamin came out from when we met today"""
+Dialogs_Intro_21_SarahContinues_10_Sarah,62934499438,"Então, aqui estão os lençóis"
+Dialogs_Intro_21_SarahContinues_11_Sarah,62934499439,Eu deveria ter pensado neles mais cedo
+Dialogs_Intro_21_SarahContinues_12_Sarah,62934499440,Mas acho que me deu um branco enquanto eu limpava a poeira deste quarto.
+Dialogs_Intro_21_SarahContinues_13_Player,62934499441,"Tudo bem, eu não estava tão cansado assim"
+Dialogs_Intro_21_SarahContinues_14_Sarah,62934499442,Bem... agora você pode descansar de verdade
+Dialogs_Intro_21_SarahContinues_15_Sarah,62934499443,Tenho que lavar roupa...
+Dialogs_Intro_21_SarahContinues_16_Sarah,62934499444,"Se precisar de alguma coisa, pode me encontrar em algum lugar da casa"
+Dialogs_Intro_21_SarahContinues_17_Sarah,62938693632,Aproveite seu novo quarto
+Dialogs_Intro_22_Resting_0_Story_0,62938693633,"Enquanto descansa na cama, você fecha os olhos por um momento"
+Dialogs_Intro_22_Resting_1_Story_0,62938693634,Mas algum desconforto impede você de aproveitar plenamente o seu descanso.
+Dialogs_Intro_22_Resting_2_Story_0,62938693635,Um impulso natural o obriga a abrir os olhos e ir ao banheiro
+Dialogs_Intro_22_Resting_3_Story_0,62938693636,Você finalmente chega ao banheiro. Alguns movimentos rápidos com suas calças e você já está se aliviando.
+Dialogs_Intro_22_Resting_4_Story_0,62938693637,"Mas, de alguma forma, a sensação desejada de alívio não está chegando ao seu corpo..."
+Dialogs_Intro_22_Resting_5_Story_0,62938693638,E você também percebe que está demorando mais do que o normal
+Dialogs_Intro_22_Resting_6_Story_0,62938693639,"Depois de ficar em frente ao vaso sanitário por cerca de um minuto, você sente que a vontade de urinar não desapareceu..."
+Dialogs_Intro_22_Resting_7_Story_0,62938693640,Ficou ainda pior
+Dialogs_Intro_22_Resting_8_Player,62938693641,"""“Algo está errado aqui...”"
+Dialogs_Intro_22_Resting_9_Player,62938693642,“Espere...”
+Dialogs_Intro_23_PlayerWakeUp_0_Player,62938693643,Suspiro...
+Dialogs_Intro_23_PlayerWakeUp_1_Player,62938693644,Graças a Deus minhas calças estão secas.
+Dialogs_Intro_23_PlayerWakeUp_2_Player,62938693645,Que sonho realista foi esse.
+Dialogs_Intro_23_PlayerWakeUp_3_Player,62938693646,Que sorte que meu “soldado” não acreditou no sonho e lutou até o fim...
+Dialogs_Intro_23_PlayerWakeUp_4_Player,62938693647,Não deixando passar nem uma gota... Estou orgulhoso de você T-T
+Dialogs_Intro_23_PlayerWakeUp_5_Player,62938693648,Vamos ao banheiro agora.
+Dialogs_Intro_23_1PlayerGetUp_0_Player,62938693649,“Tudo bem... agora vamos ao banheiro.”
+Dialogs_Intro_23_1PlayerGetUp_1_Player,62938693650,"""Se não me falha a memória, deve ser a sala de onde o Benjamin saiu quando a gente se encontrou hoje"""
 Dialogs_Intro_23_2SarahsDoorSeen_0_Player,62938693651,Hum?
-Dialogs_Intro_23_2SarahsDoorSeen_1_Player,62938693652,"""Sarah's door is slightly opened"""
-Dialogs_Intro_23_2SarahsDoorSeen_2_Player,62938693653,"""Let's go check on her"""
-Dialogs_Intro_24_1LucyCatches_0_Lucy,62938693654,"Enjoying the show, perv?"
+Dialogs_Intro_23_2SarahsDoorSeen_1_Player,62938693652,"""A porta da Sarah está ligeiramente aberta."""
+Dialogs_Intro_23_2SarahsDoorSeen_2_Player,62938693653,"""Vamos ver como ela está"""
+Dialogs_Intro_24_1LucyCatches_0_Lucy,62938693654,"Está gostando do espetáculo, pervertido?"
 Dialogs_Intro_24_1LucyCatches_1_Player,62938693655,"Eai, Lucy"
-Dialogs_Intro_24_1LucyCatches_2_Player,62938693656,It is not what it seems to be...
-Dialogs_Intro_24_1LucyCatches_3_Lucy,62938693657,Yeah? Wanna tell me you were on the way to the toilet...
-Dialogs_Intro_24_1LucyCatches_4_Lucy,62938693658,And got lost?
-Dialogs_Intro_24_1LucyCatches_5_Player,62938693659,Well actually...
-Dialogs_Intro_24_1LucyCatches_6_Lucy,62938693660,"Shut up, you idiot!"
-Dialogs_Intro_24_1LucyCatches_7_Lucy,62938693661,"You don't want them to hear us, do you?"
-Dialogs_Intro_24_1LucyCatches_8_Lucy,62938693662,"Go to my room, now"
-Dialogs_Intro_24_1LucyCatches_9_Player,62938693663,"""I just don't know how I'm going to untangle this mess I've gotten myself into"""
+Dialogs_Intro_24_1LucyCatches_2_Player,62938693656,Não é o que parece...
+Dialogs_Intro_24_1LucyCatches_3_Lucy,62938693657,É mesmo? Quer me dizer que estava a caminho do banheiro...
+Dialogs_Intro_24_1LucyCatches_4_Lucy,62938693658,E se perdeu?
+Dialogs_Intro_24_1LucyCatches_5_Player,62938693659,"Bem, na verdade..."
+Dialogs_Intro_24_1LucyCatches_6_Lucy,62938693660,"Cale a boca, idiota!"
+Dialogs_Intro_24_1LucyCatches_7_Lucy,62938693661,"Você não quer que eles nos ouçam, quer?"
+Dialogs_Intro_24_1LucyCatches_8_Lucy,62938693662,"Vá para o meu quarto, agora"
+Dialogs_Intro_24_1LucyCatches_9_Player,62938693663,"“Não sei como vou resolver essa confusão em que me meti"""
 Dialogs_Intro_24_SarahRoom_0_Player,62938693664,"""Holly..."""
-Dialogs_Intro_24_SarahRoom_1_Player,62938693665,"""I believe I chose the wrong time to check on them..."""
-Dialogs_Intro_24_SarahRoom_2_Player,62938693666,"""But I definitely don't regret it..."""
+Dialogs_Intro_24_SarahRoom_1_Player,62938693665,"""Acho que escolhi o momento errado para ir ver como eles estavam..."""
+Dialogs_Intro_24_SarahRoom_2_Player,62938693666,"""Mas definitivamente não me arrependo..."""
 Dialogs_Intro_24_SarahRoom_3_Sarah,62938693667,Honey...
 Dialogs_Intro_24_SarahRoom_4_Benjamin,62938693668,Hm?
-Dialogs_Intro_24_SarahRoom_5_Sarah,62938693669,"Look at me, honey"
-Dialogs_Intro_24_SarahRoom_6_Benjamin,62938693670,"Sarah, you know that I'm tired... let me sleep"
-Dialogs_Intro_24_SarahRoom_7_Benjamin,62938693671,I had a rough week
+Dialogs_Intro_24_SarahRoom_5_Sarah,62938693669,"Olhe para mim, querido"
+Dialogs_Intro_24_SarahRoom_6_Benjamin,62938693670,"Sarah, você sabe que estou cansado... deixe-me dormir."
+Dialogs_Intro_24_SarahRoom_7_Benjamin,62938693671,Tive uma semana difícil
 Dialogs_Intro_24_SarahRoom_8_Sarah,62938693672,"Sim, eu sei."
-Dialogs_Intro_24_SarahRoom_9_Sarah,62938693673,I want you to relax a little
-Dialogs_Intro_24_SarahRoom_10_Sarah,62938693674,"Open your eyes, darling"
-Dialogs_Intro_24_SarahRoom_11_Benjamin,62938693675,"Cut it off, Sarah"
-Dialogs_Intro_24_SarahRoom_12_Benjamin,62938693676,I am tired
+Dialogs_Intro_24_SarahRoom_9_Sarah,62938693673,Quero que relaxe um pouco
+Dialogs_Intro_24_SarahRoom_10_Sarah,62938693674,"Abra os olhos, querido"
+Dialogs_Intro_24_SarahRoom_11_Benjamin,62938693675,"Pare com isso, Sarah"
+Dialogs_Intro_24_SarahRoom_12_Benjamin,62938693676,Estou cansado
 Dialogs_Intro_24_SarahRoom_13_Sarah,62938693677,Mas...
-Dialogs_Intro_24_SarahRoom_14_Player,62938693678,"""Is he crazy, denying a woman with a body like that"""
+Dialogs_Intro_24_SarahRoom_14_Player,62938693678,"“Ele é louco, recusar uma mulher com um corpo assim?”"
 Dialogs_Intro_24_SarahRoom_15_Lucy,62938693679,ahem
-Dialogs_Intro_24_SarahRoom_16_Player,62938693680,"""Shit..."""
-Dialogs_Intro_25_LucyRoom_0_Player,62938693681,"Hey, look..."
-Dialogs_Intro_25_LucyRoom_1_Lucy,62938693682,<shake>Shut up!</shake>
+Dialogs_Intro_24_SarahRoom_16_Player,62938693680,“Merda...”
+Dialogs_Intro_25_LucyRoom_0_Player,62938693681,"Ei, olha..."
+Dialogs_Intro_25_LucyRoom_1_Lucy,62938693682,<shake>Cale a boca!!!</shake>
 Dialogs_Intro_25_LucyRoom_2_Lucy,62938693683,"Look at you, you little perv"
 Dialogs_Intro_25_LucyRoom_3_Lucy,62938693684,You're not even trying to hide your boner
 Dialogs_Intro_25_LucyRoom_4_Lucy,62938693685,Don't even want to hear your pathetic excuses
@@ -763,7 +763,7 @@ Dialogs_Intro_25_LucyRoom_13_Lucy,62938693694,Ah... got an idea!
 Dialogs_Intro_25_LucyRoom_14_Lucy,62938693695,Money could keep my mouth shut
 Dialogs_Intro_25_LucyRoom_15_Player,62938693696,"Você está falando sério? "
 Dialogs_Intro_25_LucyRoom_16_Lucy,62938693697,200... now
-Dialogs_Intro_25_LucyRoom_17_Player,62938693698,<shake>How much!?</shake> Why would I have that much cash on me on my way to the toilet?
+Dialogs_Intro_25_LucyRoom_17_Player,62938693698,<shake>Quanto!?</shake>  Por que eu teria tanto dinheiro comigo a caminho do banheiro?
 Dialogs_Intro_25_LucyRoom_18_Lucy,62938693699,You mean on your way to perv on my mom
 Dialogs_Intro_25_LucyRoom_19_Lucy,62938693700,Tudo bem...
 Dialogs_Intro_25_LucyRoom_20_Lucy,62938693701,I'll give you a few minutes to go to your room and get the cash
@@ -784,12 +784,12 @@ Dialogs_Intro_25_LucyRoom_34_Lucy,62938693715,You better not ignore me!
 Dialogs_Intro_25_LucyRoom_35_Player,62938693716,You know what... I am not going to pay you shit
 Dialogs_Intro_25_LucyRoom_36_Player,62938693717,"""She definitely didn’t see that answer coming"""
 Dialogs_Intro_25_LucyRoom_36_Lucy,62938693718,.   .   .
-Dialogs_Intro_25_LucyRoom_37_Lucy,62938693719,Then I wish you good luck explaining to my father what you were doing by the bedroom door at night
+Dialogs_Intro_25_LucyRoom_37_Lucy,62938693719,Então desejo boa sorte para explicar ao meu pai o que você estava fazendo perto da porta do quarto à noite.
 Dialogs_Intro_25_LucyRoom_38_Player,62938693720,You can tell him whatever you want
 Dialogs_Intro_25_LucyRoom_39_Lucy,62938693721,What?...
 Dialogs_Intro_25_LucyRoom_40_Player,62938693722,You heard it correctly
 Dialogs_Intro_25_LucyRoom_41_Player,62938693723,Go on and tell him...
-Dialogs_Intro_25_LucyRoom_42_Player,62938693724,If you want your father to know that you're sneaking out at night to the party he told you not to go to...
+Dialogs_Intro_25_LucyRoom_42_Player,62938693724,Se você quer que seu pai saiba que você está saindo à noite para ir à festa que ele disse para você não ir...
 Dialogs_Intro_25_LucyRoom_43_Lucy,62938693725,O quê?
 Dialogs_Intro_25_LucyRoom_44_Player,62938693726,"You think I'm stupid, do you?"
 Dialogs_Intro_25_LucyRoom_45_Player,62938693727,Why else would you be dressed like this now?
@@ -798,7 +798,7 @@ Dialogs_Intro_25_LucyRoom_47_Player,62938693729,Save it Lucy... I know what you 
 Dialogs_Intro_25_LucyRoom_48_Player,62938693730,There’s no need to try to come up with an explanation
 Dialogs_Intro_25_LucyRoom_49_Lucy,62938693731,"Fine, we're even then... "
 Dialogs_Intro_25_LucyRoom_50_Lucy,62938693732,This time you are lucky
-Dialogs_Intro_25_LucyRoom_51_Player,62938693733,"Well, I don't think we're even. You disturbed my peace and held me up from going to the toilet"
+Dialogs_Intro_25_LucyRoom_51_Player,62938693733,"Bem, não acho que estamos quites. Você perturbou minha paz e me impediu de ir ao banheiro."
 Dialogs_Intro_25_LucyRoom_52_Player,62938693734,I think you'll need to apologize for that
 Dialogs_Intro_25_LucyRoom_53_Lucy,62938693735,"Dude, are you serious right now?"
 Dialogs_Intro_25_LucyRoom_54_Lucy,62938693736,You held things up by creeping on my parents
@@ -821,7 +821,7 @@ Dialogs_Intro_25_LucyRoom_70_Lucy,62938693752,HAHAHAHAHA
 Dialogs_Intro_25_LucyRoom_71_Lucy,62938693753,"You are kidding me, right?"
 Dialogs_Intro_25_LucyRoom_72_Lucy,62938693754,"First perving on my Mom, and now you want me to do some perverted shit for you?"
 Dialogs_Intro_25_LucyRoom_73_Lucy,62938693755,Not going to happen!
-Dialogs_Intro_25_LucyRoom_74_Player,62938693756,"Alright, I guess I have to go now. Got to have a chat with Benjamin before he falls asleep."
+Dialogs_Intro_25_LucyRoom_74_Player,62938693756,"Tudo bem, acho que tenho que ir agora. Preciso conversar com o Benjamin antes que ele adormeça."
 Dialogs_Intro_25_1LucyWait_0_Lucy,62938693757,<shake>Wait!</shake>
 Dialogs_Intro_26_LucyBeforeKneel_0_Player,62942887936,What did you say?
 Dialogs_Intro_26_LucyBeforeKneel_1_Lucy,62942887937,I'll do it
@@ -903,7 +903,7 @@ Dialogs_Intro_28_5HidingFromSarah_7_Player,62942888012,"""I guess I'll just acce
 Dialogs_Intro_28_5HidingFromSarah_8_Player,62942888013,"""Maybe Sarah will forget it by tomorrow..."""
 Dialogs_Intro_28_5HidingFromSarah_9_Player,62942888014,"""If she had enough wine, it could be possible"""
 Dialogs_Intro_28_5HidingFromSarah_10_Sarah,62942888015,Mmhn~
-Dialogs_Intro_28_5HidingFromSarah_11_Player,62942888016,?
+Dialogs_Intro_28_5HidingFromSarah_11_Player,62942888016,"Mais sujo do que difícil... aquele ataque sorrateiro foi um pouco inesperado. Deve ter me acertado no queixo ou algo assim, então perdi a consciência por um tempo."
 Dialogs_Intro_28_5HidingFromSarah_12_Player,62942888017,Did Sarah just moan?
 Dialogs_Intro_28_5HidingFromSarah_13_Sarah,62942888018,Hnngh~
 Dialogs_Intro_28_6WatchSarahMast_0_Player,62942888019,"""Wow... she's really masturbating"""
@@ -935,7 +935,7 @@ Dialogs_Intro_30_1PlayerWakesUp_8_Player,62942888044,Yeah... I'll be down in a m
 Dialogs_Intro_30_1PlayerWakesUp_9_Sarah,62942888045,Ok
 Dialogs_Intro_31_WakeUp_0_Player,62942888046,"""What a dream..."""
 Dialogs_Intro_31_WakeUp_1_Player,62947082240,"""Things are going to get worse if I don't relieve the tension"""
-Dialogs_Intro_31_WakeUp_2_Player,62947082241,"""Living under the same roof with such hotties may be more difficult then I have imagined"""
+Dialogs_Intro_31_WakeUp_2_Player,62947082241,"""Viver sob o mesmo teto com pessoas tão atraentes pode ser mais difícil do que eu imaginava."""
 Dialogs_Intro_31_WakeUp_3_Player,62947082242,"""I guess I'll just enjoy my new life and try not to embarrass myself"""
 Dialogs_Intro_31_WakeUp_4_Player,62947082243,"""I better go down to the kitchen now"""
 Dialogs_Intro_BlockedColliders_1_LucyRoom_0_Lucy,62947082244,"If you really think, that you can run away, then you're dumb."
@@ -953,9 +953,9 @@ Dialogs_Intro_BlockedColliders_WaitForLucy_0_Player,62947082255,*I should probab
 Dialogs_Intro_Bus_1_WhenArive_0_Player,62947082256,When do you think you'll arrive at Sarah's place?
 Dialogs_Intro_Bus_1_WhenArive_1_Emma,62947082257,"I don't know yet, sweetie..."
 Dialogs_Intro_Bus_1_WhenArive_2_Emma,62947082258,They extended my business trip because of some troubles with the client...
-Dialogs_Intro_Bus_1_WhenArive_3_Emma,62947082259,"My boss does not explain much, but the fact is, that I still have to stay here for a while"
+Dialogs_Intro_Bus_1_WhenArive_3_Emma,62947082259,"Meu chefe não explica muito, mas o fato é que ainda tenho que ficar aqui por um tempo."
 Dialogs_Intro_Bus_1_WhenArive_4_Player,62947082260,Again...
-Dialogs_Intro_Bus_1_WhenArive_5_Player,62947082261,Your boss is constantly piling work on you. Maybe it’s time to consider stopping working for him?
+Dialogs_Intro_Bus_1_WhenArive_5_Player,62947082261,Seu chefe vive te enchendo de trabalho. Talvez seja hora de pensar em parar de trabalhar pra ele?
 Dialogs_Intro_Bus_1_WhenArive_6_Emma,62947082262,"You know I can't, sweetie..."
 Dialogs_Intro_Bus_1_WhenArive_7_Emma,62947082263,We need money and since your dad...
 Dialogs_Intro_Bus_1_WhenArive_8_Emma,62947082264,Well you know...
@@ -983,7 +983,7 @@ Dialogs_Intro_Bus_2_2LongTimeNoSee_2_Emma,62947082285,"Well, it’s mostly due t
 Dialogs_Intro_Bus_2_2LongTimeNoSee_3_Emma,62947082286,"Your dad and I were hard-working people, as you could see..."
 Dialogs_Intro_Bus_2_2LongTimeNoSee_4_Emma,62947082287,And you were at school
 Dialogs_Intro_Bus_2_2LongTimeNoSee_5_Emma,62947082288,"Once Sarah moved to a different city, it didn’t feel worth the effort anymore"
-Dialogs_Intro_Bus_2_2LongTimeNoSee_6_Emma,62947082289,"Your dad thought it was better to spend free time on exciting vacations, and I agreed"
+Dialogs_Intro_Bus_2_2LongTimeNoSee_6_Emma,62947082289,"Seu pai achava que era melhor passar o tempo livre em férias emocionantes, e eu concordei."
 Dialogs_Intro_Bus_2_2LongTimeNoSee_7_Player,62947082290,Why not take a trip together?
 Dialogs_Intro_Bus_2_2LongTimeNoSee_8_Emma,62947082291,Your dad’s schedule and Benjamin’s schedule didn’t match
 Dialogs_Intro_Bus_2_2LongTimeNoSee_9_Player,62947082292,That makes sense
@@ -999,7 +999,7 @@ Dialogs_Intro_Bus_2_3SarahJob_8_Player,62947082301,That's a shame
 Dialogs_Intro_InteractableInterest_ChildPainting_0_Player,62947082302,This painting looks like a child drew it
 Dialogs_Intro_InteractableInterest_ClothingBasket_0_Player,62947082303,Dirty clothes...
 Dialogs_Intro_InteractableInterest_ClothingBasket_1_Player,62947082304,I better do not touch it... yet
-Dialogs_Intro_InteractableInterest_GameStation_0_Player,62947082305,I believe it's the new GameStation... I've always wanted to play the exclusive games on that thing
+Dialogs_Intro_InteractableInterest_GameStation_0_Player,62947082305,Acredito que seja a nova Polystation... Sempre quis jogar os jogos ‘exclusivos’ dessa belezinha.
 Dialogs_Intro_InteractableInterest_GameStation_1_Player,62947082306,Let's ask Sarah about that...
 Dialogs_Intro_InteractableInterest_GarageDoor_0_Player,62947082307,This door is closed...
 Dialogs_Intro_InteractableInterest_GarageDoor_1_Player,62947082308,I think it leads to the garage
@@ -1227,7 +1227,7 @@ Dialogs_Intro_Redirects_Sarah_BenjAnswered_2_Player,62955470947,"Yes, you're rig
 Dialogs_Intro_Redirects_Sarah_BenjHarsh_0_Player,62955470948,Sobre Benjamin antes...
 Dialogs_Intro_Redirects_Sarah_BenjHarsh_1_Sarah,62955470949,"Não deveríamos falar sobre isso, ele está bem aqui."
 Dialogs_Intro_Redirects_Sarah_BenjHarsh_2_Sarah,62955470950,"But you shouldn't talk with him like that in the future, you got it?"
-Dialogs_Intro_Redirects_Sarah_BenjHarsh_3_Sarah,62955470951,"I know it was a little too much of him, but you should control yourself next time, ok?"
+Dialogs_Intro_Redirects_Sarah_BenjHarsh_3_Sarah,62955470951,"Sei que ele exagerou um pouco, mas da próxima vez você deve se controlar, ok?"
 Dialogs_Intro_Redirects_Sarah_BenjHarsh_4_Player,62955470952,"Yes, I'm sorry"
 Dialogs_Intro_Redirects_Sarah_BenjPolite_0_Player,62955470953,Sobre Benjamin antes...
 Dialogs_Intro_Redirects_Sarah_BenjPolite_1_Sarah,62959665152,"Não deveríamos falar sobre isso, ele está bem aqui."
@@ -1420,7 +1420,7 @@ Dialogs_Intro01_2_Grocery_6_SarahGivePaper_4_Sarah,62963859546,...
 Dialogs_Intro01_2_Grocery_6_SarahGivePaper_5_Sarah,62968053760,It's nothing too important
 Dialogs_Intro01_2_Grocery_6_SarahGivePaper_6_Sarah,62968053761,Take the list
 Dialogs_Intro01_2_Grocery_7_AfterPaperTook_0_Sarah,62968053762,Let's meet at the cashier
-Dialogs_Intro01_2_Grocery_8_ListContent_0_Story_0,62968053763,"Following items are listed on the paper: Oranges, Tomatoes, Milk, Eggs, Bread, Chips (Cheese)"
+Dialogs_Intro01_2_Grocery_8_ListContent_0_Story_0,62968053763,"Os seguintes itens estão listados no papel: Laranjas, Tomates, Leite, Ovos, Pão, Batata chips (queijo)."
 Dialogs_Intro01_2_Grocery_8_ListContent_1_Player,62968053764,"""Not really much for such a big family"""
 Dialogs_Intro01_2_Grocery_9_GotAllItems_0_Player,62968053765,"""I think I got everything"""
 Dialogs_Intro01_2_Grocery_9_GotAllItems_1_Player,62968053766,"""No... there was something else on the list"""
@@ -1684,15 +1684,15 @@ Dialogs_Intro01_5_MiaHallway_25_Ouch_16_Mia,62976442455,I didn’t even open the
 Dialogs_Intro01_5_MiaHallway_25_Ouch_17_Lisa,62976442456,@{player}...
 Dialogs_Intro01_5_MiaHallway_26_1Study_0_Lisa,62976442457,"You studied computer science, right?"
 Dialogs_Intro01_5_MiaHallway_26_1Study_1_Lisa,62976442458,"Can you install the story for us, please?"
-Dialogs_Intro01_5_MiaHallway_26_1Study_2_Player,62976442459,"""Why does everyone always assume that just because I studied computer science, I can fix literally everything?"""
+Dialogs_Intro01_5_MiaHallway_26_1Study_2_Player,62976442459,"“Por que todo mundo sempre presume que, só porque eu estudei ciência da computação, eu posso consertar literalmente tudo?”"
 Dialogs_Intro01_5_MiaHallway_26_2NotStudy_0_Lisa,62980636672,Can you help us install the story?
 Dialogs_Intro01_5_MiaHallway_26_2NotStudy_1_Lisa,62980636673,Pleeeeaseeee
 Dialogs_Intro01_5_MiaHallway_27_Sure_0_Player,62980636674,"Sim, claro."
 Dialogs_Intro01_5_MiaHallway_27_Sure_1_Player,62980636675,"Let me get that thing, and I'll see what I can do"
-Dialogs_Intro01_6_StoryInstall_1_DndSpeaker_0_Story_0,62980636676,You inspect the speaker carefully and see that it has a strange connection port on the side
+Dialogs_Intro01_6_StoryInstall_1_DndSpeaker_0_Story_0,62980636676,Você inspeciona a caixa de som e vê uma porta esquisita na lateral…
 Dialogs_Intro01_6_StoryInstall_1_DndSpeaker_1_Player,62980636677,"""Hmm that seems to be the USB-D port"""
 Dialogs_Intro01_6_StoryInstall_1_DndSpeaker_2_Player,62980636678,"""Strange that it doesn't use the standard USB port like all the other devices"""
-Dialogs_Intro01_6_StoryInstall_1_DndSpeaker_3_Player,62980636679,"""The cable must have been shipped with the game. Let's ask Mia if there is one in the box"""
+Dialogs_Intro01_6_StoryInstall_1_DndSpeaker_3_Player,62980636679,"""O cabo deve ter sido enviado junto com o jogo. Vamos perguntar à Mia se há um na caixa."""
 Dialogs_Intro01_6_StoryInstall_2_MiaCable_0_Mia,62980636680,Hm?
 Dialogs_Intro01_6_StoryInstall_2_MiaCable_1_Player,62980636681,There should have been a cable in the game package. Is it there?
 Dialogs_Intro01_6_StoryInstall_2_MiaCable_2_Mia,62980636682,Hmmm
@@ -1871,7 +1871,7 @@ Dialogs_Mia_Bar_LikeItHere_LIkeItHere_0_Player,62984831069,So you like it here i
 Dialogs_Mia_Bar_LikeItHere_LIkeItHere_1_Mia,62984831070,Eu amo isso!
 Dialogs_Mia_Bar_LikeItHere_LIkeItHere_2_Player,62984831071,Have you never thought about leaving?
 Dialogs_Mia_Bar_LikeItHere_LIkeItHere_3_Mia,62984831072,No... Why should I?
-Dialogs_Mia_Bar_LikeItHere_LIkeItHere_4_Player,62984831073,"Well... some people want to leave their small towns and search for opportunities, I don't know"
+Dialogs_Mia_Bar_LikeItHere_LIkeItHere_4_Player,62984831073,"Bem... algumas pessoas querem deixar suas pequenas cidades e procurar oportunidades, não sei."
 Dialogs_Mia_Bar_LikeItHere_LIkeItHere_5_Mia,62984831074,I'm not one of them
 Dialogs_Mia_Bar_LikeItHere_LIkeItHere_6_Mia,62984831075,I love this city
 Dialogs_Mia_Bar_LikeItHere_LIkeItHere_7_Mia,62984831076,It has everything one could need
@@ -2281,7 +2281,7 @@ Dialogs_Sarah_Home_WatchMovie_SelectMovie_usual_4_SarSlep_1_Player,63005802564,"
 Dialogs_Sarah_Home_WatchMovie_SitCLose_2_1SitClsStart_0_Sarah,63005802565,Me deixe... ficar mais confortável
 Dialogs_Sarah_Home_WatchMovie_SitCLose_2_1SitClsStart_1_Sarah,63005802566,Me deixe... ficar mais confortável
 Dialogs_Sarah_Home_WatchMovie_SitCLose_3_2HeadFirstTime_0_Player,63005802567,"""Seems like Sarah is getting more comfortable being around me again"""
-Dialogs_Sarah_Home_WatchMovie_SitCLose_3_2HeadFirstTime_1_Player,63005802568,"""Putting her head on my shoulder like that.. I hope she doesn't notice my heart is pounding"""
+Dialogs_Sarah_Home_WatchMovie_SitCLose_3_2HeadFirstTime_1_Player,63005802568,“Colocando a cabeça dela no meu ombro assim... Espero que ela não perceba que meu coração está batendo forte.”
 Dialogs_Sarah_Home_WatchMovie_SitCLose_3_3HeadShldrSec_0_Sarah,63005802569,.  .  .
 Dialogs_Sarah_Restaurant_ComeMoreOften_1_General_0_Player,63005802570,I mean more in general
 Dialogs_Sarah_Restaurant_ComeMoreOften_1_General_1_Sarah,63005802571,.  .  .
@@ -2472,7 +2472,7 @@ Dialogs_Story2_Home_SarahSofa_4_ALlYours_5_Sarah,63018385416,"You're welcome, sw
 Dialogs_Story2_Home_SarahSofa_4_ALlYours_6_Sarah,63018385417,So tell me...
 Dialogs_Story2_Home_SarahSofa_4_ALlYours_7_Sarah,63018385418,How’s your new job going?
 Dialogs_Story2_Home_SarahSofa_4_ALlYours_8_Sarah,63018385419,I hadn’t had the chance to ask earlier
-Dialogs_Story2_Home_SarahSofa_4_1Alright_0_Player,63018385420,It's nice. Spending some time outside the house... a little socialization doesn’t hurt. I like it
+Dialogs_Story2_Home_SarahSofa_4_1Alright_0_Player,63018385420,É bom. Passar algum tempo fora de casa... um pouco de socialização não faz mal. Eu gosto disso.
 Dialogs_Story2_Home_SarahSofa_4_1Alright_1_Player,63018385421,"The working hours are super flexible, and the pay is pretty good too"
 Dialogs_Story2_Home_SarahSofa_4_1Alright_2_Sarah,63018385422,"You make it sound like the perfect job ad, haha!"
 Dialogs_Story2_Home_SarahSofa_4_1Alright_3_Sarah,63018385423,I almost want to apply myself!
@@ -2506,7 +2506,7 @@ Dialogs_Story2_Home_SarahSofa_5_NoFun_14_Sarah,63018385450,That’s why I’m wa
 Dialogs_Story2_Home_SarahSofa_6_1Mom_0_Player,63018385451,Waiting for my mom? I didn’t know she was a party person
 Dialogs_Story2_Home_SarahSofa_6_1Mom_1_Sarah,63018385452,She never told you?
 Dialogs_Story2_Home_SarahSofa_6_1Mom_2_Player,63018385453,About what?
-Dialogs_Story2_Home_SarahSofa_6_1Mom_3_Sarah,63018385454,"OMG, we were so close with your mom, and she never even told you a single story from our youth?"
+Dialogs_Story2_Home_SarahSofa_6_1Mom_3_Sarah,63018385454,"Meu Deus, a gente era tão próxima da sua mãe, e ela nunca te contou nenhuma história da nossa juventude?"
 Dialogs_Story2_Home_SarahSofa_6_1Mom_4_Sarah,63018385455,I’m going to have to call her tomorrow
 Dialogs_Story2_Home_SarahSofa_6_1Mom_5_Player,63018385456,What stories?
 Dialogs_Story2_Home_SarahSofa_6_1Mom_6_Sarah,63018385457,Ah... certo.
@@ -2968,7 +2968,7 @@ Dialogs_Story3_Mia_9_MiaLikesUs_1_Player,63035162722,"""She doesn't even want to
 Dialogs_Story3_Mia_9_MiaLikesUs_2_Player,63035162723,"""But I think I’ve got something even better, heh"""
 Dialogs_Story3_Mia_10_LetsSub_0_Player,63035162724,"""Need to open my laptop and check the DotFlix subscription"""
 Dialogs_Story3_Mia_11_Nice_0_Player,63039356928,"""Nice!"""
-Dialogs_Story3_Mia_11_Nice_1_Player,63039356929,"""Let's invite Mia over tomorrow... maybe she'd like to watch anime or something like that"""
+Dialogs_Story3_Mia_11_Nice_1_Player,63039356929,"""Vamos convidar a Mia para vir amanhã... talvez ela queira assistir a um anime ou algo do tipo."""
 Dialogs_Story3_Mia_13_WatchMovie_0_Player,63039356930,"Eai, Mia"
 Dialogs_Story3_Mia_13_WatchMovie_1_Mia,63039356931,Oi
 Dialogs_Story3_Mia_13_WatchMovie_2_Player,63039356932,How about watching a movie together?
@@ -3096,14 +3096,14 @@ Dialogs_Story3_SarahStory_4_Occasion_5_Sarah,63043551248,He told me to get somet
 Dialogs_Story3_SarahStory_4_Occasion_6_Sarah,63043551249,One date a year... Definitely dress-worthy
 Dialogs_Story3_SarahStory_4_1Fantastic_0_Player,63043551250,"Nice, I hope you'll have fun"
 Dialogs_Story3_SarahStory_4_1Fantastic_1_Player,63043551251,"""The dress doesn’t look very classy though… but it’s super hot, hehe"""
-Dialogs_Story3_SarahStory_4_1Fantastic_2_Player,63043551252,"""It’s unfair how that old sack gets to live with such a beauty and treat her like that..."""
+Dialogs_Story3_SarahStory_4_1Fantastic_2_Player,63043551252,É injusto que aquele idiota consiga viver com uma mulher tão maravilhosa e a trate dessa maneira...
 Dialogs_Story3_SarahStory_4_1Fantastic_3_Sarah,63043551253,"It is, right?"
 Dialogs_Story3_SarahStory_4_1Fantastic_4_Sarah,63043551254,Now I need some privacy...
 Dialogs_Story3_SarahStory_4_1Fantastic_5_Player,63043551255,Claro...
 Dialogs_Story3_SarahStory_5_LeaveRoom_0_Player,63043551256,"""Wow... that dress"""
 Dialogs_Story3_SarahStory_5_LeaveRoom_1_Player,63043551257,"""She looked so hot in it..."""
 Dialogs_Story3_SarahStory_5_LeaveRoom_2_Player,63043551258,"""It makes me a little envious of Benjamin.."""
-Dialogs_Story3_SarahStory_5_LeaveRoom_3_Player,63043551259,"""Let's try talking to Sarah and ask her how her date with Benjamin went when she gets back home"""
+Dialogs_Story3_SarahStory_5_LeaveRoom_3_Player,63043551259,Vamos tentar conversar com a Sarah e perguntar como foi o encontro dela com o Benjamin quando ela voltar para casa.
 Dialogs_Story3_SarahStory_6_1HowWasDate_0_Player,63043551260,You're already back home
 Dialogs_Story3_SarahStory_6_1HowWasDate_1_Player,63043551261,Isn't it a little too early?
 Dialogs_Story3_SarahStory_6_1HowWasDate_2_Sarah,63043551262,Sim...
@@ -3351,7 +3351,7 @@ Dialogs_Story3_SarahStory_Date_Club_5_1_2IDK_0_Player,63051939912,"I don't know,
 Dialogs_Story3_SarahStory_Date_Club_5_1_2IDK_1_Player,63051939913,Benjamin might worry about you
 Dialogs_Story3_SarahStory_Date_Club_5_1_2IDK_2_Sarah,63051939914,"Forget about him, honey"
 Dialogs_Story3_SarahStory_Date_Club_5_1_2IDK_3_Sarah,63051939915,It's our night...
-Dialogs_Story3_SarahStory_Date_Club_5_1_2IDK_4_Sarah,63051939916,Just you and me
+Dialogs_Story3_SarahStory_Date_Club_5_1_2IDK_4_Sarah,63051939916,Somente você e eu
 Dialogs_Story3_SarahStory_Date_Club_5_1_2IDK_5_Sarah,63051939917,"besides, he's already asleep"
 Dialogs_Story3_SarahStory_Date_Club_5_1_2IDK_6_Sarah,63051939918,Let's just have a few drinks
 Dialogs_Story3_SarahStory_Date_Club_5_1_2IDK_7_Sarah,63051939919,And if you don't like it...
@@ -3400,7 +3400,7 @@ Dialogs_Story4_Lucy_2_1WhatHappened_0_Player,63056134164,What happened?
 Dialogs_Story4_Lucy_2_1WhatHappened_1_Lucy,63056134165,You don't remember?
 Dialogs_Story4_Lucy_2_1WhatHappened_2_Player,63056134166,I remember the hit… but everything after is a blur
 Dialogs_Story4_Lucy_2_1WhatHappened_3_Lucy,63056134167,Seems like he hit you really hard
-Dialogs_Story4_Lucy_2_1WhatHappened_4_Player,63056134168,"More dirty than hard… that sneaky attack was a little unexpected. Must’ve hit me in the jaw or something, so I lost consciousness for a bit"
+Dialogs_Story4_Lucy_2_1WhatHappened_4_Player,63056134168,Mais s
 Dialogs_Story4_Lucy_2_1WhatHappened_5_Lucy,63056134169,Eu...
 Dialogs_Story4_Lucy_2_1WhatHappened_6_Lucy,63056134170,Let’s get out of here before that idiot shows up again
 Dialogs_Story4_Lucy_3_AfterParty_0_Lucy,63056134171,"Obrigado, @{player}"
@@ -3408,13 +3408,13 @@ Dialogs_Story4_Lucy_3_AfterParty_1_Player,63056134172,Para quê?
 Dialogs_Story4_Lucy_3_AfterParty_2_Lucy,63056134173,...for standing up for me
 Dialogs_Story4_Lucy_3_AfterParty_3_Player,63056134174,No worries… I wasn’t gonna let some dude act like that with my friend
 Dialogs_Story4_Lucy_3_2Afterthought_0_Player,63056134175,"""Crazy—seems like Lucy is warming up to me. This feels really nice"""
-Dialogs_Story4_Lucy_3_2Afterthought_1_Player,63056134176,"""But I wonder what she thinks about that kiss... she doesn't want to talk about it and just plays it off"""
-Dialogs_Story4_Lucy_3_2Afterthought_2_Player,63056134177,"""But that kiss was more than just a 'game kiss'... Let's just see where this whole situation leads me"""
+Dialogs_Story4_Lucy_3_2Afterthought_1_Player,63056134176,Mas eu me pergunto o que ela pensa sobre aquele beijo... ela não quer falar sobre isso e apenas ignora o assunto.
+Dialogs_Story4_Lucy_3_2Afterthought_2_Player,63056134177,Mas aquele beijo foi mais do que apenas um “beijo de diversão”... Vamos ver aonde toda essa situação me leva.
 Dialogs_Story4_Lucy_3_2Afterthought_3_Player,63056134178,"""Maybe it's a good idea to hit the gym with Lucy and get a little closer to her..."""
-Dialogs_Story4_Lucy_3_2Afterthought_4_Player,63056134179,"""And what about that moron... he almost finished me with one punch... I need to work on my strength... maybe the gym will help with that too"""
-Dialogs_Story4_Lucy_3_2Afterthought_5_Player,63056134180,"""But I definitely won't let that slide... next time I see him, I need to be prepared"""
+Dialogs_Story4_Lucy_3_2Afterthought_4_Player,63056134179,E aquele idiota... ele quase me acabou com um soco... Preciso trabalhar minha força... talvez a academia ajude nisso também.
+Dialogs_Story4_Lucy_3_2Afterthought_5_Player,63056134180,"""Mas definitivamente não vou deixar isso passar... da próxima vez que o vir, preciso estar preparado."""
 Dialogs_Story4_Lucy_3_2Afterthought_6_Player,63056134181,"""Let's go to sleep now..."""
-Dialogs_Story4_Lucy_4_Gym_0_Lucy,63056134182,Hi there!
+Dialogs_Story4_Lucy_4_Gym_0_Lucy,63056134182,Olá!
 Dialogs_Story4_Lucy_4_Gym_1_Lucy,63056134183,Came to train together?
 Dialogs_Story4_Lucy_4_Gym_2_Player,63056134184,Sim
 Dialogs_Story4_Lucy_4_2LetsTrain_0_Lucy,63056134185,Legal
@@ -3492,7 +3492,7 @@ Dialogs_Story4_Lucy_BeforeParty_5_DealIsDeal_10_Lucy,63060328460,Then don't go
 Dialogs_Story4_Lucy_BeforeParty_5_DealIsDeal_11_Player,63060328461,Fine... see you tonight
 Dialogs_Story4_Lucy_BeforeParty_5_DealIsDeal_12_Lucy,63060328462,And don't be late
 Dialogs_Story4_Lucy_BeforeParty_6_1LetsGo_0_Player,63060328463,Hi... I'm ready!
-Dialogs_Story4_Lucy_BeforeParty_6_1LetsGo_1_Lucy,63060328464,Finally!
+Dialogs_Story4_Lucy_BeforeParty_6_1LetsGo_1_Lucy,63060328464,Finalmente!
 Dialogs_Story4_Lucy_BeforeParty_6_1LetsGo_2_Lucy,63060328465,Follow me and keep quiet
 Dialogs_Story4_Lucy_HallwayDialog_1_Boyfriend_0_Player,63060328466,That guy... Max
 Dialogs_Story4_Lucy_HallwayDialog_1_Boyfriend_1_Player,63060328467,"He's your boyfriend, right?"
@@ -3530,7 +3530,7 @@ Dialogs_Story4_Lucy_HallwayDialog_2_WhatHappened_9_Lucy,63060328498,And I normal
 Dialogs_Story4_Lucy_HallwayDialog_2_WhatHappened_10_Lucy,63060328499,But that was a solid hit from you
 Dialogs_Story4_Lucy_HallwayDialog_2_WhatHappened_11_Lucy,63060328500,My hero
 Dialogs_Story4_Lucy_HallwayDialog_2_WhatHappened_12_Player,63060328501,No one touches my friends
-Dialogs_Story4_Lucy_HallwayDialog_3_Kiss_0_Player,63060328502,About the kiss...
+Dialogs_Story4_Lucy_HallwayDialog_3_Kiss_0_Player,63060328502,Sobre o beijo...
 Dialogs_Story4_Lucy_HallwayDialog_3_Kiss_1_Lucy,63060328503,Ehhh....
 Dialogs_Story4_Lucy_HallwayDialog_3_Kiss_2_Lucy,63060328504,"It was the game, wasn’t it?"
 Dialogs_Story4_Lucy_HallwayDialog_3_Kiss_3_Lucy,63060328505,"Just forget it, ok?"
@@ -3560,24 +3560,24 @@ Dialogs_Story4_Lucy_HallwayDialog_4_2WellSee_1_Lucy,63060328528,Ok...
 Dialogs_Story4_Lucy_HallwayDialog_4_2WellSee_2_Lucy,63060328529,"If you'd like to join me, I'll be training at noon"
 Dialogs_Story4_Lucy_HallwayDialog_4_2WellSee_3_Player,63060328530,I'll keep in mind
 Dialogs_Story4_Lucy_HallwayDialog_4_2WellSee_4_Lucy,63060328531,"Have a good night then, @{player}"
-Dialogs_Story4_Lucy_HallwayDialog_4_2WellSee_5_Player,63060328532,You too
+Dialogs_Story4_Lucy_HallwayDialog_4_2WellSee_5_Player,63060328532,Você também
 Dialogs_Story4_Lucy_Party_1_PartyArive_0_Lucy,63060328533,Aqui estamos nós
 Dialogs_Story4_Lucy_Party_1_PartyArive_1_Lucy,63060328534,Have a good time
 Dialogs_Story4_Lucy_Party_1_1Thanks_0_Player,63060328535,Thanks... you too
 Dialogs_Story4_Lucy_Party_1_2IntroduceFriends_0_Player,63060328536,Will you introduce me to your friends?
 Dialogs_Story4_Lucy_Party_1_2IntroduceFriends_1_Lucy,63060328537,Claro que não
 Dialogs_Story4_Lucy_Party_1_2IntroduceFriends_2_Lucy,63060328538,But I’m sure you’ll make some friends here on your own
-Dialogs_Story4_Lucy_Party_1_3LeabingMe_0_Player,63060328539,Wait… are you seriously leaving me alone here? Can you at least show me around or something?
+Dialogs_Story4_Lucy_Party_1_3LeabingMe_0_Player,63060328539,Espera aí… você vai mesmo me deixar sozinho aqui? Pode pelo menos me mostrar o lugar ou sei lá?
 Dialogs_Story4_Lucy_Party_1_3LeabingMe_1_Lucy,63060328540,You’re a big boy already…
 Dialogs_Story4_Lucy_Party_1_3LeabingMe_2_Lucy,63060328541,I’m sure you’ll do just fine on your own
 Dialogs_Story4_Lucy_Party_1_3LeabingMe_3_Lucy,63060328542,Gotta go
 Dialogs_Story4_Lucy_Party_2_Great_0_Player,63060328543,"""And so she left me alone at the party… great"""
 Dialogs_Story4_Lucy_Party_2_Great_1_Player,63060328544,"""But whatever… it’s not like I wanted to hang out with her anyway"""
 Dialogs_Story4_Lucy_Party_2_Great_2_Player,63060328545,"""Let’s go find someone fun to talk to… or something fun to do"""
-Dialogs_Story4_Lucy_Party_OliviaDialog_1_OliviaInteract_0_Olivia,63060328546,Hi there!
+Dialogs_Story4_Lucy_Party_OliviaDialog_1_OliviaInteract_0_Olivia,63060328546,Olá!
 Dialogs_Story4_Lucy_Party_OliviaDialog_1_OliviaInteract_1_Olivia,63060328547,...enjoying the party?
 Dialogs_Story4_Lucy_Party_OliviaDialog_1_1yeah_0_Player,63060328548,Yeah... Olivia really went all out with this party
-Dialogs_Story4_Lucy_Party_OliviaDialog_1_1yeah_1_Olivia,63060328549,Oh?
+Dialogs_Story4_Lucy_Party_OliviaDialog_1_1yeah_1_Olivia,63060328549,Ah?
 Dialogs_Story4_Lucy_Party_OliviaDialog_1_1yeah_2_Olivia,63060328550,You know the host by name but not by face?
 Dialogs_Story4_Lucy_Party_OliviaDialog_1_1_1_1_1_1Olivia_0_Player,63060328551,Wait... are you Olivia?
 Dialogs_Story4_Lucy_Party_OliviaDialog_1_1_1_1_1_1Olivia_1_Olivia,63064522752,Guilty...
@@ -3612,7 +3612,7 @@ Dialogs_Story4_Lucy_Party_OliviaDialog_1_1_2_1_1_2_2GoingSomewhere_0_Player,6306
 Dialogs_Story4_Lucy_Party_OliviaDialog_1_1_2_1_1_2_2GoingSomewhere_1_Olivia,63064522781,Maybe it is
 Dialogs_Story4_Lucy_Party_OliviaDialog_1_1_2_1_1_2_2GoingSomewhere_2_Olivia,63064522782,Depends on how you follow up
 Dialogs_Story4_Lucy_Party_OliviaDialog_1_1_2_1_1_2_2GoingSomewhere_3_Olivia,63064522783,The party’s gotten a bit boring...
-Dialogs_Story4_Lucy_Party_OliviaDialog_1_1_2_1_1_2_2GoingSomewhere_4_Olivia,63064522784,Wanna chat somewhere more private?
+Dialogs_Story4_Lucy_Party_OliviaDialog_1_1_2_1_1_2_2GoingSomewhere_4_Olivia,63064522784,Quer conversar em algum lugar mais privado?
 Dialogs_Story4_Lucy_Party_OliviaDialog_1_2NotReally_0_Player,63064522785,Not really... actually
 Dialogs_Story4_Lucy_Party_OliviaDialog_1_2NotReally_1_Olivia,63064522786,"Wow, harsh"
 Dialogs_Story4_Lucy_Party_OliviaDialog_1_2NotReally_2_Olivia,63064522787,You always insult the host without realizing it?
@@ -3630,8 +3630,8 @@ Dialogs_Story4_Lucy_Party_OliviaDialog_1_3_1WhyAlone_2_Olivia,63064522798,haha
 Dialogs_Story4_Lucy_Party_OliviaDialog_1_3_1WhyAlone_3_Olivia,63064522799,Guess no one’s brave enough to make a move...
 Dialogs_Story4_Lucy_Party_OliviaDialog_1_3_1WhyAlone_4_Player,63064522800,"Well, one here definitely is"
 Dialogs_Story4_Lucy_Party_OliviaDialog_1_3_1WhyAlone_5_Player,63064522801,Eu gosto de você...
-Dialogs_Story4_Lucy_Party_OliviaDialog_1_3_1WhyAlone_6_Player,63064522802,Wanna chat somewhere more private?
-Dialogs_Story4_Lucy_Party_OliviaDialog_1_3_2Name_0_Player,63064522803,What's your name?
+Dialogs_Story4_Lucy_Party_OliviaDialog_1_3_1WhyAlone_6_Player,63064522802,Quer conversar em algum lugar mais privado?
+Dialogs_Story4_Lucy_Party_OliviaDialog_1_3_2Name_0_Player,63064522803,Qual é o seu nome?
 Dialogs_Story4_Lucy_Party_OliviaDialog_1_3_2Name_1_Olivia,63064522804,Olivia
 Dialogs_Story4_Lucy_Party_OliviaDialog_1_3_2_1BeautifulName_0_Player,63064522805,Your name suits you—it’s lovely
 Dialogs_Story4_Lucy_Party_OliviaDialog_1_3_2_1BeautifulName_1_Olivia,63064522806,Obrigado
@@ -3642,42 +3642,42 @@ Dialogs_Story4_Lucy_Party_OliviaDialog_Bath_1_AlwaysStart_0_Player,63064522810,D
 Dialogs_Story4_Lucy_Party_OliviaDialog_Bath_1_AlwaysStart_1_Olivia,63064522811,Only when I need a good excuse to trap someone in a small room
 Dialogs_Story4_Lucy_Party_OliviaDialog_Bath_1_AlwaysStart_2_Olivia,63064522812,You okay with that?
 Dialogs_Story4_Lucy_Party_OliviaDialog_Bath_1_AlwaysStart_3_Player,63064522813,...
-Dialogs_Story4_Lucy_Party_OliviaDialog_Bath_1_AlwaysStart_4_Olivia,63064522814,Close your eyes
+Dialogs_Story4_Lucy_Party_OliviaDialog_Bath_1_AlwaysStart_4_Olivia,63064522814,Feche os olhos
 Dialogs_Story4_Lucy_Party_OliviaDialog_Bath_Private_0_Olivia,63064522815,Aqui estamos nós
 Dialogs_Story4_Lucy_Party_OliviaDialog_Bath_Private_1_Olivia,63064522816,Much quieter here
 Dialogs_Story4_Lucy_Party_OliviaDialog_Bath_Private_2_Player,63064522817,Interesting choice of room for a conversation
 Dialogs_Story4_Lucy_Party_OliviaDialog_Bath_Private_3_Olivia,63064522818,"Well, the vibe's underrated"
 Dialogs_Story4_Lucy_Party_OliviaDialog_Bath_Private_4_Olivia,63064522819,"No crowd, no music"
 Dialogs_Story4_Lucy_Party_OliviaDialog_Bath_Private_5_Olivia,63064522820,no one is stumbling in mid-sentence...
-Dialogs_Story4_Lucy_Party_OliviaDialog_Bath_Private_6_Olivia,63064522821,just you and me
+Dialogs_Story4_Lucy_Party_OliviaDialog_Bath_Private_6_Olivia,63064522821,Somente você e eu
 Dialogs_Story4_Lucy_Party_OliviaDialog_Bath_Private_7_Olivia,63064522822,And a guy who totally blacked out
 Dialogs_Story4_Lucy_Party_OliviaDialog_Bath_Private_8_Player,63064522823,Such an intimate atmosphere
 Dialogs_Story4_Lucy_Party_OliviaDialog_Bath_Private_9_Olivia,63064522824,I’ve always been good at setting a perfect vibe
 Dialogs_Story4_Lucy_Party_OliviaDialog_Bath_Private_10_Olivia,63064522825,Wanna know what I’m also good at?
 Dialogs_Story4_Lucy_Party_OliviaDialog_Bath_Private_11_Player,63064522826,Claro...
-Dialogs_Story4_Lucy_Party_OliviaDialog_Bath_Private_12_Olivia,63064522827,Close your eyes
+Dialogs_Story4_Lucy_Party_OliviaDialog_Bath_Private_12_Olivia,63064522827,Feche os olhos
 Dialogs_Story4_Lucy_Party_OliviaDialog_Bath_ShowAround_0_Olivia,63064522828,"So, here’s the bathroom"
-Dialogs_Story4_Lucy_Party_OliviaDialog_ComeOnBath_0_Olivia,63064522829,Come on
-Dialogs_Story4_Lucy_Party_OliviaDialog_ComeOnRoom_0_Olivia,63064522830,Come on
+Dialogs_Story4_Lucy_Party_OliviaDialog_ComeOnBath_0_Olivia,63064522829,Vamos lá
+Dialogs_Story4_Lucy_Party_OliviaDialog_ComeOnRoom_0_Olivia,63064522830,Vamos lá
 Dialogs_Story4_Lucy_Party_OliviaDialog_Kissing_1_HoldOn_0_Olivia,63064522831,Hold on
 Dialogs_Story4_Lucy_Party_OliviaDialog_Kissing_1_HoldOn_1_Olivia,63064522832,We’re getting a bit too carried away
 Dialogs_Story4_Lucy_Party_OliviaDialog_Kissing_1_HoldOn_2_Olivia,63064522833,Everyone’s already waiting
 Dialogs_Story4_Lucy_Party_OliviaDialog_Kissing_1_HoldOn_3_Olivia,63064522834,Vamos nessa
 Dialogs_Story4_Lucy_Party_OliviaDialog_Kissing_1_HoldOn_4_Player,63064522835,Go where?
-Dialogs_Story4_Lucy_Party_OliviaDialog_Kissing_1_HoldOn_5_Olivia,63064522836,You'll like it
+Dialogs_Story4_Lucy_Party_OliviaDialog_Kissing_1_HoldOn_5_Olivia,63064522836,Você vai gostar
 Dialogs_Story4_Lucy_Party_OliviaDialog_Kissing_1_HoldOn_6_Olivia,63064522837,What's your name bu the way?
 Dialogs_Story4_Lucy_Party_OliviaDialog_Kissing_1_HoldOn_7_Player,63064522838,@{player}...
 Dialogs_Story4_Lucy_Party_OliviaDialog_Kissing_1_HoldOn_8_Olivia,63064522839,"Prazer em te conheçer, @{player}"
 Dialogs_Story4_Lucy_Party_OliviaDialog_Kissing_1_HoldOn_9_Olivia,63064522840,Vamos nessa
-Dialogs_Story4_Lucy_Party_OliviaDialog_Kissing_1_Oh_0_Olivia,63064522841,Oh?
+Dialogs_Story4_Lucy_Party_OliviaDialog_Kissing_1_Oh_0_Olivia,63064522841,Ah?
 Dialogs_Story4_Lucy_Party_OliviaDialog_Room_1_HereWeAre_0_Olivia,63064522842,Aqui estamos nós
 Dialogs_Story4_Lucy_Party_OliviaDialog_Room_1_HereWeAre_1_Olivia,63064522843,Behind that door is the real fun
 Dialogs_Story4_Lucy_Party_OliviaDialog_Room_1_HereWeAre_2_Olivia,63064522844,C’mon… let’s get inside
 Dialogs_Story4_Lucy_Party_OliviaDialog_Room_1_HereWeAre_3_Olivia,63064522845,A propósito...
-Dialogs_Story4_Lucy_Party_OliviaDialog_Room_1_HereWeAre_4_Olivia,63064522846,What's your name?
+Dialogs_Story4_Lucy_Party_OliviaDialog_Room_1_HereWeAre_4_Olivia,63064522846,Qual é o seu nome?
 Dialogs_Story4_Lucy_Party_OliviaDialog_Room_1_HereWeAre_5_Player,63064522847,@{player}...
 Dialogs_Story4_Lucy_Party_OliviaDialog_Room_1_HereWeAre_6_Olivia,63068717056,"Prazer em te conheçer, @{player}"
-Dialogs_Story4_Lucy_Party_OliviaDialog_Room_Bath_1_Finally_0_Lucy,63068717057,Finally!
+Dialogs_Story4_Lucy_Party_OliviaDialog_Room_Bath_1_Finally_0_Lucy,63068717057,Finalmente!
 Dialogs_Story4_Lucy_Party_OliviaDialog_Room_Bath_1_Finally_1_Lucy,63068717058,Where were you?
 Dialogs_Story4_Lucy_Party_OliviaDialog_Room_Bath_1_Finally_2_Lucy,63068717059,We were waiting
 Dialogs_Story4_Lucy_Party_OliviaDialog_Room_Bath_1_Finally_3_Lucy,63068717060,And what the hell are you doing here?
@@ -3686,7 +3686,7 @@ Dialogs_Story4_Lucy_Party_OliviaDialog_Room_Bath_1_Finally_5_Olivia,63068717062,
 Dialogs_Story4_Lucy_Party_OliviaDialog_Room_Bath_1_Finally_6_Olivia,63068717063,We'll start right away
 Dialogs_Story4_Lucy_Party_OliviaDialog_Room_NoBath_2_WhatAreYouDoingHere_0_Lucy,63068717064,@{player}?
 Dialogs_Story4_Lucy_Party_OliviaDialog_Room_NoBath_2_WhatAreYouDoingHere_0_Olivia,63068717065,Oh... Lucy
-Dialogs_Story4_Lucy_Party_OliviaDialog_Room_NoBath_2_WhatAreYouDoingHere_1_Lucy,63068717066,What the hell are YOU doing here?
+Dialogs_Story4_Lucy_Party_OliviaDialog_Room_NoBath_2_WhatAreYouDoingHere_1_Lucy,63068717066,O que diabos VOCÊ está fazendo aqui?
 Dialogs_Story4_Lucy_Party_OliviaDialog_Room_NoBath_2_1CameToPlay_0_Player,63068717067,Came to play the game
 Dialogs_Story4_Lucy_Party_OliviaDialog_Room_NoBath_2_1CameToPlay_1_Player,63068717068,Was invited by Olivia...
 Dialogs_Story4_Lucy_Party_OliviaDialog_Room_NoBath_2_1CameToPlay_2_Lucy,63068717069,You know what game we're playing?
@@ -3760,7 +3760,7 @@ Dialogs_Story4_Lucy_Party_SophieDIalog_1_3_1_1NotGF_7_Sophie,63068717136,You cut
 Dialogs_Story4_Lucy_Party_SophieDIalog_1_3_1_1NotGF_8_Sophie,63068717137,Don't take it personal
 Dialogs_Story4_Lucy_Party_SophieDIalog_1_3_1_1_1HaveFun_0_Player,63068717138,Sure... have a nice time at the party then
 Dialogs_Story4_Lucy_Party_SophieDIalog_1_3_1_1_1HaveFun_1_Sophie,63068717139,Obrigado
-Dialogs_Story4_Lucy_Party_SophieDIalog_1_3_1_1_1HaveFun_2_Sophie,63068717140,You too
+Dialogs_Story4_Lucy_Party_SophieDIalog_1_3_1_1_1HaveFun_2_Sophie,63068717140,Você também
 Dialogs_Story4_Lucy_Party_SophieDIalog_1_3_1_2Bye_0_Player,63068717141,Alright... bye then
 Dialogs_Story4_Lucy_Party_SophieDIalog_1_3_1_2Bye_1_Sophie,63068717142,Yeah... you better go
 Dialogs_Story4_Lucy_Party_SophieDIalog_1_3_2LucyBeFine_0_Player,63068717143,Lucy will be fine...
@@ -3788,10 +3788,10 @@ Dialogs_Story4_Lucy_Party_SpinTheBottle_1_1Bath_17_Lucy,63072911369,"We're playi
 Dialogs_Story4_Lucy_Party_SpinTheBottle_1_1Bath_18_Olivia,63072911370,Cool...
 Dialogs_Story4_Lucy_Party_SpinTheBottle_1_1Bath_18_Sophie,63072911371,Yay
 Dialogs_Story4_Lucy_Party_SpinTheBottle_1_1Bath_19_Olivia,63072911372,Glad we’ve worked it out
-Dialogs_Story4_Lucy_Party_SpinTheBottle_1_1Bath_20_Olivia,63072911373,I'll start then
+Dialogs_Story4_Lucy_Party_SpinTheBottle_1_1Bath_20_Olivia,63072911373,"Então, vou começar."
 Dialogs_Story4_Lucy_Party_SpinTheBottle_1_2NoBath_0_Olivia,63072911374,Tudo bem...
 Dialogs_Story4_Lucy_Party_SpinTheBottle_1_2NoBath_1_Olivia,63072911375,Everyone ready?
-Dialogs_Story4_Lucy_Party_SpinTheBottle_1_2NoBath_2_Olivia,63072911376,I'll start then
+Dialogs_Story4_Lucy_Party_SpinTheBottle_1_2NoBath_2_Olivia,63072911376,"Então, vou começar."
 Dialogs_Story4_Lucy_Party_SpinTheBottle_2_PlSelected_0_Olivia,63072911377,What a luck
 Dialogs_Story4_Lucy_Party_SpinTheBottle_2_PlSelected_0_Lucy,63072911378,.  .  .
 Dialogs_Story4_Lucy_Party_SpinTheBottle_2_PlSelected_1_Olivia,63072911379,Come here
@@ -3817,7 +3817,7 @@ Dialogs_Story4_Lucy_Party_SpinTheBottle_7_ThatsIt_5_Olivia,63072911398,Alright..
 Dialogs_Story4_Lucy_Party_SpinTheBottle_8_LuceTurn_0_Sophie,63072911399,Your turn Lucy
 Dialogs_Story4_Lucy_Party_SpinTheBottle_8_LuceTurn_1_Lucy,63072911400,"Yes, I know..."
 Dialogs_Story4_Lucy_Party_SpinTheBottle_8_LuceTurn_2_Lucy,63072911401,.  .  .
-Dialogs_Story4_Lucy_Party_SpinTheBottle_9_AfterLucySpin_0_Player,63072911402,"""No way..."""
+Dialogs_Story4_Lucy_Party_SpinTheBottle_9_AfterLucySpin_0_Player,63072911402,“Não acredito...”
 Dialogs_Story4_Lucy_Party_SpinTheBottle_9_AfterLucySpin_1_Lucy,63072911403,.  .  .
 Dialogs_Story4_Lucy_Party_SpinTheBottle_9_AfterLucySpin_2_Lucy,63072911404,Ok... let's do this
 Dialogs_Story4_Lucy_Party_SpinTheBottle_9_AfterLucySpin_3_Player,63072911405,"You know, Lucy… you don’t have to if you don’t want to. It’s just a game"
@@ -3832,7 +3832,7 @@ Dialogs_Story4_Lucy_Party_SpinTheBottle_10_MyTurn_1_Olivia,63072911413,My turn a
 Dialogs_Story4_Lucy_Party_SpinTheBottle_11_YouAlright_0_Lucy,63072911414,You alright?
 Dialogs_Story4_Lucy_Party_SpinTheBottle_12_Hm_0_Olivia,63072911415,Hm?
 Dialogs_Story4_Lucy_Party_SpinTheBottle_12_Hm_0_Lucy,63072911416,Wtf?
-Dialogs_Story4_Lucy_Party_SpinTheBottle_13_MaxDialog_0_Max,63072911417,What the hell are you doing here?
+Dialogs_Story4_Lucy_Party_SpinTheBottle_13_MaxDialog_0_Max,63072911417,O que diabos VOCÊ está fazendo aqui?
 Dialogs_Story4_Lucy_Party_SpinTheBottle_13_MaxDialog_1_Max,63072911418,Not even a week and you're already with a new guy?
 Dialogs_Story4_Lucy_Party_SpinTheBottle_13_MaxDialog_2_Lucy,63072911419,"Fuck off, Max"
 Dialogs_Story4_Lucy_Party_SpinTheBottle_13_MaxDialog_3_Lucy,63072911420,It’s none of your business what I’m doing here
@@ -3848,10 +3848,10 @@ Dialogs_Story4_Lucy_Party_SpinTheBottle_LucyKiss_SophNotKnow_0_Sophie,6307291142
 Dialogs_Story4_Lucy_Party_SpinTheBottle_OliviaKiss_1_LucyBlush_0_Lucy,63072911430,.  .  .
 Dialogs_Story4_Lucy_Party_SpinTheBottle_OliviaKiss_2_OkThatsEnough_0_Lucy,63072911431,"Ok, guys"
 Dialogs_Story4_Lucy_Party_SpinTheBottle_OliviaKiss_2_OkThatsEnough_1_Lucy,63072911432,Já chega.
-Dialogs_Story4_Lucy_PlRoom_1_LucyComesIn_0_Lucy,63072911433,"Hey, @{player}"
+Dialogs_Story4_Lucy_PlRoom_1_LucyComesIn_0_Lucy,63072911433,"Olá, @{player}"
 Dialogs_Story4_Lucy_PlRoom_1_LucyComesIn_1_Lucy,63072911434,Are you sleeping?
 Dialogs_Story4_Lucy_PlRoom_1_LucyComesIn_2_Player,63072911435,"I was trying to, but no..."
-Dialogs_Story4_Lucy_PlRoom_1_LucyComesIn_3_Lucy,63072911436,I couldn't sleep...
+Dialogs_Story4_Lucy_PlRoom_1_LucyComesIn_3_Lucy,63072911436,Não consegui dormir...
 Dialogs_Story4_Lucy_PlRoom_1_LucyComesIn_4_Lucy,63072911437,Thought maybe we'll talk
 Dialogs_Story4_Lucy_PlRoom_1_LucyComesIn_5_Player,63072911438,Claro...
 Dialogs_Story4_Lucy_PlRoom_1_LucyComesIn_6_Player,63072911439,"""She never did this before... why would she want to talk to me at night?"""
@@ -3869,7 +3869,7 @@ Dialogs_Story4_Lucy_PlRoom_3_PlDown_7_Lucy,63072911450,What if I was too harsh w
 Dialogs_Story4_Lucy_PlRoom_3_PlDown_8_Lucy,63072911451,...ended things too quickly
 Dialogs_Story4_Lucy_PlRoom_3_PlDown_9_Lucy,63072911452,Never gave him a second chance...
 Dialogs_Story4_Lucy_PlRoom_3_PlDown_10_Lucy,63072911453,"Everyone deserves a second chance, right?"
-Dialogs_Story4_Lucy_PlRoom_3_1NotLikeHim_0_Player,63077105664,Some people do… but I know guys like him. They'll do anything to make it seem like they’ve changed
+Dialogs_Story4_Lucy_PlRoom_3_1NotLikeHim_0_Player,63077105664,Algumas pessoas fazem isso... mas eu conheço pessoas como ele. Elas fazem de tudo para parecer que mudaram.
 Dialogs_Story4_Lucy_PlRoom_3_1NotLikeHim_1_Player,63077105665,"But in the end, it's just manipulation to get you back into their chains"
 Dialogs_Story4_Lucy_PlRoom_3_1NotLikeHim_2_Player,63077105666,"C’mon, Lucy... you’re older than me. Do I really have to explain it to you?"
 Dialogs_Story4_Lucy_PlRoom_3_1NotLikeHim_3_Lucy,63077105667,Não...
@@ -3893,7 +3893,7 @@ Dialogs_Story4_Lucy_PlRoom_4_2No_2_Lucy,63077105684,especially at night when I�
 Dialogs_Story4_Lucy_PlRoom_5_DontOverthing_0_Player,63077105685,Look.... don't overthing much
 Dialogs_Story4_Lucy_PlRoom_5_DontOverthing_1_Player,63077105686,You did what's right for you... and that guy...
 Dialogs_Story4_Lucy_PlRoom_5_DontOverthing_2_Player,63077105687,He'll be alright in a few weeks...
-Dialogs_Story4_Lucy_PlRoom_5_DontOverthing_3_Player,63077105688,"Just block and ignore him, and you’ll see—he’s not worth your time, and definitely not worth the sleepless nights"
+Dialogs_Story4_Lucy_PlRoom_5_DontOverthing_3_Player,63077105688,"Basta bloqueá-lo e ignorá-lo, e você verá: ele não vale o seu tempo e, definitivamente, não vale as noites sem dormir."
 Dialogs_Story4_Lucy_PlRoom_5_DontOverthing_4_Lucy,63077105689,You're right...
 Dialogs_Story4_Lucy_PlRoom_6_NoGirllfriend_0_Lucy,63077105690,I wonder how your ass still doesn’t have a girlfriend
 Dialogs_Story4_Lucy_PlRoom_6_NoGirllfriend_1_Lucy,63077105691,You’d actually make a decent boyfriend…
@@ -3910,7 +3910,7 @@ Dialogs_Story4_Lucy_PlRoom_8_IMeanIt_1_Lucy,63077105701,. . .
 Dialogs_Story4_Lucy_PlRoom_8_IMeanIt_2_Lucy,63077105702,You know... it's kinda weird
 Dialogs_Story4_Lucy_PlRoom_8_IMeanIt_3_Lucy,63077105703,But I feel so good in your arms
 Dialogs_Story4_Lucy_PlRoom_8_IMeanIt_4_Lucy,63077105704,It reminds me of the party night
-Dialogs_Story4_Lucy_PlRoom_8_IMeanIt_5_Lucy,63077105705,About the kiss...
+Dialogs_Story4_Lucy_PlRoom_8_IMeanIt_5_Lucy,63077105705,Sobre o beijo...
 Dialogs_Story4_Lucy_PlRoom_8_IMeanIt_6_Lucy,63077105706,this might sound weird...
 Dialogs_Story4_Lucy_PlRoom_8_IMeanIt_7_Lucy,63077105707,But I felt something similar…
 Dialogs_Story4_Lucy_PlRoom_8_IMeanIt_8_Lucy,63077105708,I felt something...
@@ -3956,7 +3956,7 @@ Dialogs_Story4_Sarah_AfterSofaKiss_3_PlSide_5_Player,63077105747,"""I wonder… 
 Dialogs_Story4_Sarah_AfterSofaKiss_3_PlSide_6_Player,63077105748,"""...or stop now—before it’s too late?"""
 Dialogs_Story4_Sarah_AfterSofaKiss_3_PlSide_7_Player,63077105749,"""Fuck it... let's try to sleep now"""
 Dialogs_Story4_Sarah_AfterSofaKiss_4_AfterSlp_0_Player,63077105750,"""What a fucking night..."""
-Dialogs_Story4_Sarah_AfterSofaKiss_4_AfterSlp_1_Player,63077105751,"""I can’t stand these thoughts anymore… I should go and talk to Sarah as soon as possible"""
+Dialogs_Story4_Sarah_AfterSofaKiss_4_AfterSlp_1_Player,63077105751,"""Não aguento mais esses pensamentos... Preciso ir falar com a Sarah o mais rápido possível."""
 Dialogs_Story4_Sarah_AfterSofaKiss_5_SarahKtch_0_Player,63077105752,"Hey, Sarah..."
 Dialogs_Story4_Sarah_AfterSofaKiss_5_SarahKtch_1_Player,63077105753,"""Shit... she looks so... tired..."""
 Dialogs_Story4_Sarah_AfterThought_1_AfterKissBase_0_Sarah,63077105754,Olá
@@ -3982,7 +3982,7 @@ Dialogs_Story4_Sarah_AfterThought_4_DidntFeelLikeNothing_2_Sarah,63081299974,It'
 Dialogs_Story4_Sarah_AfterThought_4_DidntFeelLikeNothing_3_Sarah,63081299975,And I was the one who was supposed to make sure this never happened
 Dialogs_Story4_Sarah_AfterThought_4_DidntFeelLikeNothing_4_Sarah,63081299976,.  .  .
 Dialogs_Story4_Sarah_AfterThought_4_DidntFeelLikeNothing_5_Player,63081299977,.  .  .
-Dialogs_Story4_Sarah_AfterThought_5_WhatNow_0_Player,63081299978,So what now? We just pretend this never happened… and make everything awkward between us?
+Dialogs_Story4_Sarah_AfterThought_5_WhatNow_0_Player,63081299978,E agora? Vamos fingir que isso nunca aconteceu... e deixar tudo estranho entre nós?
 Dialogs_Story4_Sarah_AfterThought_5_WhatNow_1_Sarah,63081299979,That's exactly what we'll do
 Dialogs_Story4_Sarah_AfterThought_5_WhatNow_2_Sarah,63081299980,This can’t—and won’t...
 Dialogs_Story4_Sarah_AfterThought_5_WhatNow_3_Sarah,63081299981,...happen again
@@ -4116,7 +4116,7 @@ Dialogs_Story4_Sarah_Nightmare_4_CallContinue_29_Player,63085494320,"""Should I 
 Dialogs_Story4_Sarah_Nightmare_4_CallContinue_30_Sarah,63085494321,Yeah... don't worry about it...
 Dialogs_Story4_Sarah_Nightmare_4_CallContinue_31_Sarah,63085494322,Estou bem.
 Dialogs_Story4_Sarah_Nightmare_4_CallContinue_32_Sarah,63085494323,You too...
-Dialogs_Story4_Sarah_Nightmare_4_CallContinue_33_Player,63085494324,"""No... fuck it. Why would I run? I’m here to drink some water. That’s what I’m going to do"""
+Dialogs_Story4_Sarah_Nightmare_4_CallContinue_33_Player,63085494324,“Não... foda-se. Por que eu fugiria? Estou aqui para beber água. É isso que vou fazer.”
 Dialogs_Story4_Sarah_Nightmare_5_YouWereHer_0_Sarah,63085494325,@{player}!?
 Dialogs_Story4_Sarah_Nightmare_5_YouWereHer_1_Sarah,63085494326,Why are you not sleeping... again?
 Dialogs_Story4_Sarah_Nightmare_6_WatchMovie_0_Player,63085494327,aaaa
@@ -4138,7 +4138,7 @@ Dialogs_Story4_Sarah_Nightmare_7_AfterWatchMovie_3_Sarah,63085494342,Come join m
 Dialogs_Story4_Sarah_SofaFirst_1_SarahSofaBase_0_Sarah,63085494343,Oi...
 Dialogs_Story4_Sarah_SofaFirst_2_MayIJoin_0_Player,63085494344,Can I join you?
 Dialogs_Story4_Sarah_SofaFirst_2_MayIJoin_1_Sarah,63085494345,Claro
-Dialogs_Story4_Sarah_SofaFirst_3_1Smalltalk_0_Player,63085494346,Sooo...
+Dialogs_Story4_Sarah_SofaFirst_3_1Smalltalk_0_Player,63085494346,Então...
 Dialogs_Story4_Sarah_SofaFirst_3_1Smalltalk_1_Sarah,63085494347,Hm?
 Dialogs_Story4_Sarah_SofaFirst_3_1Smalltalk_2_Player,63085494348,...how was your day?
 Dialogs_Story4_Sarah_SofaFirst_3_2Massage_0_Player,63085494349,Uhm... would you like me to massage your feet again?
@@ -4180,8 +4180,8 @@ Dialogs_Story4_Sarah_SofaFirst_5_Wym_17_Sarah,63089688581,Now let's keep watchin
 Dialogs_Story4_Sarah_SofaFirst_6_SarahIsDistant_0_Sarah,63089688582,Thank you for spending time with me...
 Dialogs_Story4_Sarah_SofaFirst_6_SarahIsDistant_1_Sarah,63089688583,I’mma go to sleep now
 Dialogs_Story4_Sarah_SofaFirst_6_SarahIsDistant_2_Sarah,63089688584,Boa noite
-Dialogs_Story4_Sarah_SofaFirst_7_Afterthough_0_Player,63089688585,"""Let’s talk to Lucy tomorrow about our conversation with Sarah… and about the ‘reward.’"""
-Dialogs_Story4_Sarah_SofaFirst_7_Afterthough_1_Player,63089688586,"""As for Sarah… things seem okay, but she’s definitely more distant than she used to be."""
+Dialogs_Story4_Sarah_SofaFirst_7_Afterthough_0_Player,63089688585,"""Vamos trocar uma ideia com a Lucy amanhã sobre a conversa com a Sarah… e sobre a ‘recompensa’."""
+Dialogs_Story4_Sarah_SofaFirst_7_Afterthough_1_Player,63089688586,"“Em relação à Sarah... tudo parece estar bem, mas ela está definitivamente mais distante do que costumava ser.”"
 Dialogs_Story4_Sarah_SofaFirst_7_Afterthough_2_Player,63089688587,"""I’m sure if I give her a bit of space and help out more, things will get better."""
 Dialogs_Story4_Sarah_SofaFirst_7_Afterthough_3_Player,63089688588,"""Let's go to sleep now"""
 Dialogs_Story4_Sarah_SrMast_1_PlHears_0_Sarah,63089688589,Mhmm~
@@ -4209,13 +4209,13 @@ Dialogs_Story4_Sarah_SrRoom_Kissed_2_DidKiss_3_Player,63089688610,I... don't kno
 Dialogs_Story4_Sarah_SrRoom_Kissed_2_DidKiss_4_Player,63089688611,I just couldn't resist... again
 Dialogs_Story4_Sarah_SrRoom_Kissed_2_DidKiss_5_Sarah,63089688612,.  .  .
 Dialogs_Story4_Sarah_SrRoom_Kissed_2_DidKiss_6_Sarah,63089688613,Why...?
-Dialogs_Story4_Sarah_SrRoom_Kissed_2_DidKiss_7_Sarah,63089688614,Why are you doing this?
-Dialogs_Story4_Sarah_SrRoom_Kissed_2_DidKiss_8_Sarah,63089688615,I told you to stop!
-Dialogs_Story4_Sarah_SrRoom_Kissed_2_DidKiss_9_Sarah,63089688616,I told you… to forget about what happened that night
-Dialogs_Story4_Sarah_SrRoom_Kissed_2_DidKiss_10_Sarah,63089688617,To just move on... and live a normal life
-Dialogs_Story4_Sarah_SrRoom_Kissed_2_DidKiss_11_Sarah,63089688618,It was one stupid mistake that we could’ve... buried
-Dialogs_Story4_Sarah_SrRoom_Kissed_2_DidKiss_12_Sarah,63089688619,But now…
-Dialogs_Story4_Sarah_SrRoom_Kissed_2_DidKiss_13_Sarah,63089688620,I’ve just cheated on my husband...
+Dialogs_Story4_Sarah_SrRoom_Kissed_2_DidKiss_7_Sarah,63089688614,Por que você está fazendo isso?
+Dialogs_Story4_Sarah_SrRoom_Kissed_2_DidKiss_8_Sarah,63089688615,Eu disse para você parar!
+Dialogs_Story4_Sarah_SrRoom_Kissed_2_DidKiss_9_Sarah,63089688616,Eu disse para você esquecer o que aconteceu naquela noite.
+Dialogs_Story4_Sarah_SrRoom_Kissed_2_DidKiss_10_Sarah,63089688617,Simplesmente seguir em frente... e viver uma vida normal.
+Dialogs_Story4_Sarah_SrRoom_Kissed_2_DidKiss_11_Sarah,63089688618,Foi um erro estúpido que poderíamos ter... enterrado.
+Dialogs_Story4_Sarah_SrRoom_Kissed_2_DidKiss_12_Sarah,63089688619,Mas agora...
+Dialogs_Story4_Sarah_SrRoom_Kissed_2_DidKiss_13_Sarah,63089688620,Acabei de trair meu marido...
 Dialogs_Story4_Sarah_SrRoom_Kissed_2_DidKiss_14_Sarah,63089688621,again
 Dialogs_Story4_Sarah_SrRoom_Kissed_3_BadWife_0_Sarah,63089688622,I'm such a bad wife...
 Dialogs_Story4_Sarah_SrRoom_Kissed_3_BadWife_1_Sarah,63089688623,And a terrible mom...
@@ -4252,14 +4252,14 @@ Dialogs_Story4_Sarah_SrRoom_Kissed_5_1IUnderstand_8_Player,63089688653,But maybe
 Dialogs_Story4_Sarah_SrRoom_Kissed_5_1IUnderstand_9_Player,63089688654,"Maybe it’s time to do what you really want, not just what you think is ‘right’?"
 Dialogs_Story4_Sarah_SrRoom_Kissed_5_1IUnderstand_10_Player,63089688655,"True love isn't about thinking, Sarah... it's about what we feel deep inside"
 Dialogs_Story4_Sarah_SrRoom_Kissed_5_1IUnderstand_11_Sarah,63089688656,.  .  .
-Dialogs_Story4_Sarah_SrRoom_Kissed_5_1IUnderstand_12_Player,63089688657,"And if your heart wants me around… why push me away? Especially when I feel the same about you, Sarah"
+Dialogs_Story4_Sarah_SrRoom_Kissed_5_1IUnderstand_12_Player,63089688657,"E se o seu coração me quer por perto... por que me afasta? Especialmente quando sinto o mesmo por você, Sarah."
 Dialogs_Story4_Sarah_SrRoom_Kissed_6_WhhatToDo_0_Sarah,63089688658,But what do you want me to do then?
 Dialogs_Story4_Sarah_SrRoom_Kissed_6_WhhatToDo_1_Sarah,63089688659,Break up with Benjamin?
 Dialogs_Story4_Sarah_SrRoom_Kissed_6_WhhatToDo_2_Sarah,63089688660,"Or keep cheating behind his back
 ?"
 Dialogs_Story4_Sarah_SrRoom_Kissed_6_WhhatToDo_3_Sarah,63089688661,That's insane
-Dialogs_Story4_Sarah_SrRoom_Kissed_6_WhhatToDo_4_Player,63089688662,No... I just want you to be honest with yourself. Listen to what your heart really wants
-Dialogs_Story4_Sarah_SrRoom_Kissed_6_WhhatToDo_5_Player,63089688663,All I’m asking is that you don’t ignore how you really feel—just because you think it’s wrong
+Dialogs_Story4_Sarah_SrRoom_Kissed_6_WhhatToDo_4_Player,63089688662,Não... Só quero que seja honesto consigo mesmo. Ouça o que o seu coração realmente deseja.
+Dialogs_Story4_Sarah_SrRoom_Kissed_6_WhhatToDo_5_Player,63089688663,"Tudo o que peço é que você não ignore o que realmente sente, só porque acha que isso é errado."
 Dialogs_Story4_Sarah_SrRoom_Kissed_6_WhhatToDo_6_Player,63089688664,"You deserve to be loved Sarah... and I...
 "
 Dialogs_Story4_Sarah_SrRoom_Kissed_6_WhhatToDo_7_Player,63089688665,I love you
@@ -4276,7 +4276,7 @@ Dialogs_Story4_Sarah_SrRoom_Kissed_6_WhhatToDo_16_Sarah,63089688674,Eu sei...
 Dialogs_Story4_Sarah_SrRoom_Kissed_7_ThoughtsAfterKs_0_Player,63089688675,"""I can’t believe those words actually came out of your mouth, @{player}"""
 Dialogs_Story4_Sarah_SrRoom_Kissed_7_ThoughtsAfterKs_1_Player,63089688676,"""I never thought I’d say something like that"""
 Dialogs_Story4_Sarah_SrRoom_Kissed_7_ThoughtsAfterKs_2_Player,63089688677,"""I really hope it worked… it felt like it touched something deep inside her"""
-Dialogs_Story4_Sarah_SrRoom_Kissed_7_ThoughtsAfterKs_3_Player,63089688678,"""Anyway, she has a lot to process right now… better not risk it and just play it safe"""
+Dialogs_Story4_Sarah_SrRoom_Kissed_7_ThoughtsAfterKs_3_Player,63089688678,"""De qualquer forma, ela tem muito o que processar agora... melhor não arriscar e jogar pelo seguro."""
 Dialogs_Story4_Sarah_SrRoom_Kissed_7_ThoughtsAfterKs_4_Player,63089688679,"""Chill for a few days and don’t push her"""
 Dialogs_Story4_Sarah_SrRoom_NotKissed_3_NoKiss_0_Sarah,63089688680,"Thank you for coming, @{player}"
 Dialogs_Story4_Sarah_SrRoom_NotKissed_3_NoKiss_1_Sarah,63089688681,Best to talk about all this in private...
@@ -4305,7 +4305,7 @@ Dialogs_Story4_Sarah_SrRoom_NotKissed_4_1_1Yes_7_Sarah,63093882900,And I'm the o
 Dialogs_Story4_Sarah_SrRoom_NotKissed_4_1_1Yes_8_Sarah,63093882901,But you’re right
 Dialogs_Story4_Sarah_SrRoom_NotKissed_4_1_1Yes_9_Sarah,63093882902,We can’t let this happen again
 Dialogs_Story4_Sarah_SrRoom_NotKissed_4_1_1Yes_10_Player,63093882903,Sim...
-Dialogs_Story4_Sarah_SrRoom_NotKissed_4_1_1Yes_11_Sarah,63093882904,Sooo...
+Dialogs_Story4_Sarah_SrRoom_NotKissed_4_1_1Yes_11_Sarah,63093882904,Então...
 Dialogs_Story4_Sarah_SrRoom_NotKissed_4_1_1Yes_12_Sarah,63093882905,I guess it's all?
 Dialogs_Story4_Sarah_SrRoom_NotKissed_4_1_1Yes_13_Player,63093882906,I think so...
 Dialogs_Story4_Sarah_SrRoom_NotKissed_4_1_1Yes_14_Sarah,63093882907,See you then?
@@ -4321,13 +4321,13 @@ Dialogs_Story4_Sarah_SrRoom_NotKissed_4_2No_7_Player,63093882916,I heard your co
 Dialogs_Story4_Sarah_SrRoom_NotKissed_4_2No_8_Player,63093882917,I know you did...
 Dialogs_Story4_Sarah_SrRoom_NotKissed_4_2No_9_Sarah,63093882918,.  .  .
 Dialogs_Story4_Sarah_SrRoom_NotKissed_4_2No_10_Sarah,63093882919,Why?...
-Dialogs_Story4_Sarah_SrRoom_NotKissed_4_2No_11_Sarah,63093882920,Why are you doing this?
-Dialogs_Story4_Sarah_SrRoom_NotKissed_4_2No_12_Sarah,63093882921,I told you to stop!
-Dialogs_Story4_Sarah_SrRoom_NotKissed_4_2No_13_Sarah,63093882922,I told you… to forget about what happened that night
-Dialogs_Story4_Sarah_SrRoom_NotKissed_4_2No_14_Sarah,63093882923,To just move on... and live a normal life
-Dialogs_Story4_Sarah_SrRoom_NotKissed_4_2No_15_Sarah,63093882924,It was one stupid mistake that we could’ve... buried
-Dialogs_Story4_Sarah_SrRoom_NotKissed_4_2No_16_Sarah,63093882925,But now…
-Dialogs_Story4_Sarah_SrRoom_NotKissed_4_2No_17_Sarah,63093882926,I’ve just cheated on my husband...
+Dialogs_Story4_Sarah_SrRoom_NotKissed_4_2No_11_Sarah,63093882920,Por que você está fazendo isso?
+Dialogs_Story4_Sarah_SrRoom_NotKissed_4_2No_12_Sarah,63093882921,Eu disse para você parar!
+Dialogs_Story4_Sarah_SrRoom_NotKissed_4_2No_13_Sarah,63093882922,Eu disse para você esquecer o que aconteceu naquela noite.
+Dialogs_Story4_Sarah_SrRoom_NotKissed_4_2No_14_Sarah,63093882923,Simplesmente seguir em frente... e viver uma vida normal.
+Dialogs_Story4_Sarah_SrRoom_NotKissed_4_2No_15_Sarah,63093882924,Foi um erro estúpido que poderíamos ter... enterrado.
+Dialogs_Story4_Sarah_SrRoom_NotKissed_4_2No_16_Sarah,63093882925,Mas agora...
+Dialogs_Story4_Sarah_SrRoom_NotKissed_4_2No_17_Sarah,63093882926,Acabei de trair meu marido...
 Dialogs_Story4_Sarah_SrRoom_NotKissed_4_2No_18_Sarah,63093882927,twice...
 Dialogs_Story4_Sarah_SrRoom_NotKissed_5_AftrThoughts_0_Player,63093882928,"""What can I say… I guess I made the right choice—difficult, but right"""
 Dialogs_Story4_Sarah_SrRoom_NotKissed_5_AftrThoughts_1_Player,63093882929,"""Let's focus on the other girls then..."""
@@ -4339,7 +4339,7 @@ Dialogs_Story4_Sarah_WaitDazs_1_WaitedDays_2_Player,63093882934,"""Maybe I did f
 Dialogs_Story4_Sarah_WaitDazs_1_WaitedDays_3_Player,63093882935,"""I need to find the right moment to talk to her… but how do I even begin?"""
 Dialogs_Story4_Sarah_WaitDazs_1_WaitedDays_4_Player,63093882936,"""Maybe just hang around her a bit and wait for her to start the conversation?"""
 Dialogs_Story4_Sarah_WaitDazs_1_WaitedDays_5_Player,63093882937,"""Let's start with washing the dishes..."""
-Dialogs_Story4_Sarah_WaitDazs_2_AftrDish_0_Sarah,63093882938,"Hey, @{player}"
+Dialogs_Story4_Sarah_WaitDazs_2_AftrDish_0_Sarah,63093882938,"Olá, @{player}"
 Dialogs_Story4_Sarah_WaitDazs_2_AftrDish_1_Sarah,63093882939,May I have a word with you?
 Dialogs_Story4_Sarah_WaitDazs_2_AftrDish_2_Player,63093882940,"Oh, hey Sarah"
 Dialogs_Story4_Sarah_WaitDazs_2_AftrDish_3_Player,63093882941,"Sure, what's wrong?"
@@ -4379,7 +4379,7 @@ Dialogs_Story4_Sarah_WtchMvSecondTime_3_SarhChoose_4_Player,63093882974,Oh... al
 Dialogs_Story4_Sarah_WtchMvSecondTime_4_Ahh_0_Sarah,63093882975,Ahhh
 Dialogs_Story4_Sarah_WtchMvSecondTime_4_Ahh_1_Sarah,63093882976,This one's really scary...
 Dialogs_Story4_Sarah_WtchMvSecondTime_6_Hm_0_Player,63093882977,Hm?
-Dialogs_Story4_Sarah_WtchMvSecondTime_7_Wha_0_Player,63093882978,"""No way..."""
+Dialogs_Story4_Sarah_WtchMvSecondTime_7_Wha_0_Player,63093882978,“Não acredito...”
 Dialogs_Story4_Sarah_WtchMvSecondTime_7_Wha_1_Player,63093882979,"""Is she drunk?"""
 Dialogs_Story4_Sarah_WtchMvSecondTime_8_GotThePoint_0_Sarah,63093882980,"Do you get the... ""message""?"
 Dialogs_Story4_Sarah_WtchMvSecondTime_8_GotThePoint_1_Player,63093882981,I... I don't think so
@@ -4396,29 +4396,29 @@ Dialogs_Story4_Sarah_WtchMvSecondTime_8_GotThePoint_11_Sarah,63098077189,...not-
 Dialogs_Story4_Sarah_WtchMvSecondTime_8_GotThePoint_12_Sarah,63098077190,It might seem a little weird at first...
 Dialogs_Story4_Sarah_WtchMvSecondTime_8_GotThePoint_13_Sarah,63098077191,But nothing wrong with a little closeness between us
 Dialogs_Story4_Sarah_WtchMvSecondTime_8_GotThePoint_14_Sarah,63098077192,Totally innocent... right?
-Dialogs_Story4_Sarah_WtchMvSecondTime_8_GotThePoint_15_Player,63098077193,"""Is this some kind of self-persuasion or denial? I don't get it... does she really believe in what she said?"""
+Dialogs_Story4_Sarah_WtchMvSecondTime_8_GotThePoint_15_Player,63098077193,“Isso é algum tipo de auto-persuasão ou negação? Não entendo... ela realmente acredita no que disse?”
 Dialogs_Story4_Sarah_WtchMvSecondTime_8_GotThePoint_16_Player,63098077194,"""Is that her way of making herself feel better about it?"""
 Dialogs_Story4_Sarah_WtchMvSecondTime_8_GotThePoint_17_Player,63098077195,"""She’s definitely not an innocent girl to be saying stuff like that…"""
 Dialogs_Story4_Sarah_WtchMvSecondTime_8_GotThePoint_18_Player,63098077196,"""Not-at-all-weird kind of way... huh"""
-Dialogs_Story4_Sarah_WtchMvSecondTime_8_GotThePoint_19_Player,63098077197,"""Well… there’s no other way but to just play along, right? I can’t afford to mess this up now"""
+Dialogs_Story4_Sarah_WtchMvSecondTime_8_GotThePoint_19_Player,63098077197,"“Bem... não há outra maneira a não ser entrar no jogo, certo? Não posso me dar ao luxo de estragar tudo agora.”"
 Dialogs_Story4_Sarah_WtchMvSecondTime_8_GotThePoint_20_Sarah,63098077198,@{player}?
 Dialogs_Story4_Sarah_WtchMvSecondTime_8_1NowISee_0_Player,63098077199,Yes! Now you get it
-Dialogs_Story4_Sarah_WtchMvSecondTime_8_1NowISee_1_Player,63098077200,That’s great—I'm glad you finally understand me. There’s definitely nothing wrong with what we’re doing
+Dialogs_Story4_Sarah_WtchMvSecondTime_8_1NowISee_1_Player,63098077200,"Que ótimo, fico feliz que você finalmente me entenda. Definitivamente, não há nada de errado com o que estamos fazendo."
 Dialogs_Story4_Sarah_WtchMvSecondTime_8_1NowISee_2_Player,63098077201,"Totally normal stuff, right? Glad you’re finally on board"
 Dialogs_Story4_Sarah_WtchMvSecondTime_8_1NowISee_3_Sarah,63098077202,Sim...
 Dialogs_Story4_Sarah_WtchMvSecondTime_8_1NowISee_4_Sarah,63098077203,Well... I'm glad we got it all sorted out now
 Dialogs_Story4_Sarah_WtchMvSecondTime_8_1NowISee_5_Sarah,63098077204,I better go to sleep
 Dialogs_Story5_Lucy_1_NightVisit_0_Player,63098077205,So... what's up?
-Dialogs_Story5_Lucy_1_NightVisit_1_Lucy,63098077206,I couldn't sleep...
+Dialogs_Story5_Lucy_1_NightVisit_1_Lucy,63098077206,Não consegui dormir...
 Dialogs_Story5_Lucy_1_NightVisit_2_Lucy,63098077207,I’ve been thinking about our kiss that night…
 Dialogs_Story5_Lucy_1_NightVisit_3_Lucy,63098077208,And at the party
 Dialogs_Story5_Lucy_1_NightVisit_4_Lucy,63098077209,"It's kinda fucked up, don't you think?"
 Dialogs_Story5_Lucy_1_NightVisit_5_Player,63098077210,Bem...
 Dialogs_Story5_Lucy_1_NightVisit_6_Player,63098077211,"""What do I think about it?..."""
 Dialogs_Story5_Lucy_1_NightVisit_7_Player,63098077212,"""Maybe I should stop all this before it's too late?"""
-Dialogs_Story5_Lucy_1_1Stop_0_Player,63098077213,"""Am I sure I want to stop kissing Lucy. After this I will not be able to interact with her"""
+Dialogs_Story5_Lucy_1_1Stop_0_Player,63098077213,"""Tenho certeza de que quero parar de beijar a Lucy? Depois disso, não poderei mais interagir com ela."""
 Dialogs_Story5_Lucy_1_1_1Stop_0_Player,63098077214,"You're right, Lucy"
-Dialogs_Story5_Lucy_1_1_1Stop_1_Player,63098077215,It's kinda fucked up... I know you're since we were kids and it all feels super wrong to me
+Dialogs_Story5_Lucy_1_1_1Stop_1_Player,63098077215,"Isso é foda... Eu sei que você é assim desde que a gente era criança, mas essa merda toda me parece muito errada."
 Dialogs_Story5_Lucy_1_1_1Stop_2_Player,63098077216,I'm sorry we did this
 Dialogs_Story5_Lucy_1_1_1Stop_3_Lucy,63098077217,Oh... I see
 Dialogs_Story5_Lucy_1_1_1Stop_4_Lucy,63098077218,"Well, it's alright"
@@ -4478,7 +4478,7 @@ Dialogs_Story5_Sarah_3_IllBeCareful_5_Player,63098077271,"""Fuck that"""
 Dialogs_Story5_Sarah_4_Afterthough_0_Player,63098077272,"""Sarah is right... if Benjamin catches us, it's over"""
 Dialogs_Story5_Sarah_4_Afterthough_1_Player,63098077273,"""But fuck Benjamin, at this point I can't stop anymore"""
 Dialogs_Story5_Sarah_4_Afterthough_2_Player,63098077274,"""I want this woman to be mine, and the only way to make that happen is to claim her"""
-Dialogs_Story5_Sarah_4_Afterthough_3_Player,63098077275,"""That old fool Benjamin doesn’t deserve even half a woman like her — and I won’t let him stop me from getting her… and giving her the love she truly deserves"""
+Dialogs_Story5_Sarah_4_Afterthough_3_Player,63098077275,“Aquele velho tolo do Benjamin não merece nem metade de uma mulher como ela — e eu não vou deixar que ele me impeça de conquistá-la... e dar-lhe o amor que ela realmente merece.”
 Dialogs_Story5_Sarah_4_Afterthough_4_Player,63098077276,"""Sarah told me I shouldn’t… but I know she loves it"""
 Dialogs_Story5_Sarah_4_Afterthough_5_Player,63098077277,"""I’m sure she does… I’ll just give Sarah a few days to cool off — then strike again"""
 Dialogs_Story5_Sarah_6_WhoSaidCanJoin_0_Sarah,63098077278,Who said you could just join me?
@@ -4502,7 +4502,7 @@ Dialogs_Story5_Sarah_7_HndCheeck_3_Player,63098077295,You can’t just stop at t
 Dialogs_Story5_Sarah_7_HndCheeck_4_Player,63098077296,Am I right?
 Dialogs_Story5_Sarah_7_HndCheeck_5_Sarah,63098077297,I will... if you make me
 Dialogs_Story5_Sarah_7_HndCheeck_6_Player,63098077298,Don't lie to yourself
-Dialogs_Story5_Sarah_8_WhatIf_0_Player,63098077299,"""What if I try putting my hand on her thigh again… I wonder if she’d resist like last time?"""
+Dialogs_Story5_Sarah_8_WhatIf_0_Player,63098077299,“E se eu tentar colocar minha mão na coxa dela de novo... Será que ela resistirá como da última vez?”
 Dialogs_Story5_Sarah_9_Wow_0_Player,63098077300,"""She's not resisting no more..."""
 Dialogs_Story5_Sarah_9_Wow_1_Player,63102271488,"""Her skin is so soft..."""
 Dialogs_Story5_Sarah_10_AfterKissCont_0_Player,63102271489,Still angry?
@@ -4576,7 +4576,7 @@ Dialogs_Story5_Sarah_KitchenSat_3_LucyContionues_8_Lucy,63102271556,Ebaaa!
 Dialogs_Story5_Sarah_KitchenSat_3_LucyContionues_8_Lisa,63102271557,Ebaaa!
 Dialogs_Story5_Sarah_KitchenSat_3_LucyContionues_9_Benjamin,63102271558,"@{player}, you’ve got all the swimming stuff, right?"
 Dialogs_Story5_Sarah_KitchenSat_3_1No_0_Player,63102271559,"Ehm… no, I don’t"
-Dialogs_Story5_Sarah_KitchenSat_3_1No_1_Benjamin,63102271560,You knew you were heading to a coastal city and still didn’t bring your swimming shorts?
+Dialogs_Story5_Sarah_KitchenSat_3_1No_1_Benjamin,63102271560,Cê sabia que ia pra uma cidade litorânea e mesmo assim não trouxe o short de banho?
 Dialogs_Story5_Sarah_KitchenSat_3_1No_2_Benjamin,63102271561,Well.... it's not a problem
 Dialogs_Story5_Sarah_KitchenSat_3_1No_3_Benjamin,63102271562,"We men can just swim in our boxers, hehe"
 Dialogs_Story5_Sarah_KitchenSat_3_1No_4_Benjamin,63102271563,"Right, @{player}?"
@@ -4591,7 +4591,7 @@ Dialogs_Story5_Sarah_KitchenSat_4_1TradBeachWeek_4_Sarah,63102271571,As soon as 
 Dialogs_Story5_Sarah_KitchenSat_4_1TradBeachWeek_5_Sarah,63102271572,We rent a small beach cabin
 Dialogs_Story5_Sarah_KitchenSat_4_1TradBeachWeek_6_Sarah,63102271573,For the whole weekend
 Dialogs_Story5_Sarah_KitchenSat_4_1TradBeachWeek_7_Sarah,63102271574,"And just have a good time… swimming, playing volleyball, and so on"
-Dialogs_Story5_Sarah_KitchenSat_4_1TradBeachWeek_8_Sarah,63102271575,You'll like it
+Dialogs_Story5_Sarah_KitchenSat_4_1TradBeachWeek_8_Sarah,63102271575,Você vai gostar
 Dialogs_Story5_Sarah_KitchenSat_4_1_2WhyRent_0_Player,63102271576,Why rent a cabin? It only takes 20 minutes by car to get to the beach from here
 Dialogs_Story5_Sarah_KitchenSat_4_1_2WhyRent_1_Lucy,63102271577,Just so it feels like an actual holiday
 Dialogs_Story5_Sarah_KitchenSat_4_1_2WhyRent_2_Sarah,63102271578,Sim
@@ -4630,8 +4630,8 @@ Dialogs_Generic_Date_Restaurant_DialogParts_Sarah_NoneOrders_1_Sarah,63110660112
 Dialogs_Generic_Date_Restaurant_DialogParts_Sarah_OrderAgain_0_Sarah,63110660113,Let's order again
 Dialogs_Generic_Date_Restaurant_DialogParts_Sarah_SomeOrdersCorrect_0_Sarah,63110660114,It seems you got some of the items wrong
 Dialogs_Generic_Date_Restaurant_DialogParts_Sarah_SomeOrdersCorrect_1_Sarah,63110660115,"It's ok, I'll get the right ones"
-Dialogs_Generic_Date_Restaurant_DialogParts_Sarah_SuccDate_0_Sarah,63110660116,I'm full
-Dialogs_Generic_Date_Restaurant_DialogParts_Sarah_UnsucDdate_0_Sarah,63110660117,I'm full
+Dialogs_Generic_Date_Restaurant_DialogParts_Sarah_SuccDate_0_Sarah,63110660116,Estou cheio
+Dialogs_Generic_Date_Restaurant_DialogParts_Sarah_UnsucDdate_0_Sarah,63110660117,Estou cheio
 Dialogs_Lisa_ReactionMood_Neutral_Hi_0_Lisa,63110660118,.  .  .
 Dialogs_Lucy_MoodReactions_Angry_WhatWant_0_Lucy,63110660119,O que você quer?
 Dialogs_Lucy_MoodReactions_Neutral_Hm_0_Lucy,63110660120,Hm?
