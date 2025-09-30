@@ -163,7 +163,7 @@ Dialogs_GroceryStory_8_2Nice_0_Player,62913527888,Parece uma boa ideia
 Dialogs_GroceryStory_8_2Nice_1_Player,62913527889,Para onde você gostaria de ir?
 Dialogs_GroceryStory_9_BarInvite_0_Mia,62913527890,"Oh, certo..."
 Dialogs_GroceryStory_9_BarInvite_1_Mia,62913527891,Eu vou pensar
-Dialogs_GroceryStory_9_BarInvite_2_Mia,62913527892, .  .  .
+Dialogs_GroceryStory_9_BarInvite_2_Mia,62913527892," .  .  ."
 Dialogs_GroceryStory_9_BarInvite_3_Mia,62913527893,Eu conheço um lugar
 Dialogs_GroceryStory_9_BarInvite_4_Mia,62913527894,É um dos meus favoritos
 Dialogs_GroceryStory_9_BarInvite_5_Mia,62913527895,Mas não é realmente um local de almoço
@@ -241,7 +241,7 @@ Dialogs_GroceryStory_RepeatWorkingHours_SecondRepeat_7_Mia,62917722166,Entendeu?
 Dialogs_GroceryStory_RepeatWorkingHours_ShiftScedule_0_Story_0,62917722167,"O horário: manhã-meio-dia, meio-dia-tarde e tarde-noite. Não há trabalho durante a noite ou madrugada."
 Dialogs_GroceryStory_RepeatWorkingHours_ShiftScedule_1_Story_0,62917722168,"""Tipo de cronograma: horário flexível"""
 Dialogs_GroceryStory_RepeatWorkingHours_ThirdRepeat_0_Player,62917722169,Não...
-Dialogs_GroceryStory_RepeatWorkingHours_ThirdRepeat_1_Mia,62917722170, .  .  .
+Dialogs_GroceryStory_RepeatWorkingHours_ThirdRepeat_1_Mia,62917722170," .  .  ."
 Dialogs_GroceryStory_RepeatWorkingHours_WhatIsIt_0_Player,62917722171,O que seria?
 Dialogs_GroceryStory_RepeatWorkingHours_WhatIsIt_1_Mia,62917722172,É uma folha especial para quem tem dificuldade de compreender.
 Dialogs_GroceryStory_RepeatWorkingHours_WhatIsIt_2_Mia,62917722173,Certifique-se de dar uma olhada nisso algumas vezes por dia
@@ -449,7 +449,7 @@ Dialogs_Intro_2_3RoomDoor_2_Sarah,62926110817,Os próximos...
 Dialogs_Intro_2_3RoomDoor_3_Sarah,62926110818,"... Pelo tempo de sua estadia, não importa quanto tempo seja."
 Dialogs_Intro_2_3RoomDoor_4_Sarah,62926110819,"Vá lá, abra a porta."
 Dialogs_Intro_2_Hello_0_Player,62926110820,Olá!? Tem alguém em casa?
-Dialogs_Intro_3_1InteractSarah_0_Sarah,62926110821,Hm? Você não quer ver? 
+Dialogs_Intro_3_1InteractSarah_0_Sarah,62926110821,"Hm? Você não quer ver? "
 Dialogs_Intro_3_SrResponse_0_Sarah,62926110822,Hm?
 Dialogs_Intro_3_SrResponse_1_Sarah,62926110823,"Meu Deus, você está aqui!"
 Dialogs_Intro_4_MovingIn_0_Sarah,62926110824,"Então, o que você acha? "
@@ -604,7 +604,7 @@ Dialogs_Intro_15_5_2Study_12_Player,62934499348,"... bem, isso agora não import
 Dialogs_Intro_15_5_2Study_13_Player,62934499349,Foi um erro e eu admito isso
 Dialogs_Intro_15_5_2Study_14_Sarah,62934499350,Espere... Emma me disse que você planeja estudar na nossa universidade na cidade
 Dialogs_Intro_15_5_2Study_15_Sarah,62934499351,É mesmo?
-Dialogs_Intro_15_5_2Study_16_Player,62934499352,Ainda não sei... É o que a minha mãe quer... 
+Dialogs_Intro_15_5_2Study_16_Player,62934499352,"Ainda não sei... É o que a minha mãe quer... "
 Dialogs_Intro_15_5_2Study_17_Player,62934499353,Mas não tenho certeza se é o que eu preciso...
 Dialogs_Intro_15_5_2Study_18_Sarah,62934499354,Acho que você terá que descobrir isso por conta própria...
 Dialogs_Intro_15_5_2Study_19_Player,62934499355,Acho que sim...
@@ -706,7 +706,7 @@ Dialogs_Intro_22_Resting_4_Story_0,62938693637,"Mas, de alguma forma, a sensaç�
 Dialogs_Intro_22_Resting_5_Story_0,62938693638,E você também percebe que está demorando mais do que o normal
 Dialogs_Intro_22_Resting_6_Story_0,62938693639,"Depois de ficar em frente ao vaso sanitário por cerca de um minuto, você sente que a vontade de urinar não desapareceu..."
 Dialogs_Intro_22_Resting_7_Story_0,62938693640,Ficou ainda pior
-Dialogs_Intro_22_Resting_8_Player,62938693641,"""“Algo está errado aqui...”"
+Dialogs_Intro_22_Resting_8_Player,62938693641,"""Algo está errado aqui...”"
 Dialogs_Intro_22_Resting_9_Player,62938693642,“Espere...”
 Dialogs_Intro_23_PlayerWakeUp_0_Player,62938693643,Suspiro...
 Dialogs_Intro_23_PlayerWakeUp_1_Player,62938693644,Graças a Deus minhas calças estão secas.
@@ -761,7 +761,7 @@ Dialogs_Intro_25_LucyRoom_11_Player,62938693692,"E que preço seu silêncio cheg
 Dialogs_Intro_25_LucyRoom_12_Lucy,62938693693,Bem... Me deixe pensar
 Dialogs_Intro_25_LucyRoom_13_Lucy,62938693694,Ah...Tenho uma ideia!
 Dialogs_Intro_25_LucyRoom_14_Lucy,62938693695,O dinheiro pode manter meu bico fechado
-Dialogs_Intro_25_LucyRoom_15_Player,62938693696,Você está falando sério? 
+Dialogs_Intro_25_LucyRoom_15_Player,62938693696,"Você está falando sério? "
 Dialogs_Intro_25_LucyRoom_16_Lucy,62938693697,200... agora
 Dialogs_Intro_25_LucyRoom_17_Player,62938693698,<shake>quanto!?</shake> por que eu theria tanto Dinheiro comigo a caminho do banheiro?
 Dialogs_Intro_25_LucyRoom_18_Lucy,62938693699,"Você quer dizer, a caminho de espiar minha mãe?"
@@ -880,7 +880,7 @@ Dialogs_Intro_28_4FoundSpot_16_Sarah,62942887989,Acho que o vi olhando para minh
 Dialogs_Intro_28_4FoundSpot_17_Player,62942887990,"""Oh-oh"""
 Dialogs_Intro_28_4FoundSpot_18_Sarah,62942887991,Não tenho certeza...
 Dialogs_Intro_28_4FoundSpot_19_Sarah,62942887992,Talvez eu esteja apenas imaginando coisas...
-Dialogs_Intro_28_4FoundSpot_20_Sarah,62942887993,Eu joguei legal
+Dialogs_Intro_28_4FoundSpot_20_Sarah,62942887993,Eu me mantive calma
 Dialogs_Intro_28_4FoundSpot_21_Sarah,62942887994,"Mas eu tenho que admitir, isso me fez sentir quente por um momento"
 Dialogs_Intro_28_4FoundSpot_22_Sarah,62942887995,"Hahahaha, pare"
 Dialogs_Intro_28_4FoundSpot_23_Sarah,62942887996,Isso não é engraçado
@@ -947,660 +947,660 @@ Dialogs_Intro_BlockedColliders_3_LucyRoom_3_Lucy,62947082249,Esquisito...
 Dialogs_Intro_BlockedColliders_4_LucyRoom_0_Lucy,62947082250,Apenas vá para o meu quarto...
 Dialogs_Intro_BlockedColliders_DishWashing_0_Player,62947082251,Ainda não terminei os pratos
 Dialogs_Intro_BlockedColliders_FindingSpotKitchen_0_Player,62947082252,"""Eu acho que é melhor não chamar atenção"""
-Dialogs_Intro_BlockedColliders_GoingToSleep_0_Player,62947082253,"*If I go there, Sarah will see me... let's go to sleep now*"
-Dialogs_Intro_BlockedColliders_ShouldSit_0_Player,62947082254,"""I should't go there now"""
-Dialogs_Intro_BlockedColliders_WaitForLucy_0_Player,62947082255,*I should probably stay in the room*
-Dialogs_Intro_Bus_1_WhenArive_0_Player,62947082256,When do you think you'll arrive at Sarah's place?
-Dialogs_Intro_Bus_1_WhenArive_1_Emma,62947082257,"I don't know yet, sweetie..."
-Dialogs_Intro_Bus_1_WhenArive_2_Emma,62947082258,They extended my business trip because of some troubles with the client...
+Dialogs_Intro_BlockedColliders_GoingToSleep_0_Player,62947082253,"*Se eu for lá, Sarah me verá... Vamos dormir agora*"
+Dialogs_Intro_BlockedColliders_ShouldSit_0_Player,62947082254,"""Eu não deveria ir lá agora"""
+Dialogs_Intro_BlockedColliders_WaitForLucy_0_Player,62947082255,*Eu provavelmente deveria ficar na sala*
+Dialogs_Intro_Bus_1_WhenArive_0_Player,62947082256,Quando você acha que vai chegar na casa da Sarah?
+Dialogs_Intro_Bus_1_WhenArive_1_Emma,62947082257,"Ainda não sei, querido..."
+Dialogs_Intro_Bus_1_WhenArive_2_Emma,62947082258,Eles estenderam minha viagem de negócios por causa de alguns problemas com o cliente...
 Dialogs_Intro_Bus_1_WhenArive_3_Emma,62947082259,"Meu chefe não explica muito, mas o fato é que ainda tenho que ficar aqui por um tempo."
-Dialogs_Intro_Bus_1_WhenArive_4_Player,62947082260,Again...
+Dialogs_Intro_Bus_1_WhenArive_4_Player,62947082260,De novo...
 Dialogs_Intro_Bus_1_WhenArive_5_Player,62947082261,Seu chefe vive te enchendo de trabalho. Talvez seja hora de pensar em parar de trabalhar pra ele?
-Dialogs_Intro_Bus_1_WhenArive_6_Emma,62947082262,"You know I can't, sweetie..."
-Dialogs_Intro_Bus_1_WhenArive_7_Emma,62947082263,We need money and since your dad...
-Dialogs_Intro_Bus_1_WhenArive_8_Emma,62947082264,Well you know...
-Dialogs_Intro_Bus_1_WhenArive_9_Emma,62947082265,Since then we need it even more
-Dialogs_Intro_Bus_1_2_IWillWork_0_Player,62947082266,"I can work, mom!"
-Dialogs_Intro_Bus_1_2_IWillWork_1_Player,62947082267,I can't stand seeing you working 24/7 just for us to survive anymore...
-Dialogs_Intro_Bus_1_2_IWillWork_2_Player,62947082268,"I'm also sick of that prick boss of yours using your time, knowing our situation!"
-Dialogs_Intro_Bus_1_2_IWillWork_3_Emma,62947082269,That's really sweet of you
-Dialogs_Intro_Bus_1_2_IWillWork_4_Emma,62947082270,But it's better for you to focus on your future and study hard
-Dialogs_Intro_Bus_1_2_IWillWork_5_Emma,62947082271,For now I'll be the one working
-Dialogs_Intro_Bus_1_2_IWillWork_6_Emma,62947082272,At least they're paying well for the overtimes
-Dialogs_Intro_Bus_2_1Bothering_0_Player,62947082273,I feel a bit uncomfortable about having to live with Sarah
-Dialogs_Intro_Bus_2_1Bothering_1_Player,62947082274,Not in a bad way...
-Dialogs_Intro_Bus_2_1Bothering_2_Player,62947082275,I just worry that I might be bothering her and others
-Dialogs_Intro_Bus_2_1Bothering_3_Emma,62947082276,Don't worry about that
-Dialogs_Intro_Bus_2_1Bothering_4_Emma,62947082277,It was actually her idea for us to come
-Dialogs_Intro_Bus_2_1Bothering_5_Emma,62947082278,"I was talking with her recently, and told her about our situation"
-Dialogs_Intro_Bus_2_1Bothering_6_Emma,62947082279,"She suggested that herself, that we move into her house"
-Dialogs_Intro_Bus_2_1Bothering_7_Emma,62947082280,"I was uncomfortable too, but she said it's ok"
-Dialogs_Intro_Bus_2_1Bothering_8_Emma,62947082281,"Most of the time, she’s alone at home and would appreciate the company anyway"
-Dialogs_Intro_Bus_2_1Bothering_9_Player,62947082282,Ah ok... that makes it a little easier for me
-Dialogs_Intro_Bus_2_2LongTimeNoSee_0_Player,62947082283,It's been so long since I last saw Sarah
-Dialogs_Intro_Bus_2_2LongTimeNoSee_1_Player,62947082284,Why didn’t we visit her?
-Dialogs_Intro_Bus_2_2LongTimeNoSee_2_Emma,62947082285,"Well, it’s mostly due to a lack of free time"
-Dialogs_Intro_Bus_2_2LongTimeNoSee_3_Emma,62947082286,"Your dad and I were hard-working people, as you could see..."
-Dialogs_Intro_Bus_2_2LongTimeNoSee_4_Emma,62947082287,And you were at school
-Dialogs_Intro_Bus_2_2LongTimeNoSee_5_Emma,62947082288,"Once Sarah moved to a different city, it didn’t feel worth the effort anymore"
+Dialogs_Intro_Bus_1_WhenArive_6_Emma,62947082262,Você sabe que eu não posso...
+Dialogs_Intro_Bus_1_WhenArive_7_Emma,62947082263,Precisamos de dinheiro e desde o seu pai...
+Dialogs_Intro_Bus_1_WhenArive_8_Emma,62947082264,"Bem, você sabe..."
+Dialogs_Intro_Bus_1_WhenArive_9_Emma,62947082265,"Desde então, precisamos disso ainda mais"
+Dialogs_Intro_Bus_1_2_IWillWork_0_Player,62947082266,"Eu posso trabalhar, mãe!"
+Dialogs_Intro_Bus_1_2_IWillWork_1_Player,62947082267,"Não suporto mais ver você trabalhando 24 horas por dia, 7 dias por semana, só para conseguirmos sobreviver..."
+Dialogs_Intro_Bus_1_2_IWillWork_2_Player,62947082268,"Também estou cansado desse seu chefe idiota usando seu tempo, mesmo sabendo da nossa situação!"
+Dialogs_Intro_Bus_1_2_IWillWork_3_Emma,62947082269,Isso é muito gentil da sua parte
+Dialogs_Intro_Bus_1_2_IWillWork_4_Emma,62947082270,Mas é melhor você se concentrar no seu futuro e estudar muito
+Dialogs_Intro_Bus_1_2_IWillWork_5_Emma,62947082271,"Por enquanto, quem vai trabalhar sou eu"
+Dialogs_Intro_Bus_1_2_IWillWork_6_Emma,62947082272,Pelo menos eles estão pagando bem pelas horas extras
+Dialogs_Intro_Bus_2_1Bothering_0_Player,62947082273,Estou um pouco desconfortável com a ideia de ter que morar com a Sarah
+Dialogs_Intro_Bus_2_1Bothering_1_Player,62947082274,Não de uma maneira ruim...
+Dialogs_Intro_Bus_2_1Bothering_2_Player,62947082275,Eu apenas me preocupo que eu possa estar incomodando ela e outros
+Dialogs_Intro_Bus_2_1Bothering_3_Emma,62947082276,Não se preocupe com isso
+Dialogs_Intro_Bus_2_1Bothering_4_Emma,62947082277,"Na verdade, foi ela quem sugeriu que viéssemos"
+Dialogs_Intro_Bus_2_1Bothering_5_Emma,62947082278,Eu estava conversando com ela recentemente e contei a ela sobre a nossa situação
+Dialogs_Intro_Bus_2_1Bothering_6_Emma,62947082279,Ela mesma sugeriu que nos mudássemos para a casa dela
+Dialogs_Intro_Bus_2_1Bothering_7_Emma,62947082280,"Eu também estava desconfortável, mas ela disse que está tudo bem"
+Dialogs_Intro_Bus_2_1Bothering_8_Emma,62947082281,"Na maior parte do tempo, ela fica sozinha em casa e certamente apreciaria companhia"
+Dialogs_Intro_Bus_2_1Bothering_9_Player,62947082282,Ah ok...Isso torna um pouco mais fácil para mim
+Dialogs_Intro_Bus_2_2LongTimeNoSee_0_Player,62947082283,Faz tanto tempo desde a última vez que vi Sarah
+Dialogs_Intro_Bus_2_2LongTimeNoSee_1_Player,62947082284,Por que não a visitamos?
+Dialogs_Intro_Bus_2_2LongTimeNoSee_2_Emma,62947082285,"Bem, é principalmente devido à falta de tempo livre"
+Dialogs_Intro_Bus_2_2LongTimeNoSee_3_Emma,62947082286,"Seu pai e eu éramos pessoas trabalhadoras, como você podia ver..."
+Dialogs_Intro_Bus_2_2LongTimeNoSee_4_Emma,62947082287,E você estava na escola
+Dialogs_Intro_Bus_2_2LongTimeNoSee_5_Emma,62947082288,"Depois que a Sarah se mudou para outra cidade, não parecia mais valer a pena"
 Dialogs_Intro_Bus_2_2LongTimeNoSee_6_Emma,62947082289,"Seu pai achava que era melhor passar o tempo livre em férias emocionantes, e eu concordei."
-Dialogs_Intro_Bus_2_2LongTimeNoSee_7_Player,62947082290,Why not take a trip together?
-Dialogs_Intro_Bus_2_2LongTimeNoSee_8_Emma,62947082291,Your dad’s schedule and Benjamin’s schedule didn’t match
-Dialogs_Intro_Bus_2_2LongTimeNoSee_9_Player,62947082292,That makes sense
-Dialogs_Intro_Bus_2_3SarahJob_0_Player,62947082293,"You said, that Sarah is alone most of the time"
-Dialogs_Intro_Bus_2_3SarahJob_1_Player,62947082294,Is she not working?
-Dialogs_Intro_Bus_2_3SarahJob_2_Player,62947082295,I remember she had a dream of becoming an artist
-Dialogs_Intro_Bus_2_3SarahJob_3_Player,62947082296,Her drawings were so beautiful
-Dialogs_Intro_Bus_2_3SarahJob_4_Emma,62947082297,"Oh, I guess you are right"
-Dialogs_Intro_Bus_2_3SarahJob_5_Emma,62947082298,I forgot about that
-Dialogs_Intro_Bus_2_3SarahJob_6_Emma,62947082299,"You'll have to ask her that yourself, but right now she doesn't work"
-Dialogs_Intro_Bus_2_3SarahJob_7_Emma,62947082300,My guess is it’s ‘cause of all the household chores that have to be done
-Dialogs_Intro_Bus_2_3SarahJob_8_Player,62947082301,That's a shame
-Dialogs_Intro_InteractableInterest_ChildPainting_0_Player,62947082302,This painting looks like a child drew it
-Dialogs_Intro_InteractableInterest_ClothingBasket_0_Player,62947082303,Maybe Sarah
-Dialogs_Intro_InteractableInterest_ClothingBasket_1_Player,62947082304,I better do not touch it... yet
+Dialogs_Intro_Bus_2_2LongTimeNoSee_7_Player,62947082290,Por que não fazer uma viagem juntos?
+Dialogs_Intro_Bus_2_2LongTimeNoSee_8_Emma,62947082291,Os horários do seu pai e do Benjamin não coincidem
+Dialogs_Intro_Bus_2_2LongTimeNoSee_9_Player,62947082292,Isso faz sentido
+Dialogs_Intro_Bus_2_3SarahJob_0_Player,62947082293,Você disse que Sarah está sozinha na maioria das vezes
+Dialogs_Intro_Bus_2_3SarahJob_1_Player,62947082294,Ela não está trabalhando?
+Dialogs_Intro_Bus_2_3SarahJob_2_Player,62947082295,Lembro que ela sonhava em se tornar uma artista
+Dialogs_Intro_Bus_2_3SarahJob_3_Player,62947082296,Seus desenhos eram tão bonitos
+Dialogs_Intro_Bus_2_3SarahJob_4_Emma,62947082297,"Ah, acho que você tem razão"
+Dialogs_Intro_Bus_2_3SarahJob_5_Emma,62947082298,Eu esqueci disso
+Dialogs_Intro_Bus_2_3SarahJob_6_Emma,62947082299,"Você vai ter que perguntar isso a ela pessoalmente, mas, por enquanto, ela não está trabalhando"
+Dialogs_Intro_Bus_2_3SarahJob_7_Emma,62947082300,Acho que é por causa de todas as tarefas domésticas que precisam ser feitas.
+Dialogs_Intro_Bus_2_3SarahJob_8_Player,62947082301,Isso é uma pena
+Dialogs_Intro_InteractableInterest_ChildPainting_0_Player,62947082302,Esta pintura parece ter sido feita por uma criança.
+Dialogs_Intro_InteractableInterest_ClothingBasket_0_Player,62947082303,Talvez Sarah
+Dialogs_Intro_InteractableInterest_ClothingBasket_1_Player,62947082304,É melhor eu não tocar nisso… ainda
 Dialogs_Intro_InteractableInterest_GameStation_0_Player,62947082305,Acredito que seja a nova Polystation... Sempre quis jogar os jogos ‘exclusivos’ dessa belezinha.
-Dialogs_Intro_InteractableInterest_GameStation_1_Player,62947082306,Let's ask Sarah about that...
-Dialogs_Intro_InteractableInterest_GarageDoor_0_Player,62947082307,This door is closed...
-Dialogs_Intro_InteractableInterest_GarageDoor_1_Player,62947082308,I think it leads to the garage
-Dialogs_Intro_InteractableInterest_PaintingSecondFloor_0_Player,62947082309,These paintings look really weird...
-Dialogs_Intro_InteractableInterest_PaintingSecondFloor_1_Player,62947082310,I’ve never understood modern art...
-Dialogs_Intro_Redirects_Benjamin_Apologize_0_Player,62947082311,"Yes, I wanted to apologize"
-Dialogs_Intro_Redirects_Benjamin_Apologize_1_Benjamin,62947082312,Desculpas aceitas.
-Dialogs_Intro_Redirects_Benjamin_Apologize_2_Benjamin,62947082313,And yeah...
-Dialogs_Intro_Redirects_Benjamin_Apologize_3_Benjamin,62947082314,Sarah spoke to me after
-Dialogs_Intro_Redirects_Benjamin_Apologize_4_Benjamin,62947082315,Well... I didn't mean to insult you
-Dialogs_Intro_Redirects_Benjamin_Apologize_5_Benjamin,62947082316,Sorry. But i'm sure you're fine
-Dialogs_Intro_Redirects_Benjamin_Apologize_6_Player,62947082317,Desculpas aceitas.
+Dialogs_Intro_InteractableInterest_GameStation_1_Player,62947082306,Vamos perguntar a Sarah sobre isso...
+Dialogs_Intro_InteractableInterest_GarageDoor_0_Player,62947082307,Esta porta está fechada...
+Dialogs_Intro_InteractableInterest_GarageDoor_1_Player,62947082308,Eu acho que isso leva à garagem
+Dialogs_Intro_InteractableInterest_PaintingSecondFloor_0_Player,62947082309,Essas pinturas parecem realmente estranhas...
+Dialogs_Intro_InteractableInterest_PaintingSecondFloor_1_Player,62947082310,Eu nunca entendi arte moderna...
+Dialogs_Intro_Redirects_Benjamin_Apologize_0_Player,62947082311,"Sim, eu queria me desculpar"
+Dialogs_Intro_Redirects_Benjamin_Apologize_1_Benjamin,62947082312,Desculpas Aceitas.
+Dialogs_Intro_Redirects_Benjamin_Apologize_2_Benjamin,62947082313,E sim...
+Dialogs_Intro_Redirects_Benjamin_Apologize_3_Benjamin,62947082314,Sarah falou comigo depois
+Dialogs_Intro_Redirects_Benjamin_Apologize_4_Benjamin,62947082315,Bem... Eu não queria te insultar
+Dialogs_Intro_Redirects_Benjamin_Apologize_5_Benjamin,62947082316,Desculpe. Mas tenho certeza de que você está bem
+Dialogs_Intro_Redirects_Benjamin_Apologize_6_Player,62947082317,Desculpas Aceitas.
 Dialogs_Intro_Redirects_Benjamin_BenjaminFreeRoam_0_Benjamin,62947082318,Hm?
 Dialogs_Intro_Redirects_Benjamin_EarlierHarsh_0_Player,62947082319,Sobre antes...
-Dialogs_Intro_Redirects_Benjamin_EarlierHarsh_1_Benjamin,62947082320,Came to apologize?
+Dialogs_Intro_Redirects_Benjamin_EarlierHarsh_1_Benjamin,62947082320,Veio se desculpar?
 Dialogs_Intro_Redirects_Benjamin_EarlierPolite_0_Player,62947082321,Sobre antes...
-Dialogs_Intro_Redirects_Benjamin_EarlierPolite_1_Benjamin,62947082322,You mean the 'gay' situation?
+Dialogs_Intro_Redirects_Benjamin_EarlierPolite_1_Benjamin,62947082322,Você quer dizer a situação 'gay'?
 Dialogs_Intro_Redirects_Benjamin_EarlierPolite_2_Player,62947082323,Sim
-Dialogs_Intro_Redirects_Benjamin_EarlierPolite_3_Benjamin,62951276544,Is there something to discuss?
-Dialogs_Intro_Redirects_Benjamin_EarlierPolite_4_Benjamin,62951276545,You made it clear that you don't want to answer that
-Dialogs_Intro_Redirects_Benjamin_EarlierPolite_5_Benjamin,62951276546,And I apologized for that...
+Dialogs_Intro_Redirects_Benjamin_EarlierPolite_3_Benjamin,62951276544,Há algo para discutir?
+Dialogs_Intro_Redirects_Benjamin_EarlierPolite_4_Benjamin,62951276545,Você deixou claro que não quer responder a isso
+Dialogs_Intro_Redirects_Benjamin_EarlierPolite_5_Benjamin,62951276546,E eu pedi desculpas por isso...
 Dialogs_Intro_Redirects_Benjamin_ExchangeNumbers_0_Player,62951276547,Posso ter o seu número?
 Dialogs_Intro_Redirects_Benjamin_ExchangeNumbers_1_Benjamin,62951276548,Claro!
-Dialogs_Intro_Redirects_Benjamin_NoApologize_0_Player,62951276549,"No, I don't"
-Dialogs_Intro_Redirects_Benjamin_NoApologize_1_Benjamin,62951276550,I did expect that
-Dialogs_Intro_Redirects_Benjamin_NoApologize_2_Benjamin,62951276551,"Listen, I get it..."
-Dialogs_Intro_Redirects_Benjamin_NoApologize_3_Benjamin,62951276552,"You stood your ground, I respect that"
-Dialogs_Intro_Redirects_Benjamin_NoApologize_4_Benjamin,62951276553,But I will not tolerate being spoken to like this
-Dialogs_Intro_Redirects_Benjamin_NoApologize_5_Benjamin,62951276554,"And since you're under my roof, as I mentioned earlier"
-Dialogs_Intro_Redirects_Benjamin_NoApologize_6_Player,62951276555,"Yeah, I get it... your rules"
-Dialogs_Intro_Redirects_Benjamin_NoApologize_7_Player,62951276556,"""What a jerk"""
-Dialogs_Intro_Redirects_Benjamin_NoApologize_8_Benjamin,62951276557,Correct
-Dialogs_Intro_Redirects_Benjamin_NoApologize_9_Benjamin,62951276558,Let's consider this conflict resolved. Anything else?
-Dialogs_Intro_Redirects_Benjamin_PoliteTooFar_0_Player,62951276559,You took it too far
-Dialogs_Intro_Redirects_Benjamin_PoliteTooFar_1_Benjamin,62951276560,What do you want me to do now?
-Dialogs_Intro_Redirects_Benjamin_PoliteTooFar_2_Benjamin,62951276561,"I already did apologize, I won't do it again"
-Dialogs_Intro_Redirects_Benjamin_PolitYoureRight_0_Player,62951276562,"You're right, there's nothing more to discuss"
-Dialogs_Intro_Redirects_Benjamin_WhatIsJob_0_Player,62951276563,What is your job there?
-Dialogs_Intro_Redirects_Benjamin_WhatIsJob_1_Benjamin,62951276564,"Selling, kiddo"
-Dialogs_Intro_Redirects_Benjamin_WhatIsJob_2_Benjamin,62951276565,"Remember, if you want to get rich, selling is the way to go"
-Dialogs_Intro_Redirects_Benjamin_WhatIsJob_3_Player,62951276566,Are you rich?
-Dialogs_Intro_Redirects_Benjamin_WhatIsJob_4_Benjamin,62951276567,Depends on how you define rich
-Dialogs_Intro_Redirects_Benjamin_WhatIsJob_5_Benjamin,62951276568,But I guess not...
-Dialogs_Intro_Redirects_Benjamin_WhatIsJob_6_Player,62951276569,What do you sell?
-Dialogs_Intro_Redirects_Benjamin_WhatIsJob_7_Benjamin,62951276570,I don't want to talk about this too much
-Dialogs_Intro_Redirects_Benjamin_WhatIsJob_8_Benjamin,62951276571,We're selling software
-Dialogs_Intro_Redirects_Benjamin_WhatIsJob_9_Benjamin,62951276572,Actually I don't even know what it does haha
-Dialogs_Intro_Redirects_Benjamin_WhatIsJob_10_Benjamin,62951276573,"But what I know, that people need it"
-Dialogs_Intro_Redirects_Benjamin_WhatIsJob_11_Benjamin,62951276574,And that's the only thing I care about
-Dialogs_Intro_Redirects_Benjamin_WhatIsJob_12_Player,62951276575,"If it makes you happy, then fine..."
-Dialogs_Intro_Redirects_Benjamin_WhatIsJob_13_Benjamin,62951276576,Come by and visit me at the office... I'll show you around
-Dialogs_Intro_Redirects_Benjamin_WhatIsJob_14_Benjamin,62951276577,Maybe you'll like it too
+Dialogs_Intro_Redirects_Benjamin_NoApologize_0_Player,62951276549,"Não, eu não"
+Dialogs_Intro_Redirects_Benjamin_NoApologize_1_Benjamin,62951276550,Eu esperava isso
+Dialogs_Intro_Redirects_Benjamin_NoApologize_2_Benjamin,62951276551,"Olha, eu entendo..."
+Dialogs_Intro_Redirects_Benjamin_NoApologize_3_Benjamin,62951276552,"Você ficou firme, eu respeito isso"
+Dialogs_Intro_Redirects_Benjamin_NoApologize_4_Benjamin,62951276553,Mas não vou tolerar que falem comigo desse jeito
+Dialogs_Intro_Redirects_Benjamin_NoApologize_5_Benjamin,62951276554,"E, já que você está sob o meu teto, como mencionei antes…"
+Dialogs_Intro_Redirects_Benjamin_NoApologize_6_Player,62951276555,"Sim, eu entendo… suas regras."
+Dialogs_Intro_Redirects_Benjamin_NoApologize_7_Player,62951276556,"""Que idiota"""
+Dialogs_Intro_Redirects_Benjamin_NoApologize_8_Benjamin,62951276557,Certo
+Dialogs_Intro_Redirects_Benjamin_NoApologize_9_Benjamin,62951276558,Vamos considerar esse conflito resolvido. Algo mais?
+Dialogs_Intro_Redirects_Benjamin_PoliteTooFar_0_Player,62951276559,Você exagerou
+Dialogs_Intro_Redirects_Benjamin_PoliteTooFar_1_Benjamin,62951276560,O que você quer que eu faça agora?
+Dialogs_Intro_Redirects_Benjamin_PoliteTooFar_2_Benjamin,62951276561,"Eu já me desculpei, não vou fazer de novo"
+Dialogs_Intro_Redirects_Benjamin_PolitYoureRight_0_Player,62951276562,"Você está certo, não há mais nada para discutir"
+Dialogs_Intro_Redirects_Benjamin_WhatIsJob_0_Player,62951276563,Qual é o seu trabalho lá?
+Dialogs_Intro_Redirects_Benjamin_WhatIsJob_1_Benjamin,62951276564,"Vendendo, garoto"
+Dialogs_Intro_Redirects_Benjamin_WhatIsJob_2_Benjamin,62951276565,"Lembre-se: se você quiser ficar rico, vender é o caminho"
+Dialogs_Intro_Redirects_Benjamin_WhatIsJob_3_Player,62951276566,Você é rico?
+Dialogs_Intro_Redirects_Benjamin_WhatIsJob_4_Benjamin,62951276567,Depende de como você define rico
+Dialogs_Intro_Redirects_Benjamin_WhatIsJob_5_Benjamin,62951276568,Mas acho que não...
+Dialogs_Intro_Redirects_Benjamin_WhatIsJob_6_Player,62951276569,O que você vende?
+Dialogs_Intro_Redirects_Benjamin_WhatIsJob_7_Benjamin,62951276570,Eu não quero falar muito sobre isso
+Dialogs_Intro_Redirects_Benjamin_WhatIsJob_8_Benjamin,62951276571,Estamos vendendo software
+Dialogs_Intro_Redirects_Benjamin_WhatIsJob_9_Benjamin,62951276572,"Na verdade, eu nem sei o que faz haha"
+Dialogs_Intro_Redirects_Benjamin_WhatIsJob_10_Benjamin,62951276573,"Mas pelo que eu sei, as pessoas precisam disso"
+Dialogs_Intro_Redirects_Benjamin_WhatIsJob_11_Benjamin,62951276574,E essa é a única coisa que me preocupo
+Dialogs_Intro_Redirects_Benjamin_WhatIsJob_12_Player,62951276575,"Se isso te faz feliz, então tudo bem..."
+Dialogs_Intro_Redirects_Benjamin_WhatIsJob_13_Benjamin,62951276576,Passe lá no meu escritório… eu te mostro tudo
+Dialogs_Intro_Redirects_Benjamin_WhatIsJob_14_Benjamin,62951276577,Talvez você goste também
 Dialogs_Intro_Redirects_Benjamin_WhatIsJob_15_Player,62951276578,Claro...
-Dialogs_Intro_Redirects_Benjamin_WhereWork_0_Player,62951276579,Where do you work?
-Dialogs_Intro_Redirects_Benjamin_WhereWork_1_Benjamin,62951276580,I work at work haha
-Dialogs_Intro_Redirects_Benjamin_WhereWork_2_Player,62951276581,Right...
-Dialogs_Intro_Redirects_Benjamin_WhereWork_3_Benjamin,62951276582,I work at an office in the center of the city
-Dialogs_Intro_Redirects_Benjamin_WhereWork_4_Benjamin,62951276583,You can actually see the building from the windows on the second floor
-Dialogs_Intro_Redirects_Benjamin_WhereWork_5_Benjamin,62951276584,I mean the window on the left when you get to the second floor
-Dialogs_Intro_Redirects_Benjamin_WhereWork_6_Benjamin,62951276585,It's the tallest building in the city...
-Dialogs_Intro_Redirects_Benjamin_WhereWork_7_Benjamin,62951276586,"If you ever want to visit me, you'll always find your way by following it"
-Dialogs_Intro_Redirects_Benjamin_WhyStartThen_0_Player,62951276587,Forget it... it's nothing
-Dialogs_Intro_Redirects_Benjamin_WhyStartThen_1_Benjamin,62951276588,Why even start then?
-Dialogs_Intro_Redirects_Lisa_DadAnswered_0_Player,62951276589,About the situation with your dad and Lucy today...
+Dialogs_Intro_Redirects_Benjamin_WhereWork_0_Player,62951276579,Onde você trabalha?
+Dialogs_Intro_Redirects_Benjamin_WhereWork_1_Benjamin,62951276580,Eu trabalho no trabalho haha
+Dialogs_Intro_Redirects_Benjamin_WhereWork_2_Player,62951276581,Certo...
+Dialogs_Intro_Redirects_Benjamin_WhereWork_3_Benjamin,62951276582,Eu trabalho em um escritório no centro da cidade
+Dialogs_Intro_Redirects_Benjamin_WhereWork_4_Benjamin,62951276583,"Na verdade, você consegue ver o prédio pelas janelas do segundo andar"
+Dialogs_Intro_Redirects_Benjamin_WhereWork_5_Benjamin,62951276584,Quero dizer a janela à esquerda quando você subir para o segundo andar
+Dialogs_Intro_Redirects_Benjamin_WhereWork_6_Benjamin,62951276585,É o edifício mais alto da cidade...
+Dialogs_Intro_Redirects_Benjamin_WhereWork_7_Benjamin,62951276586,"Se você quiser me visitar, sempre vai conseguir chegar seguindo por ele"
+Dialogs_Intro_Redirects_Benjamin_WhyStartThen_0_Player,62951276587,Esqueça… não é nada.
+Dialogs_Intro_Redirects_Benjamin_WhyStartThen_1_Benjamin,62951276588,Por que começar então?
+Dialogs_Intro_Redirects_Lisa_DadAnswered_0_Player,62951276589,Sobre a situação com seu pai e a Lucy hoje…
 Dialogs_Intro_Redirects_Lisa_DadAnswered_1_Lisa,62951276590,Eu sei...
-Dialogs_Intro_Redirects_Lisa_DadContinue_0_Lisa,62951276591,"You might think, that dad is a really weird and controlling person"
-Dialogs_Intro_Redirects_Lisa_DadContinue_1_Lisa,62951276592,But he isn't
-Dialogs_Intro_Redirects_Lisa_DadContinue_2_Lisa,62951276593,He just wants the best for us
-Dialogs_Intro_Redirects_Lisa_DadContinue_3_Lisa,62951276594,To get a degree and become successful
-Dialogs_Intro_Redirects_Lisa_DadContinue_4_Lisa,62951276595,And not just drink away our youth...
-Dialogs_Intro_Redirects_Lisa_DadContinue_5_Lisa,62951276596,His approach is a bit... yeah you've seen how it is
-Dialogs_Intro_Redirects_Lisa_DadContinue_6_Lisa,62951276597,But still... it's not because he is a bad person
-Dialogs_Intro_Redirects_Lisa_DadContinue_7_Player,62951276598,Thank you for sharing your opinion on that...
-Dialogs_Intro_Redirects_Lisa_DadHarsh_0_Player,62951276599,Sobre a situação com seu pai hoje...
+Dialogs_Intro_Redirects_Lisa_DadContinue_0_Lisa,62951276591,Você pode achar que o seu pai é uma pessoa bem estranha e controladora
+Dialogs_Intro_Redirects_Lisa_DadContinue_1_Lisa,62951276592,Mas ele não é
+Dialogs_Intro_Redirects_Lisa_DadContinue_2_Lisa,62951276593,Ele só quer o melhor para nós
+Dialogs_Intro_Redirects_Lisa_DadContinue_3_Lisa,62951276594,Para tirar um diploma e se tornar bem-sucedido
+Dialogs_Intro_Redirects_Lisa_DadContinue_4_Lisa,62951276595,E não apenas gastar nossa juventude bebendo…
+Dialogs_Intro_Redirects_Lisa_DadContinue_5_Lisa,62951276596,A maneira dele é meio… você já viu como é
+Dialogs_Intro_Redirects_Lisa_DadContinue_6_Lisa,62951276597,Mas ainda assim… não é porque ele seja uma pessoa ruim
+Dialogs_Intro_Redirects_Lisa_DadContinue_7_Player,62951276598,Obrigado por compartilhar sua opinião sobre isso...
+Dialogs_Intro_Redirects_Lisa_DadHarsh_0_Player,62951276599,Sobre a Situação com Seu Pai Pai Hoje...
 Dialogs_Intro_Redirects_Lisa_DadHarsh_1_Lisa,62951276600,Sim...
-Dialogs_Intro_Redirects_Lisa_DadHarsh_2_Lisa,62951276601,I think you shouldn't have reacted so aggressively to him...
-Dialogs_Intro_Redirects_Lisa_DadPolite_0_Player,62951276602,Sobre a situação com seu pai hoje...
+Dialogs_Intro_Redirects_Lisa_DadHarsh_2_Lisa,62951276601,Eu acho que você não deveria ter reagido tão agressivamente a ele…
+Dialogs_Intro_Redirects_Lisa_DadPolite_0_Player,62951276602,Sobre a Situação com Seu Pai Pai Hoje...
 Dialogs_Intro_Redirects_Lisa_DadPolite_1_Lisa,62951276603,Sim...
-Dialogs_Intro_Redirects_Lisa_DadPolite_2_Lisa,62951276604,I Like how you handled it today
-Dialogs_Intro_Redirects_Lisa_DadPolite_3_Lisa,62951276605,So gently and on point... that's how I like it
-Dialogs_Intro_Redirects_Lisa_DadPolite_4_Player,62951276606,I'll keep that in mind
+Dialogs_Intro_Redirects_Lisa_DadPolite_2_Lisa,62951276604,Gostei de como você lidou com a situação hoje
+Dialogs_Intro_Redirects_Lisa_DadPolite_3_Lisa,62951276605,Tão delicado e na medida certa… é assim que eu gosto
+Dialogs_Intro_Redirects_Lisa_DadPolite_4_Player,62951276606,Vou ter isso em mente
 Dialogs_Intro_Redirects_Lisa_ExchangeNumbers_0_Player,62951276607,Posso ter o seu número?
-Dialogs_Intro_Redirects_Lisa_ExchangeNumbers_1_Lisa,62951276608,Of course! Here you go
-Dialogs_Intro_Redirects_Lisa_GameStation_0_Player,62951276609,Hey... Sarah told me to ask you about the GameStation
-Dialogs_Intro_Redirects_Lisa_GameStation_1_Lisa,62951276610,What is about it?
-Dialogs_Intro_Redirects_Lisa_GameStation_2_Player,62951276611,"I heard it is broken, what happened to it?"
-Dialogs_Intro_Redirects_Lisa_GameStation_3_Lisa,62951276612,It fell on the ground... and broke
-Dialogs_Intro_Redirects_Lisa_GameStation_4_Player,62951276613,It looks alright on the outside
-Dialogs_Intro_Redirects_Lisa_GameStation_5_Lisa,62951276614,On the inside it is broken though
-Dialogs_Intro_Redirects_Lisa_GameStation_6_Lisa,62951276615,Dad looked at it and said that a part was broken and that he could replace it
-Dialogs_Intro_Redirects_Lisa_GameStation_7_Lisa,62951276616,But he never did
-Dialogs_Intro_Redirects_Lisa_GameStation_8_Lisa,62951276617,And then we just forgot about it
-Dialogs_Intro_Redirects_Lisa_GameStation_9_Player,62951276618,I could try to fix it...
-Dialogs_Intro_Redirects_Lisa_GameStation_10_Lisa,62951276619,That's an great idea!
-Dialogs_Intro_Redirects_Lisa_GameStation_11_Story_0,62951276620,I'll see what I can do
-Dialogs_Intro_Redirects_Lisa_Guitar_0_Player,62951276621,"Your mom said, I could ask you about the guitar"
-Dialogs_Intro_Redirects_Lisa_Guitar_1_Lisa,62951276622,"Yes, do you need one?"
-Dialogs_Intro_Redirects_Lisa_Guitar_2_Player,62951276623,"Na verdade, não..."
-Dialogs_Intro_Redirects_Lisa_Guitar_3_Player,62951276624,I just wanted to chat a little
+Dialogs_Intro_Redirects_Lisa_ExchangeNumbers_1_Lisa,62951276608,Claro! Aqui está
+Dialogs_Intro_Redirects_Lisa_GameStation_0_Player,62951276609,Ei… a Sarah me disse para te perguntar sobre a PolyStation
+Dialogs_Intro_Redirects_Lisa_GameStation_1_Lisa,62951276610,O que é isso?
+Dialogs_Intro_Redirects_Lisa_GameStation_2_Player,62951276611,Ouvi dizer que quebrou. O que aconteceu?
+Dialogs_Intro_Redirects_Lisa_GameStation_3_Lisa,62951276612,Caiu no chão… e quebrou
+Dialogs_Intro_Redirects_Lisa_GameStation_4_Player,62951276613,Parece estar bem por fora
+Dialogs_Intro_Redirects_Lisa_GameStation_5_Lisa,62951276614,"Por dentro, porém, está quebrado"
+Dialogs_Intro_Redirects_Lisa_GameStation_6_Lisa,62951276615,O papai olhou para ele e disse que uma peça estava quebrada e que poderia substituí-la.
+Dialogs_Intro_Redirects_Lisa_GameStation_7_Lisa,62951276616,Mas ele nunca fez
+Dialogs_Intro_Redirects_Lisa_GameStation_8_Lisa,62951276617,E então nós apenas esquecemos disso
+Dialogs_Intro_Redirects_Lisa_GameStation_9_Player,62951276618,Eu poderia tentar consertar isso...
+Dialogs_Intro_Redirects_Lisa_GameStation_10_Lisa,62951276619,Essa é uma ótima ideia!
+Dialogs_Intro_Redirects_Lisa_GameStation_11_Story_0,62951276620,Vou ver o que posso fazer
+Dialogs_Intro_Redirects_Lisa_Guitar_0_Player,62951276621,"Sua mãe disse, eu poderia perguntar sobre o violão"
+Dialogs_Intro_Redirects_Lisa_Guitar_1_Lisa,62951276622,"Sim, você precisa de um?"
+Dialogs_Intro_Redirects_Lisa_Guitar_2_Player,62951276623,"Na Verdade, Não..."
+Dialogs_Intro_Redirects_Lisa_Guitar_3_Player,62951276624,Eu só queria conversar um pouco
 Dialogs_Intro_Redirects_Lisa_Guitar_4_Lisa,62951276625,Ah ok...
-Dialogs_Intro_Redirects_Lisa_Guitar_5_Player,62951276626,"So, you do like music?"
+Dialogs_Intro_Redirects_Lisa_Guitar_5_Player,62951276626,"Então, você gosta de música?"
 Dialogs_Intro_Redirects_Lisa_Guitar_6_Lisa,62951276627,"Sim, eu gosto"
-Dialogs_Intro_Redirects_Lisa_Guitar_7_Player,62951276628,What music do you like?
-Dialogs_Intro_Redirects_Lisa_Guitar_8_Lisa,62951276629,K-Pop mostly...
-Dialogs_Intro_Redirects_Lisa_Guitar_9_Lisa,62951276630,But can listen to rock or rap sometimes
+Dialogs_Intro_Redirects_Lisa_Guitar_7_Player,62951276628,De que música você gosta?
+Dialogs_Intro_Redirects_Lisa_Guitar_8_Lisa,62951276629,K-pop principalmente...
+Dialogs_Intro_Redirects_Lisa_Guitar_9_Lisa,62951276630,Mas pode ouvir rock ou rap às vezes
 Dialogs_Intro_Redirects_Lisa_Guitar_10_Player,62951276631,Legal
-Dialogs_Intro_Redirects_Lisa_Hair_0_Player,62951276632,Your hair...
+Dialogs_Intro_Redirects_Lisa_Hair_0_Player,62951276632,Seu cabelo...
 Dialogs_Intro_Redirects_Lisa_Hair_1_Lisa,62951276633,É mesmo?
-Dialogs_Intro_Redirects_Lisa_Hair_2_Player,62951276634,Do you dye it?
+Dialogs_Intro_Redirects_Lisa_Hair_2_Player,62951276634,Você tinge ele?
 Dialogs_Intro_Redirects_Lisa_Hair_3_Lisa,62951276635,Sim
-Dialogs_Intro_Redirects_Lisa_Hair_4_Lisa,62951276636,Do you think it doesn’t suit me?
-Dialogs_Intro_Redirects_Lisa_HairBad_0_Player,62951276637,I don't think it suits
+Dialogs_Intro_Redirects_Lisa_Hair_4_Lisa,62951276636,Você acha que isso não combina comigo?
+Dialogs_Intro_Redirects_Lisa_HairBad_0_Player,62951276637,Eu acho que não combina
 Dialogs_Intro_Redirects_Lisa_HairBad_1_Lisa,62951276638,Ah... tá bom.
-Dialogs_Intro_Redirects_Lisa_HairGreat_0_Player,62951276639,Eu gosto disso.
-Dialogs_Intro_Redirects_Lisa_HairGreat_1_Player,62951276640,It suits you very well
-Dialogs_Intro_Redirects_Lisa_HairGreat_2_Lisa,62951276641,Obrigado
+Dialogs_Intro_Redirects_Lisa_HairGreat_0_Player,62951276639,Eu gosto
+Dialogs_Intro_Redirects_Lisa_HairGreat_1_Player,62951276640,Combina muito bem com você
+Dialogs_Intro_Redirects_Lisa_HairGreat_2_Lisa,62951276641,Obrigada
 Dialogs_Intro_Redirects_Lisa_LisaFreeRoam_0_Lisa,62951276642,Oi
-Dialogs_Intro_Redirects_Lucy_1_LucyHowAreYou_0_Lucy,62951276643,Perfect!
-Dialogs_Intro_Redirects_Lucy_1_LucyHowAreYou_1_Lucy,62951276644,Today's THE party and my dad decides to play asshole...
+Dialogs_Intro_Redirects_Lucy_1_LucyHowAreYou_0_Lucy,62951276643,Perfeito!
+Dialogs_Intro_Redirects_Lucy_1_LucyHowAreYou_1_Lucy,62951276644,Hoje é A festa e meu pai resolve bancar o idiota...
 Dialogs_Intro_Redirects_Lucy_2_LucyBenjAnswered_0_Lucy,62951276645,Sim? O que você quer ouvir?
 Dialogs_Intro_Redirects_Lucy_2_LucyBenjAnswered_1_Lucy,62951276646,Que ele é um idiota?
-Dialogs_Intro_Redirects_Lucy_2_LucyBenjAnswered_2_Lucy,62951276647,Seems like you like him though...
-Dialogs_Intro_Redirects_Lucy_2_LucyBenjAnswered_3_Lucy,62951276648,Letting him cross you boundaries like a pussy
-Dialogs_Intro_Redirects_Lucy_2_LucyBenjAnswered_4_Player,62951276649,I'm a guest here... I didn't want to start an argument over nothing
-Dialogs_Intro_Redirects_Lucy_2_LucyBenjAnswered_5_Lucy,62955470848,"If your dignity means nothing to you, then fine"
+Dialogs_Intro_Redirects_Lucy_2_LucyBenjAnswered_2_Lucy,62951276647,Parece que você gosta dele...
+Dialogs_Intro_Redirects_Lucy_2_LucyBenjAnswered_3_Lucy,62951276648,Deixar ele ultrapassar seus limites como um covarde
+Dialogs_Intro_Redirects_Lucy_2_LucyBenjAnswered_4_Player,62951276649,Sou apenas um convidado aqui... não queria começar uma discussão por nada
+Dialogs_Intro_Redirects_Lucy_2_LucyBenjAnswered_5_Lucy,62955470848,"Se a sua dignidade não significa nada pra você, então tudo bem."
 Dialogs_Intro_Redirects_Lucy_2_LucyBenjHarsh_0_Lucy,62955470849,E quanto a ele?
-Dialogs_Intro_Redirects_Lucy_2_LucyBenjHarsh_1_Lucy,62955470850,Maybe you want to hear that he's an asshole?
-Dialogs_Intro_Redirects_Lucy_2_LucyBenjHarsh_2_Lucy,62955470851,I'm happy you put him in his place earlier
-Dialogs_Intro_Redirects_Lucy_2_LucyBenjHarsh_3_Lucy,62955470852,Somebody had to do it...
+Dialogs_Intro_Redirects_Lucy_2_LucyBenjHarsh_1_Lucy,62955470850,Talvez você queira ouvir que ele é um babaca?
+Dialogs_Intro_Redirects_Lucy_2_LucyBenjHarsh_2_Lucy,62955470851,Fico feliz que você tenha colocado ele no lugar dele mais cedo
+Dialogs_Intro_Redirects_Lucy_2_LucyBenjHarsh_3_Lucy,62955470852,Alguém teve que fazer isso...
 Dialogs_Intro_Redirects_Lucy_2_LucyBenjNotAnswered_0_Lucy,62955470853,Sim? O que você quer ouvir?
 Dialogs_Intro_Redirects_Lucy_2_LucyBenjNotAnswered_1_Lucy,62955470854,Que ele é um idiota?
-Dialogs_Intro_Redirects_Lucy_2_LucyBenjNotAnswered_2_Lucy,62955470855,You should have stood your ground when he asked you those stupid questions
-Dialogs_Intro_Redirects_Lucy_2_LucyBenjNotAnswered_3_Lucy,62955470856,At least you didn't answer him when he asked you about your girlfriend...
+Dialogs_Intro_Redirects_Lucy_2_LucyBenjNotAnswered_2_Lucy,62955470855,Você deveria ter se mantido firme quando ele fez aquelas perguntas estúpidas
+Dialogs_Intro_Redirects_Lucy_2_LucyBenjNotAnswered_3_Lucy,62955470856,Pelo menos você não respondeu quando ele lhe perguntou sobre sua namorada...
 Dialogs_Intro_Redirects_Lucy_2_LucyBenjPolite_0_Lucy,62955470857,E quanto a ele?
-Dialogs_Intro_Redirects_Lucy_2_LucyBenjPolite_1_Lucy,62955470858,You want to hear that he's an asshole?
-Dialogs_Intro_Redirects_Lucy_2_LucyBenjPolite_2_Lucy,62955470859,You did a good job not giving him an answer to that question earlier...
-Dialogs_Intro_Redirects_Lucy_2_LucyBenjPolite_3_Lucy,62955470860,You could have been a bit tougher with him
-Dialogs_Intro_Redirects_Lucy_2_LucyBenjPolite_4_Lucy,62955470861,...but this works too
-Dialogs_Intro_Redirects_Lucy_3_LucyGym_0_Player,62955470862,"You said, that there's a gym nearby"
-Dialogs_Intro_Redirects_Lucy_3_LucyGym_1_Lucy,62955470863,Yes I did
-Dialogs_Intro_Redirects_Lucy_3_LucyGym_2_Lucy,62955470864,I also mentioned that we could work out together if you'd like
-Dialogs_Intro_Redirects_Lucy_3_LucyGym_3_Lucy,62955470865,"None of my friends want to go with me, so I could use some company"
-Dialogs_Intro_Redirects_Lucy_3_LucyGym_4_Player,62955470866,How much does the membership cost?
-Dialogs_Intro_Redirects_Lucy_3_LucyGym_5_Lucy,62955470867,I'm not sure anymore...
-Dialogs_Intro_Redirects_Lucy_3_LucyGym_6_Lucy,62955470868,It was around 20c at the time I bought it
-Dialogs_Intro_Redirects_Lucy_3_LucyGym_7_Lucy,62955470869,Maybe a little more now...
-Dialogs_Intro_Redirects_Lucy_3_LucyGym_8_Player,62955470870,You bought it? There is no subscription or monthly payments?
+Dialogs_Intro_Redirects_Lucy_2_LucyBenjPolite_1_Lucy,62955470858,Você quer ouvir que ele é um idiota?
+Dialogs_Intro_Redirects_Lucy_2_LucyBenjPolite_2_Lucy,62955470859,Você fez bem em não dar uma resposta a essa pergunta de antes...
+Dialogs_Intro_Redirects_Lucy_2_LucyBenjPolite_3_Lucy,62955470860,Você poderia ter sido um pouco mais firme com ele
+Dialogs_Intro_Redirects_Lucy_2_LucyBenjPolite_4_Lucy,62955470861,...mas isso também serve
+Dialogs_Intro_Redirects_Lucy_3_LucyGym_0_Player,62955470862,Você disse que tem uma academia aqui perto
+Dialogs_Intro_Redirects_Lucy_3_LucyGym_1_Lucy,62955470863,"Sim, eu disse"
+Dialogs_Intro_Redirects_Lucy_3_LucyGym_2_Lucy,62955470864,"Eu também mencionei que poderíamos trabalhar juntos, se você quiser"
+Dialogs_Intro_Redirects_Lucy_3_LucyGym_3_Lucy,62955470865,"Nenhum dos meus amigos quer ir comigo, então eu poderia aproveitar uma companhia"
+Dialogs_Intro_Redirects_Lucy_3_LucyGym_4_Player,62955470866,Quanto custa a mensalidade?
+Dialogs_Intro_Redirects_Lucy_3_LucyGym_5_Lucy,62955470867,Não tenho mais certeza...
+Dialogs_Intro_Redirects_Lucy_3_LucyGym_6_Lucy,62955470868,Era cerca de 20 centavos na época em que comprei
+Dialogs_Intro_Redirects_Lucy_3_LucyGym_7_Lucy,62955470869,Talvez um pouco mais agora...
+Dialogs_Intro_Redirects_Lucy_3_LucyGym_8_Player,62955470870,Você comprou? Não tem assinatura nem pagamentos mensais?
 Dialogs_Intro_Redirects_Lucy_3_LucyGym_9_Lucy,62955470871,Não
 Dialogs_Intro_Redirects_Lucy_3_LucyGym_10_Player,62955470872,Isso é legal.
 Dialogs_Intro_Redirects_Lucy_3_LucyGym_11_Lucy,62955470873,É
-Dialogs_Intro_Redirects_Lucy_4_LucyParty_0_Player,62955470874,Are you sure you're not overestimating that party?
-Dialogs_Intro_Redirects_Lucy_4_LucyParty_1_Player,62955470875,Those university parties were always lame in our city...
-Dialogs_Intro_Redirects_Lucy_4_LucyParty_2_Lucy,62955470876,You dummy
-Dialogs_Intro_Redirects_Lucy_4_LucyParty_3_Lucy,62955470877,It's not a university party
-Dialogs_Intro_Redirects_Lucy_4_LucyParty_4_Lucy,62955470878,I lied...
-Dialogs_Intro_Redirects_Lucy_4_LucyParty_5_Lucy,62955470879,I thought it might convince Dad to let me go there…
-Dialogs_Intro_Redirects_Lucy_4_LucyParty_6_Lucy,62955470880,But it didn't work
-Dialogs_Intro_Redirects_Lucy_4_LucyParty_7_Lucy,62955470881,I was sure you’d catch the lie right away…
-Dialogs_Intro_Redirects_Lucy_4_LucyParty_8_Lucy,62955470882,I guess I misjudged your abilities...
+Dialogs_Intro_Redirects_Lucy_4_LucyParty_0_Player,62955470874,Tem certeza de que não está exagerando sobre essa festa?
+Dialogs_Intro_Redirects_Lucy_4_LucyParty_1_Player,62955470875,Essas festas universitárias sempre eram sem graça na nossa cidade...
+Dialogs_Intro_Redirects_Lucy_4_LucyParty_2_Lucy,62955470876,Seu bobo
+Dialogs_Intro_Redirects_Lucy_4_LucyParty_3_Lucy,62955470877,Não é uma festa universitária
+Dialogs_Intro_Redirects_Lucy_4_LucyParty_4_Lucy,62955470878,Eu menti...
+Dialogs_Intro_Redirects_Lucy_4_LucyParty_5_Lucy,62955470879,Eu pensei que isso poderia convencer o papai a me deixar ir lá...
+Dialogs_Intro_Redirects_Lucy_4_LucyParty_6_Lucy,62955470880,Mas não funcionou
+Dialogs_Intro_Redirects_Lucy_4_LucyParty_7_Lucy,62955470881,Eu tinha certeza de que você ia perceber a mentira na hora...
+Dialogs_Intro_Redirects_Lucy_4_LucyParty_8_Lucy,62955470882,Acho que julguei mal suas habilidades...
 Dialogs_Intro_Redirects_Lucy_4_LucyParty_9_Player,62955470883,Haha...
-Dialogs_Intro_Redirects_Lucy_4_LucyParty_10_Lucy,62955470884,Sorry... didn't mean to insult you
-Dialogs_Intro_Redirects_Lucy_5_WhatParty_0_Player,62955470885,If it's not a university party... what then?
-Dialogs_Intro_Redirects_Lucy_5_WhatParty_1_Lucy,62955470886,James throws a party at his place
-Dialogs_Intro_Redirects_Lucy_5_WhatParty_2_Lucy,62955470887,His parents are somewhere in France or whatever...
-Dialogs_Intro_Redirects_Lucy_5_WhatParty_3_Lucy,62955470888,So the house's empty for the whole week
-Dialogs_Intro_Redirects_Lucy_5_WhatParty_4_Lucy,62955470889,Hehe... It is going to be the biggest party in the history of our city!
-Dialogs_Intro_Redirects_Lucy_5_WhatParty_5_Lucy,62955470890,And that's exactly why I need to be there today!
-Dialogs_Intro_Redirects_Lucy_5_WhatParty_6_Lucy,62955470891,"You know, I could take you with us..."
-Dialogs_Intro_Redirects_Lucy_5_WhatParty_7_Lucy,62955470892,You seem pretty cool
-Dialogs_Intro_Redirects_Lucy_5_WhatParty_8_Player,62955470893,So... you're going?
-Dialogs_Intro_Redirects_Lucy_5_WhatParty_9_Lucy,62955470894,Ah... Noo...
-Dialogs_Intro_Redirects_Lucy_5_WhatParty_10_Lucy,62955470895,I'll just stay at home
+Dialogs_Intro_Redirects_Lucy_4_LucyParty_10_Lucy,62955470884,Desculpe... não quis te insultar
+Dialogs_Intro_Redirects_Lucy_5_WhatParty_0_Player,62955470885,Se não é uma festa universitária... então o que é?
+Dialogs_Intro_Redirects_Lucy_5_WhatParty_1_Lucy,62955470886,O James vai dar uma festa na casa dele
+Dialogs_Intro_Redirects_Lucy_5_WhatParty_2_Lucy,62955470887,Os pais dele estão em algum lugar na França ou sei lá...
+Dialogs_Intro_Redirects_Lucy_5_WhatParty_3_Lucy,62955470888,Então a casa fica vazia a semana toda
+Dialogs_Intro_Redirects_Lucy_5_WhatParty_4_Lucy,62955470889,Hehe... Será a maior festa da história da nossa cidade
+Dialogs_Intro_Redirects_Lucy_5_WhatParty_5_Lucy,62955470890,E é exatamente por isso que preciso estar lá hoje!
+Dialogs_Intro_Redirects_Lucy_5_WhatParty_6_Lucy,62955470891,"Você sabe, eu poderia te levar conosco..."
+Dialogs_Intro_Redirects_Lucy_5_WhatParty_7_Lucy,62955470892,Você parece muito legal
+Dialogs_Intro_Redirects_Lucy_5_WhatParty_8_Player,62955470893,Então… você vai?
+Dialogs_Intro_Redirects_Lucy_5_WhatParty_9_Lucy,62955470894,Ah... nãooo...
+Dialogs_Intro_Redirects_Lucy_5_WhatParty_10_Lucy,62955470895,Vou ficar em casa
 Dialogs_Intro_Redirects_Lucy_5_WhatParty_11_Player,62955470896,Ehm... ok...
-Dialogs_Intro_Redirects_Lucy_6_BenjContinue_0_Player,62955470897,What makes you so mad?
-Dialogs_Intro_Redirects_Lucy_6_BenjContinue_1_Lucy,62955470898,Really?
-Dialogs_Intro_Redirects_Lucy_6_BenjContinue_2_Lucy,62955470899,"After seeing that scene, you're asking what makes me so mad?"
-Dialogs_Intro_Redirects_Lucy_6_BenjContinue_3_Lucy,62955470900,Dad thinks that he's the boss and can control us however he likes...
-Dialogs_Intro_Redirects_Lucy_6_BenjContinue_4_Lucy,62955470901,But we're all adults now!
-Dialogs_Intro_Redirects_Lucy_6_BenjContinue_5_Lucy,62955470902,I can decide on my own whether to go to the party or not
-Dialogs_Intro_Redirects_Lucy_6_BenjContinue_6_Lucy,62955470903,And I certainly don’t need an old man to tell me whether I can or cannot
-Dialogs_Intro_Redirects_Lucy_6_BenjContinue_7_Lucy,62955470904,Not at my age...
-Dialogs_Intro_Redirects_Lucy_6_BenjContinue_8_Lucy,62955470905,It's not only us he's so controlling about
-Dialogs_Intro_Redirects_Lucy_6_BenjContinue_9_Lucy,62955470906,Mom too...
+Dialogs_Intro_Redirects_Lucy_6_BenjContinue_0_Player,62955470897,O que te deixa tão bravo?
+Dialogs_Intro_Redirects_Lucy_6_BenjContinue_1_Lucy,62955470898,Realmente?
+Dialogs_Intro_Redirects_Lucy_6_BenjContinue_2_Lucy,62955470899,"Depois de ver essa cena, você está perguntando o que me deixa tão brava?"
+Dialogs_Intro_Redirects_Lucy_6_BenjContinue_3_Lucy,62955470900,Papai acha que é o chefe e pode nos controlar do jeito que quiser...
+Dialogs_Intro_Redirects_Lucy_6_BenjContinue_4_Lucy,62955470901,Mas somos todos adultos agora!
+Dialogs_Intro_Redirects_Lucy_6_BenjContinue_5_Lucy,62955470902,Eu posso decidir por conta própria se devo ir para a festa ou não
+Dialogs_Intro_Redirects_Lucy_6_BenjContinue_6_Lucy,62955470903,E certamente não preciso que um velho me diga se posso ou não
+Dialogs_Intro_Redirects_Lucy_6_BenjContinue_7_Lucy,62955470904,Não na minha idade...
+Dialogs_Intro_Redirects_Lucy_6_BenjContinue_8_Lucy,62955470905,Não somos só nós que ele tenta controlar tanto
+Dialogs_Intro_Redirects_Lucy_6_BenjContinue_9_Lucy,62955470906,Mãe também...
 Dialogs_Intro_Redirects_Lucy_6_BenjContinue_10_Lucy,62955470907,<shake>Ugh!</shake>
 Dialogs_Intro_Redirects_Lucy_6_BenjContinue_11_Lucy,62955470908,Vamos mudar de assunto
-Dialogs_Intro_Redirects_Lucy_6_BenjContinue_12_Lucy,62955470909,It makes me even angrier than before...
+Dialogs_Intro_Redirects_Lucy_6_BenjContinue_12_Lucy,62955470909,Isso me deixa ainda mais irritado do que antes...
 Dialogs_Intro_Redirects_Lucy_ExchangeNumbers_0_Player,62955470910,Posso ter o seu número?
-Dialogs_Intro_Redirects_Lucy_ExchangeNumbers_1_Lucy,62955470911,Sure! Here
-Dialogs_Intro_Redirects_Lucy_LucyFreeRoamIntro_0_Lucy,62955470912,What's up?
-Dialogs_Intro_Redirects_LucyAngryDoor_0_Player,62955470913,"""Lisa is talking with Lucy right now"""
-Dialogs_Intro_Redirects_LucyAngryDoor_1_Player,62955470914,"""I shouldn't bother them"""
-Dialogs_Intro_Redirects_MeetRoomOpenTheDoor_0_Sarah,62955470915,Go on... open it
-Dialogs_Intro_Redirects_MeetRoomWhatsWrong_0_Sarah,62955470916,What's wrong?
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_0_Player,62955470917,"I remember you wanted to be an artist. So, what happened to that dream?"
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_1_Sarah,62955470918,"Haha, you have a really good memory"
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_2_Sarah,62955470919,"As you can see, I am not a millionaire"
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_3_Sarah,62955470920,Which means the career wasn’t as successful as I imagined it would be
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_4_Sarah,62955470921,To be precise... the career didn't even started
+Dialogs_Intro_Redirects_Lucy_ExchangeNumbers_1_Lucy,62955470911,Claro! Aqui
+Dialogs_Intro_Redirects_Lucy_LucyFreeRoamIntro_0_Lucy,62955470912,E aí?
+Dialogs_Intro_Redirects_LucyAngryDoor_0_Player,62955470913,"""Lisa está falando com Lucy agora"""
+Dialogs_Intro_Redirects_LucyAngryDoor_1_Player,62955470914,"""Eu não deveria incomodá-las"""
+Dialogs_Intro_Redirects_MeetRoomOpenTheDoor_0_Sarah,62955470915,Vai... abra
+Dialogs_Intro_Redirects_MeetRoomWhatsWrong_0_Sarah,62955470916,O que aconteceu?
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_0_Player,62955470917,"Lembro que você queria ser artista. Então, o que aconteceu com esse sonho?"
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_1_Sarah,62955470918,"Haha, você tem uma memória muito boa"
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_2_Sarah,62955470919,"Como você pode ver, eu não sou uma milionária"
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_3_Sarah,62955470920,O que significa que a carreira não foi tão bem-sucedida quanto eu imaginei que seria
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_4_Sarah,62955470921,Para ser preciso... a carreira nem começou
 Dialogs_Intro_Redirects_Sarah_ArtistCareer_5_Player,62955470922,Como assim?
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_6_Sarah,62955470923,I never even tried becoming one
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_7_Sarah,62955470924,That's what it means
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_8_Player,62955470925,Why not? Your paintings were so good
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_9_Sarah,62955470926,Obrigado
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_6_Sarah,62955470923,Eu nunca sequer tentei me tornar uma
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_7_Sarah,62955470924,Isso é o que quer dizer
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_8_Player,62955470925,Por que não? Suas pinturas eram tão boas
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_9_Sarah,62955470926,Obrigada
 Dialogs_Intro_Redirects_Sarah_ArtistCareer_10_Sarah,62955470927,Bem... você sabe
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_11_Sarah,62955470928,"Life happened, haha"
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_12_Sarah,62955470929,Benjamin had started spending more time at work
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_13_Sarah,62955470930,And the girls were at school most of the times...
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_14_Sarah,62955470931,Someone had to look after the house
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_15_Sarah,62955470932,So I didn't had a choice
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_16_Player,62955470933,And what about now? They're both old enough now... You can try now
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_17_Sarah,62955470934,Now... well now it's too late
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_18_Sarah,62955470935,I'm too old for this now
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_19_Player,62955470936,That's not true! You're not old and it's definitely not too late
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_20_Player,62955470937,You're still young and very pretty. I'm sure you would rock it
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_21_Sarah,62955470938,"OMG, sweetie"
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_22_Sarah,62955470939,"Stop it, you making me blush"
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_23_Sarah,62955470940,I actually draw from time to time
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_24_Sarah,62955470941,The paintings in the house...
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_25_Sarah,62955470942,Some of them are mine
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_26_Sarah,62955470943,"Thank you for your kind words, @{player}"
-Dialogs_Intro_Redirects_Sarah_ArtistCareer_27_Player,62955470944,De nada.
-Dialogs_Intro_Redirects_Sarah_BenjAnswered_0_Player,62955470945,Sobre Benjamin antes...
-Dialogs_Intro_Redirects_Sarah_BenjAnswered_1_Sarah,62955470946,"We shouldn't talk about that, when he's right here, don't you think?"
-Dialogs_Intro_Redirects_Sarah_BenjAnswered_2_Player,62955470947,"Yes, you're right"
-Dialogs_Intro_Redirects_Sarah_BenjHarsh_0_Player,62955470948,Sobre Benjamin antes...
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_11_Sarah,62955470928,"A vida aconteceu, haha"
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_12_Sarah,62955470929,Benjamin começou a passar mais tempo no trabalho
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_13_Sarah,62955470930,E as meninas estavam na escola na maioria das vezes...
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_14_Sarah,62955470931,Alguém teve que cuidar da casa
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_15_Sarah,62955470932,Então eu não tive uma escolha
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_16_Player,62955470933,E agora? Ambos já têm idade suficiente... Você pode tentar agora.
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_17_Sarah,62955470934,"Agora... bem, agora já é tarde demais"
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_18_Sarah,62955470935,Estou muito velha para isso agora
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_19_Player,62955470936,Isso não é verdade! Você não é velho e definitivamente ainda não é tarde demais
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_20_Player,62955470937,Você ainda é jovem e muito bonita. Tenho certeza de que se sairia muito bem
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_21_Sarah,62955470938,"Ai, querido!"
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_22_Sarah,62955470939,"Pare com isso, você me faz corar"
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_23_Sarah,62955470940,Na verdade eu desenho de tempos em tempos
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_24_Sarah,62955470941,As pinturas na casa...
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_25_Sarah,62955470942,Alguns delas são minhas
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_26_Sarah,62955470943,"Obrigado por suas amáveis ​​palavras, @{player}"
+Dialogs_Intro_Redirects_Sarah_ArtistCareer_27_Player,62955470944,De Nada.
+Dialogs_Intro_Redirects_Sarah_BenjAnswered_0_Player,62955470945,Sobre Benjamin Antes...
+Dialogs_Intro_Redirects_Sarah_BenjAnswered_1_Sarah,62955470946,"Não devemos falar sobre isso, quando ele estiver aqui, você não acha?"
+Dialogs_Intro_Redirects_Sarah_BenjAnswered_2_Player,62955470947,"Sim, você está certo"
+Dialogs_Intro_Redirects_Sarah_BenjHarsh_0_Player,62955470948,Sobre Benjamin Antes...
 Dialogs_Intro_Redirects_Sarah_BenjHarsh_1_Sarah,62955470949,"Não deveríamos falar sobre isso, ele está bem aqui."
-Dialogs_Intro_Redirects_Sarah_BenjHarsh_2_Sarah,62955470950,"But you shouldn't talk with him like that in the future, you got it?"
+Dialogs_Intro_Redirects_Sarah_BenjHarsh_2_Sarah,62955470950,"Mas você não deve falar com ele assim no futuro, entendeu?"
 Dialogs_Intro_Redirects_Sarah_BenjHarsh_3_Sarah,62955470951,"Sei que ele exagerou um pouco, mas da próxima vez você deve se controlar, ok?"
-Dialogs_Intro_Redirects_Sarah_BenjHarsh_4_Player,62955470952,"Yes, I'm sorry"
-Dialogs_Intro_Redirects_Sarah_BenjPolite_0_Player,62955470953,Sobre Benjamin antes...
+Dialogs_Intro_Redirects_Sarah_BenjHarsh_4_Player,62955470952,"Sim, sinto muito"
+Dialogs_Intro_Redirects_Sarah_BenjPolite_0_Player,62955470953,Sobre Benjamin Antes...
 Dialogs_Intro_Redirects_Sarah_BenjPolite_1_Sarah,62959665152,"Não deveríamos falar sobre isso, ele está bem aqui."
-Dialogs_Intro_Redirects_Sarah_BenjPolite_2_Sarah,62959665153,But you handled the situation really well today
-Dialogs_Intro_Redirects_Sarah_BenjPolite_3_Sarah,62959665154,Very mature of you
-Dialogs_Intro_Redirects_Sarah_DontUnderstandPainting_0_Player,62959665155,"I have to admit, i don't really understand them"
+Dialogs_Intro_Redirects_Sarah_BenjPolite_2_Sarah,62959665153,Mas você lidou com a situação muito bem hoje
+Dialogs_Intro_Redirects_Sarah_BenjPolite_3_Sarah,62959665154,Muito maduro da sua parte
+Dialogs_Intro_Redirects_Sarah_DontUnderstandPainting_0_Player,62959665155,"Tenho que admitir, eu realmente não os entendo"
 Dialogs_Intro_Redirects_Sarah_DontUnderstandPainting_1_Sarah,62959665156,Tudo bem.
-Dialogs_Intro_Redirects_Sarah_DontUnderstandPainting_2_Sarah,62959665157,They're not that easy to understand as a novice
-Dialogs_Intro_Redirects_Sarah_GameStation_0_Player,62959665158,Can I play that GameStation over there?
-Dialogs_Intro_Redirects_Sarah_GameStation_1_Sarah,62959665159,You mean that gaming console?
+Dialogs_Intro_Redirects_Sarah_DontUnderstandPainting_2_Sarah,62959665157,Não são tão fáceis de entender para um iniciante
+Dialogs_Intro_Redirects_Sarah_GameStation_0_Player,62959665158,Posso jogar esse PolyStation lá?
+Dialogs_Intro_Redirects_Sarah_GameStation_1_Sarah,62959665159,Você quer dizer esse console de jogos?
 Dialogs_Intro_Redirects_Sarah_GameStation_2_Player,62959665160,Sim
-Dialogs_Intro_Redirects_Sarah_GameStation_3_Sarah,62959665161,I believe it is broken...
-Dialogs_Intro_Redirects_Sarah_GameStation_4_Sarah,62959665162,"It once fell on the ground, and since then, it has never been touched"
-Dialogs_Intro_Redirects_Sarah_GameStation_5_Player,62959665163,You didn't even try to fix it?
-Dialogs_Intro_Redirects_Sarah_GameStation_6_Sarah,62959665164,"Benjamin tried, but failed"
-Dialogs_Intro_Redirects_Sarah_GameStation_7_Sarah,62959665165,Maybe you could fix it
-Dialogs_Intro_Redirects_Sarah_GameStation_8_Sarah,62959665166,Talk to Lisa about that...
-Dialogs_Intro_Redirects_Sarah_GreatJob_0_Player,62959665167,"You're doing a really good job, taking care of the whole house"
-Dialogs_Intro_Redirects_Sarah_GreatJob_1_Sarah,62959665168,Obrigado
-Dialogs_Intro_Redirects_Sarah_GreatJob_2_Sarah,62959665169,I hope I can count on your help
+Dialogs_Intro_Redirects_Sarah_GameStation_3_Sarah,62959665161,Eu acredito que está quebrado...
+Dialogs_Intro_Redirects_Sarah_GameStation_4_Sarah,62959665162,"Caiu no chão uma vez e, desde então, nunca mais foi tocado"
+Dialogs_Intro_Redirects_Sarah_GameStation_5_Player,62959665163,Você nem tentou consertar isso?
+Dialogs_Intro_Redirects_Sarah_GameStation_6_Sarah,62959665164,"Benjamin tentou, mas falhou"
+Dialogs_Intro_Redirects_Sarah_GameStation_7_Sarah,62959665165,Talvez você possa consertar
+Dialogs_Intro_Redirects_Sarah_GameStation_8_Sarah,62959665166,Fala com Lisa sobre isso...
+Dialogs_Intro_Redirects_Sarah_GreatJob_0_Player,62959665167,Você está se saindo muito bem cuidando de toda a casa
+Dialogs_Intro_Redirects_Sarah_GreatJob_1_Sarah,62959665168,Obrigada
+Dialogs_Intro_Redirects_Sarah_GreatJob_2_Sarah,62959665169,Espero poder contar com sua ajuda
 Dialogs_Intro_Redirects_Sarah_GreatJob_3_Player,62959665170,Com certeza!
-Dialogs_Intro_Redirects_Sarah_Household_0_Player,62959665171,How is everything at home?
-Dialogs_Intro_Redirects_Sarah_Household_1_Sarah,62959665172,"Could be better, but we're managing"
-Dialogs_Intro_Redirects_Sarah_Household_2_Sarah,62959665173,"Benjamin is working hard, I'm working hard too at home <?anim=1>haha"
-Dialogs_Intro_Redirects_Sarah_HowToHelp_0_Player,62959665174,You mentioned my help around the house
-Dialogs_Intro_Redirects_Sarah_HowToHelp_1_Player,62959665175,How can I help?
-Dialogs_Intro_Redirects_Sarah_HowToHelp_2_Sarah,62959665176,"Right now, it's enough for you to be eye candy for me, sweetheart"
-Dialogs_Intro_Redirects_Sarah_HowToHelp_3_Sarah,62959665177,"Besides, washing the dishes was enough help for today"
-Dialogs_Intro_Redirects_Sarah_HowToHelp_4_Sarah,62959665178,Thank you for that
-Dialogs_Intro_Redirects_Sarah_IDontLikePaintings_0_Player,62959665179,"They're alright, I guess"
-Dialogs_Intro_Redirects_Sarah_IDontLikePaintings_1_Sarah,62959665180,You don't like them...
-Dialogs_Intro_Redirects_Sarah_IDontLikePaintings_2_Sarah,62959665181,Well... that's alright
-Dialogs_Intro_Redirects_Sarah_ILikePaintings_0_Player,62959665182,I like them. They look really interesting to me
-Dialogs_Intro_Redirects_Sarah_ILikePaintings_1_Sarah,62959665183,It's really nice to hear
-Dialogs_Intro_Redirects_Sarah_KeepWashing_0_Player,62959665184,I could keep doing that
-Dialogs_Intro_Redirects_Sarah_KeepWashing_1_Sarah,62959665185,Such a sweetie
-Dialogs_Intro_Redirects_Sarah_KeepWashing_2_Sarah,62959665186,Only if you really want to
-Dialogs_Intro_Redirects_Sarah_PaintingContinue_0_Sarah,62959665187,I tried to experiment with the new style
-Dialogs_Intro_Redirects_Sarah_PaintingContinue_1_Sarah,62959665188,It is called expressionism
-Dialogs_Intro_Redirects_Sarah_PaintingContinue_2_Sarah,62959665189,It is about expressing your feelings and your inner self
-Dialogs_Intro_Redirects_Sarah_PaintingContinue_3_Player,62959665190,Your inner self seems a bit... chaotic
+Dialogs_Intro_Redirects_Sarah_Household_0_Player,62959665171,Como estão as coisas em casa?
+Dialogs_Intro_Redirects_Sarah_Household_1_Sarah,62959665172,"Poderia estar melhor, mas estamos nos virando"
+Dialogs_Intro_Redirects_Sarah_Household_2_Sarah,62959665173,"Benjamin está trabalhando bastante, e eu também estou me esforçando em casa <?anim=1> haha"
+Dialogs_Intro_Redirects_Sarah_HowToHelp_0_Player,62959665174,Você mencionou a minha ajuda em casa
+Dialogs_Intro_Redirects_Sarah_HowToHelp_1_Player,62959665175,Como posso ajudar?
+Dialogs_Intro_Redirects_Sarah_HowToHelp_2_Sarah,62959665176,"Por enquanto, basta você ser um deleite para os meus olhos, querida"
+Dialogs_Intro_Redirects_Sarah_HowToHelp_3_Sarah,62959665177,"Além disso, lavar a louça já foi ajuda suficiente por hoje"
+Dialogs_Intro_Redirects_Sarah_HowToHelp_4_Sarah,62959665178,Obrigado por isso
+Dialogs_Intro_Redirects_Sarah_IDontLikePaintings_0_Player,62959665179,Acho que estão bons
+Dialogs_Intro_Redirects_Sarah_IDontLikePaintings_1_Sarah,62959665180,Você não gosta deles...
+Dialogs_Intro_Redirects_Sarah_IDontLikePaintings_2_Sarah,62959665181,Bem... Tudo bem
+Dialogs_Intro_Redirects_Sarah_ILikePaintings_0_Player,62959665182,Eu gosto deles. Acho eles realmente interessantes.
+Dialogs_Intro_Redirects_Sarah_ILikePaintings_1_Sarah,62959665183,É muito bom ouvir
+Dialogs_Intro_Redirects_Sarah_KeepWashing_0_Player,62959665184,Eu poderia continuar fazendo isso
+Dialogs_Intro_Redirects_Sarah_KeepWashing_1_Sarah,62959665185,Que querida!
+Dialogs_Intro_Redirects_Sarah_KeepWashing_2_Sarah,62959665186,Só se você realmente quiser
+Dialogs_Intro_Redirects_Sarah_PaintingContinue_0_Sarah,62959665187,Tentei experimentar um novo estilo
+Dialogs_Intro_Redirects_Sarah_PaintingContinue_1_Sarah,62959665188,Chama-se expressionismo
+Dialogs_Intro_Redirects_Sarah_PaintingContinue_2_Sarah,62959665189,É sobre expressar seus sentimentos e seu eu interior
+Dialogs_Intro_Redirects_Sarah_PaintingContinue_3_Player,62959665190,Seu eu interior parece um pouco... caótico
 Dialogs_Intro_Redirects_Sarah_PaintingContinue_4_Sarah,62959665191,Haha
-Dialogs_Intro_Redirects_Sarah_PaintingContinue_5_Sarah,62959665192,"At the time this painting was made, life was indeed a bit chaotic"
-Dialogs_Intro_Redirects_Sarah_PaintingContinue_6_Sarah,62959665193,You know... two kids and all that
-Dialogs_Intro_Redirects_Sarah_PaintingContinue_7_Player,62959665194,"Yeah, I get it"
-Dialogs_Intro_Redirects_Sarah_PaintingOnTheSecondFloor_0_Player,62959665195,Those paintings on the second floor... Were they made by you?
+Dialogs_Intro_Redirects_Sarah_PaintingContinue_5_Sarah,62959665192,"Na época em que essa pintura foi feita, a vida era realmente um pouco caótica"
+Dialogs_Intro_Redirects_Sarah_PaintingContinue_6_Sarah,62959665193,Você sabe...dois filhos e tudo isso
+Dialogs_Intro_Redirects_Sarah_PaintingContinue_7_Player,62959665194,"Sim, eu entendo"
+Dialogs_Intro_Redirects_Sarah_PaintingOnTheSecondFloor_0_Player,62959665195,Os quadros no segundo andar... Elas foram feitas por você?
 Dialogs_Intro_Redirects_Sarah_PaintingOnTheSecondFloor_1_Sarah,62959665196,Sim
-Dialogs_Intro_Redirects_Sarah_PaintingOnTheSecondFloor_2_Sarah,62959665197,What do you think about them?
-Dialogs_Intro_Redirects_Sarah_SarahFreeRoam_0_Sarah,62959665198,"How are you, honey?"
+Dialogs_Intro_Redirects_Sarah_PaintingOnTheSecondFloor_2_Sarah,62959665197,O que você acha deles?
+Dialogs_Intro_Redirects_Sarah_SarahFreeRoam_0_Sarah,62959665198,"Como você está, querida?"
 Dialogs_Intro_Redirects_Sarah_YoureWelcome_0_Player,62959665199,De nada.
-Dialogs_Intro01_1_KitchenFam_1_BenjaminSeesYou_0_Benjamin,62959665200,"Oh, there you are, sport"
-Dialogs_Intro01_1_KitchenFam_1_BenjaminSeesYou_1_Benjamin,62959665201,Already shaken off that wet dream of yours?
-Dialogs_Intro01_1_KitchenFam_1_BenjaminSeesYou_2_Sarah,62959665202,Benjamin...
+Dialogs_Intro01_1_KitchenFam_1_BenjaminSeesYou_0_Benjamin,62959665200,"Oh, aí está você, amigo"
+Dialogs_Intro01_1_KitchenFam_1_BenjaminSeesYou_1_Benjamin,62959665201,Já se livrou daquele seu sonho molhado?
+Dialogs_Intro01_1_KitchenFam_1_BenjaminSeesYou_2_Sarah,62959665202,Benjamin.
 Dialogs_Intro01_1_KitchenFam_1_1_WhatYouMean_0_Player,62959665203,Como assim?
-Dialogs_Intro01_1_KitchenFam_1_1_WhatYouMean_1_Benjamin,62959665204,The whole house heard you calling for Sarah
-Dialogs_Intro01_1_KitchenFam_1_1_WhatYouMean_2_Benjamin,62959665205,So I thought you...
-Dialogs_Intro01_1_KitchenFam_1_1_WhatYouMean_3_Benjamin,62959665206,Ah forget it... Would be stupid to explain the joke
-Dialogs_Intro01_1_KitchenFam_1_1_WhatYouMean_4_Sarah,62959665207,I'm glad you didn't continue
-Dialogs_Intro01_1_KitchenFam_1_2_JustDream_0_Player,62959665208,It was a bad dream
-Dialogs_Intro01_1_KitchenFam_1_2_JustDream_1_Benjamin,62959665209,Eu sei
-Dialogs_Intro01_1_KitchenFam_1_2_JustDream_2_Benjamin,62959665210,That was supposed to be a joke 
-Dialogs_Intro01_1_KitchenFam_1_2_JustDream_3_Sarah,62959665211,A bad one...
+Dialogs_Intro01_1_KitchenFam_1_1_WhatYouMean_1_Benjamin,62959665204,A casa toda ouviu você chamando Sarah
+Dialogs_Intro01_1_KitchenFam_1_1_WhatYouMean_2_Benjamin,62959665205,"Então, pensei que você..."
+Dialogs_Intro01_1_KitchenFam_1_1_WhatYouMean_3_Benjamin,62959665206,Esqueça... Seria idiota explicar a piada
+Dialogs_Intro01_1_KitchenFam_1_1_WhatYouMean_4_Sarah,62959665207,Que bom que não continuou
+Dialogs_Intro01_1_KitchenFam_1_2_JustDream_0_Player,62959665208,Foi um sonho ruim
+Dialogs_Intro01_1_KitchenFam_1_2_JustDream_1_Benjamin,62959665209,"""Eu sei"""
+Dialogs_Intro01_1_KitchenFam_1_2_JustDream_2_Benjamin,62959665210,Isso deveria ser uma piada
+Dialogs_Intro01_1_KitchenFam_1_2_JustDream_3_Sarah,62959665211,Uma ruim...
 Dialogs_Intro01_1_KitchenFam_1_3_GoodMorning_0_Player,62959665212,Bom dia
-Dialogs_Intro01_1_KitchenFam_1_3_GoodMorning_1_Sarah,62959665213,"Good morning, sweetheart"
+Dialogs_Intro01_1_KitchenFam_1_3_GoodMorning_1_Sarah,62959665213,"Bom dia, querido"
 Dialogs_Intro01_1_KitchenFam_1_3_GoodMorning_1_Lisa,62959665214,Bom dia
-Dialogs_Intro01_1_KitchenFam_1_3_GoodMorning_2_Sarah,62959665215,At least someone with good manners here
-Dialogs_Intro01_1_KitchenFam_2_Continue_0_Sarah,62959665216,"Have a seat, @{player}"
-Dialogs_Intro01_1_KitchenFam_3_1WhereLucy_0_Player,62959665217,Where is Lucy?
-Dialogs_Intro01_1_KitchenFam_3_1WhereLucy_1_Sarah,62959665218,She almost never joins us on Sundays
-Dialogs_Intro01_1_KitchenFam_3_1WhereLucy_2_Lisa,62959665219,Lucy likes to sleep a little longer on Sundays
+Dialogs_Intro01_1_KitchenFam_1_3_GoodMorning_2_Sarah,62959665215,Ao menos alguém com boas maneiras aqui
+Dialogs_Intro01_1_KitchenFam_2_Continue_0_Sarah,62959665216,"Sente-se, @{player}"
+Dialogs_Intro01_1_KitchenFam_3_1WhereLucy_0_Player,62959665217,Cadê a Lucy?
+Dialogs_Intro01_1_KitchenFam_3_1WhereLucy_1_Sarah,62959665218,Ela quase nunca se junta a nós nos domingos
+Dialogs_Intro01_1_KitchenFam_3_1WhereLucy_2_Lisa,62959665219,Lucy gosta de dormir mais um pouco aos domingos
 Dialogs_Intro01_1_KitchenFam_3_1WhereLucy_3_Sarah,62959665220,Sim
-Dialogs_Intro01_1_KitchenFam_3_1WhereLucy_4_Player,62959665221,"""I'll remember that..."""
-Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_0_Lisa,62959665222,"Dad, by the way"
-Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_1_Lisa,62959665223,Can a friend of mine come over today?
-Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_2_Benjamin,62959665224,Well... I didn’t expect you to bring boys over this soon
-Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_3_Benjamin,62959665225,And especially when everyone is home
-Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_4_Lisa,62959665226,"Nooo, dad... she's a girl"
+Dialogs_Intro01_1_KitchenFam_3_1WhereLucy_4_Player,62959665221,"""Vou me lembrar disso..."""
+Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_0_Lisa,62959665222,"Pai, a propósito"
+Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_1_Lisa,62959665223,Um amigo meu pode vir hoje?
+Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_2_Benjamin,62959665224,Bem... Não esperava que trouxesse garotos tão cedo
+Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_3_Benjamin,62959665225,Especialmente quando todos estão em casa
+Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_4_Lisa,62959665226,"Nããão, pai...Ela é uma garota"
 Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_5_Lisa,62959665227,Espere...
-Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_6_Lisa,62959665228,What do you mean 'this soon'?
-Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_7_Lisa,62959665229,I'm eighteen...
-Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_8_Benjamin,62959665230,Haha... right...
-Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_9_Benjamin,62959665231,Time flies by so fast
+Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_6_Lisa,62959665228,"O que quer dizer com ""em breve""?"
+Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_7_Lisa,62959665229,Eu tenho 18...
+Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_8_Benjamin,62959665230,Haha... certo...
+Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_9_Benjamin,62959665231,O tempo voa tão rápido
 Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_10_Lisa,62959665232,Sim...
-Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_11_Lisa,62959665233,It does...
-Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_12_Lisa,62959665234,"Então, é um “sim”?"
+Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_11_Lisa,62959665233,Isso faz...
+Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_12_Lisa,62959665234,"Entäo, é um “sim”?"
 Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_13_Benjamin,62959665235,Claro
-Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_14_Player,62959665236,"""Do the girls need to ask permission for everything in this house?"""
-Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_15_Lisa,62959665237,Que bom!
-Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_16_Lisa,62959665238,Obrigado
-Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_17_Sarah,62959665239,What do you plan to do today?
-Dialogs_Intro01_1_KitchenFam_3_2_1DontKnow_0_Player,62959665240,I don't know yet...
-Dialogs_Intro01_1_KitchenFam_3_2_1DontKnow_1_Player,62959665241,Maybe I'll do something useful
-Dialogs_Intro01_1_KitchenFam_3_2_1DontKnow_2_Benjamin,62959665242,Like finding a job for example?
-Dialogs_Intro01_1_KitchenFam_3_2_2Chill_0_Player,62959665243,I guess I will just hang around the house
-Dialogs_Intro01_1_KitchenFam_3_2_2Chill_1_Player,62959665244,Do nothing
-Dialogs_Intro01_1_KitchenFam_3_2_2Chill_2_Benjamin,62959665245,How about finding a job?
-Dialogs_Intro01_1_KitchenFam_4_SarahCont_0_Sarah,62959665246,"Hey, Benjamin!"
-Dialogs_Intro01_1_KitchenFam_4_SarahCont_1_Sarah,62959665247,What's wrong with you today?
-Dialogs_Intro01_1_KitchenFam_4_SarahCont_2_Benjamin,62963859456,He's got nothing better to do...
-Dialogs_Intro01_1_KitchenFam_4_SarahCont_3_Benjamin,62963859457,You can at least help us with the groceries
-Dialogs_Intro01_1_KitchenFam_4_SarahCont_4_Benjamin,62963859458,"Na verdade, é uma ótima ideia."
-Dialogs_Intro01_1_KitchenFam_4_SarahCont_5_Benjamin,62963859459,"Na verdade, é uma ótima ideia."
-Dialogs_Intro01_1_KitchenFam_4_SarahCont_6_Benjamin,62963859460,Take him with you to the grocery store
-Dialogs_Intro01_1_KitchenFam_4_SarahCont_7_Sarah,62963859461,Just admit that you don’t want to go to the grocery store with me
-Dialogs_Intro01_1_KitchenFam_4_SarahCont_8_Sarah,62963859462,I bet it's more interesting to read those newspapers than to spend time with me
-Dialogs_Intro01_1_KitchenFam_4_SarahCont_9_Sarah,62963859463,But it's actually a great idea
-Dialogs_Intro01_1_KitchenFam_4_SarahCont_9_Benjamin,62963859464,"No, i didn't mean..."
-Dialogs_Intro01_1_KitchenFam_4_SarahCont_10_Sarah,62963859465,Do you want to go with me?
+Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_14_Player,62959665236,"""As garotas precisam de permissão para tudo nesta casa?"""
+Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_15_Lisa,62959665237,Que bomm!
+Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_16_Lisa,62959665238,Obrigada
+Dialogs_Intro01_1_KitchenFam_3_2LisaAsks_17_Sarah,62959665239,O que você planeja fazer hoje?
+Dialogs_Intro01_1_KitchenFam_3_2_1DontKnow_0_Player,62959665240,Eu ainda não sei...
+Dialogs_Intro01_1_KitchenFam_3_2_1DontKnow_1_Player,62959665241,Talvez eu faça algo útil
+Dialogs_Intro01_1_KitchenFam_3_2_1DontKnow_2_Benjamin,62959665242,"Como encontrar um emprego, por exemplo?"
+Dialogs_Intro01_1_KitchenFam_3_2_2Chill_0_Player,62959665243,Acho que vou ficar por aqui
+Dialogs_Intro01_1_KitchenFam_3_2_2Chill_1_Player,62959665244,Não fazer nada
+Dialogs_Intro01_1_KitchenFam_3_2_2Chill_2_Benjamin,62959665245,Que tal arranjar um emprego?
+Dialogs_Intro01_1_KitchenFam_4_SarahCont_0_Sarah,62959665246,"Ei, Benjamin!"
+Dialogs_Intro01_1_KitchenFam_4_SarahCont_1_Sarah,62959665247,O que está errado com você hoje?
+Dialogs_Intro01_1_KitchenFam_4_SarahCont_2_Benjamin,62963859456,Ele não tem nada melhor para fazer.
+Dialogs_Intro01_1_KitchenFam_4_SarahCont_3_Benjamin,62963859457,Você pode pelo menos nos ajudar com as compras
+Dialogs_Intro01_1_KitchenFam_4_SarahCont_4_Benjamin,62963859458,"Na verdade, é uma ótima idéia."
+Dialogs_Intro01_1_KitchenFam_4_SarahCont_5_Benjamin,62963859459,"Na verdade, é uma ótima idéia."
+Dialogs_Intro01_1_KitchenFam_4_SarahCont_6_Benjamin,62963859460,Leve-o com você para o mercado
+Dialogs_Intro01_1_KitchenFam_4_SarahCont_7_Sarah,62963859461,Apenas admita que não quer ir ao mercado comigo
+Dialogs_Intro01_1_KitchenFam_4_SarahCont_8_Sarah,62963859462,Aposto que é mais interessante ler esses jornais do que passar um tempo comigo
+Dialogs_Intro01_1_KitchenFam_4_SarahCont_9_Sarah,62963859463,Mas é realmente uma ótima ideia
+Dialogs_Intro01_1_KitchenFam_4_SarahCont_9_Benjamin,62963859464,"Não, eu não quis dizer..."
+Dialogs_Intro01_1_KitchenFam_4_SarahCont_10_Sarah,62963859465,Quer vir comigo?
 Dialogs_Intro01_1_KitchenFam_4_SarahCont_10_Benjamin,62963859466,Tanto faz...
-Dialogs_Intro01_1_KitchenFam_5_OfCourse_0_Sarah,62963859467,Great!
-Dialogs_Intro01_1_KitchenFam_5_OfCourse_1_Sarah,62963859468,"Then you can wait for me in the garage, when you're ready"
+Dialogs_Intro01_1_KitchenFam_5_OfCourse_0_Sarah,62963859467,Ótimo!
+Dialogs_Intro01_1_KitchenFam_5_OfCourse_1_Sarah,62963859468,"Então pode esperar por mim na garagem, quando estiver pronto"
 Dialogs_Intro01_2_Grocery_1_CarDialog_0_Sarah,62963859469,Aqui vamos nós
-Dialogs_Intro01_2_Grocery_1_CarDialog_1_Sarah,62963859470,I hope you didn't wait too long
-Dialogs_Intro01_2_Grocery_1_CarDialog_2_Player,62963859471,"Oh, not too long"
-Dialogs_Intro01_2_Grocery_1_CarDialog_3_Player,62963859472,Just a few hours or so
-Dialogs_Intro01_2_Grocery_1_CarDialog_4_Sarah,62963859473,I see we’ve got a bit of a drama queen here
-Dialogs_Intro01_2_Grocery_1_CarDialog_5_Sarah,62963859474,"I think it was like 10 minutes, tops"
-Dialogs_Intro01_2_Grocery_1_CarDialog_6_Sarah,62963859475,But I'm sorry to keep you waiting
-Dialogs_Intro01_2_Grocery_1_CarDialog_7_Sarah,62963859476,"You know, you weren't locked in the garage"
-Dialogs_Intro01_2_Grocery_1_CarDialog_8_Player,62963859477,Didn't you tell me to wait there?
-Dialogs_Intro01_2_Grocery_1_CarDialog_9_Sarah,62963859478,"Yeah, it was more like a 'let's meet in the garage'"
-Dialogs_Intro01_2_Grocery_1_CarDialog_10_Sarah,62963859479,...not 'sit in the garage until I appear'
-Dialogs_Intro01_2_Grocery_1_CarDialog_11_Sarah,62963859480,I thought you'll understand
-Dialogs_Intro01_2_Grocery_1_CarDialog_12_Player,62963859481,I guess now it doesn't matter
-Dialogs_Intro01_2_Grocery_1_CarDialog_13_Sarah,62963859482,You'll know for the next time
-Dialogs_Intro01_2_Grocery_1_CarDialog_14_Sarah,62963859483,"Sorry, again"
-Dialogs_Intro01_2_Grocery_2_1HowLongRide_0_Player,62963859484,How long is the ride?
-Dialogs_Intro01_2_Grocery_2_1HowLongRide_1_Sarah,62963859485,The grocery store is around the corner
-Dialogs_Intro01_2_Grocery_2_1HowLongRide_2_Sarah,62963859486,It takes about 5 minutes from our house
-Dialogs_Intro01_2_Grocery_2_1HowLongRide_3_Player,62963859487,Could've gone on foot
-Dialogs_Intro01_2_Grocery_2_1HowLongRide_4_Sarah,62963859488,We could...
-Dialogs_Intro01_2_Grocery_2_1HowLongRide_5_Sarah,62963859489,But would you want to carry the bags all the way back home?
+Dialogs_Intro01_2_Grocery_1_CarDialog_1_Sarah,62963859470,Espero que não tenha esperado muito tempo
+Dialogs_Intro01_2_Grocery_1_CarDialog_2_Player,62963859471,"Oh, não muito"
+Dialogs_Intro01_2_Grocery_1_CarDialog_3_Player,62963859472,Só algumas horas mais ou menos
+Dialogs_Intro01_2_Grocery_1_CarDialog_4_Sarah,62963859473,Vejo que temos aqui uma rainha do drama
+Dialogs_Intro01_2_Grocery_1_CarDialog_5_Sarah,62963859474,"Acho que foram uns 10 minutos, no máximo"
+Dialogs_Intro01_2_Grocery_1_CarDialog_6_Sarah,62963859475,Mas sinto muito por fazê-lo esperar
+Dialogs_Intro01_2_Grocery_1_CarDialog_7_Sarah,62963859476,"Sabe, você não estava trancado na garagem"
+Dialogs_Intro01_2_Grocery_1_CarDialog_8_Player,62963859477,Não me disse para esperar lá?
+Dialogs_Intro01_2_Grocery_1_CarDialog_9_Sarah,62963859478,"Sim, era mais como um 'vamos nos encontrar na garagem'"
+Dialogs_Intro01_2_Grocery_1_CarDialog_10_Sarah,62963859479,...não 'sentar na garagem até eu aparecer'
+Dialogs_Intro01_2_Grocery_1_CarDialog_11_Sarah,62963859480,Achei que você entenderia
+Dialogs_Intro01_2_Grocery_1_CarDialog_12_Player,62963859481,Acho que agora isso não importa
+Dialogs_Intro01_2_Grocery_1_CarDialog_13_Sarah,62963859482,Você saberá para a próxima vez
+Dialogs_Intro01_2_Grocery_1_CarDialog_14_Sarah,62963859483,"Desculpa, de novo"
+Dialogs_Intro01_2_Grocery_2_1HowLongRide_0_Player,62963859484,Quanto tempo dura a viagem?
+Dialogs_Intro01_2_Grocery_2_1HowLongRide_1_Sarah,62963859485,O mercado é ao virar da esquina
+Dialogs_Intro01_2_Grocery_2_1HowLongRide_2_Sarah,62963859486,Leva cerca de 5 minutos da nossa casa
+Dialogs_Intro01_2_Grocery_2_1HowLongRide_3_Player,62963859487,Podia ter ido a pé
+Dialogs_Intro01_2_Grocery_2_1HowLongRide_4_Sarah,62963859488,Nós podíamos...
+Dialogs_Intro01_2_Grocery_2_1HowLongRide_5_Sarah,62963859489,"Mas você quer levar as sacolas de volta para casa? "
 Dialogs_Intro01_2_Grocery_2_1HowLongRide_6_Player,62963859490,Não
 Dialogs_Intro01_2_Grocery_2_1HowLongRide_7_Sarah,62963859491,Eu também não.
-Dialogs_Intro01_2_Grocery_2_2WhyGrocery_0_Player,62963859492,"You said, we are going to the grocery store"
-Dialogs_Intro01_2_Grocery_2_2WhyGrocery_1_Player,62963859493,Is there no supermarket in the city?
-Dialogs_Intro01_2_Grocery_2_2WhyGrocery_2_Player,62963859494,Or is it just too far?
-Dialogs_Intro01_2_Grocery_2_2WhyGrocery_3_Sarah,62963859495,"Of course there is a supermarket in the city, hahaha"
-Dialogs_Intro01_2_Grocery_2_2WhyGrocery_4_Sarah,62963859496,"The grocery store is just closer, as you mentioned"
-Dialogs_Intro01_2_Grocery_2_2WhyGrocery_5_Sarah,62963859497,And it has all the things we need for the household
-Dialogs_Intro01_2_Grocery_2_2WhyGrocery_6_Sarah,62963859498,Why go that far for something we have right in front of our home?
-Dialogs_Intro01_2_Grocery_2_2WhyGrocery_7_Player,62963859499,Sounds reasonable
+Dialogs_Intro01_2_Grocery_2_2WhyGrocery_0_Player,62963859492,"Você disse, nós estamos indo para o mercado"
+Dialogs_Intro01_2_Grocery_2_2WhyGrocery_1_Player,62963859493,Não há nenhum supermercado na cidade?
+Dialogs_Intro01_2_Grocery_2_2WhyGrocery_2_Player,62963859494,Ou é só muito longe?
+Dialogs_Intro01_2_Grocery_2_2WhyGrocery_3_Sarah,62963859495,"Claro que tem um supermercado na cidade, hahaha"
+Dialogs_Intro01_2_Grocery_2_2WhyGrocery_4_Sarah,62963859496,"A mercado está mais perto, como você disse"
+Dialogs_Intro01_2_Grocery_2_2WhyGrocery_5_Sarah,62963859497,E tem todas as coisas que precisamos para a casa
+Dialogs_Intro01_2_Grocery_2_2WhyGrocery_6_Sarah,62963859498,Por que ir tão longe para algo que temos bem na frente da nossa casa?
+Dialogs_Intro01_2_Grocery_2_2WhyGrocery_7_Player,62963859499,Soa razoável
 Dialogs_Intro01_2_Grocery_2_3HandOnThigh_0_Sarah,62963859500,Hm?
 Dialogs_Intro01_2_Grocery_2_3_1What_0_Sarah,62963859501,O que você está fazendo?
-Dialogs_Intro01_2_Grocery_2_3_1What_1_Player,62963859502,"""What did I even expect from doing that?"""
-Dialogs_Intro01_2_Grocery_2_3_1What_2_Player,62963859503,"""Need to come up with an excuse fast"""
-Dialogs_Intro01_2_Grocery_2_3_1_1Bug_0_Player,62963859504,I think I saw a bug there... I wanted to kill it quickly before you moved
+Dialogs_Intro01_2_Grocery_2_3_1What_1_Player,62963859502,“O que eu esperava ao fazer isso?”
+Dialogs_Intro01_2_Grocery_2_3_1What_2_Player,62963859503,"""Precisa inventar uma desculpa rápido"""
+Dialogs_Intro01_2_Grocery_2_3_1_1Bug_0_Player,62963859504,Acho que vi um inseto lá. Eu queria matá-lo rápido antes que você se movesse
 Dialogs_Intro01_2_Grocery_2_3_1_1Bug_1_Sarah,62963859505,.  .  .
-Dialogs_Intro01_2_Grocery_2_3_1_1Bug_2_Sarah,62963859506,Have you killed it?
+Dialogs_Intro01_2_Grocery_2_3_1_1Bug_2_Sarah,62963859506,Você o matou?
 Dialogs_Intro01_2_Grocery_2_3_1_1Bug_3_Player,62963859507,Sim
-Dialogs_Intro01_2_Grocery_2_3_1_1Bug_4_Sarah,62963859508,Why don't you take your hand of my leg then?
-Dialogs_Intro01_2_Grocery_2_3_1_1Bug_5_Player,62963859509,"Yeah, right... sorry"
-Dialogs_Intro01_2_Grocery_2_3_1_2Sex_0_Player,62963859510,"To be fair, I really want you right now... Don't you want to stop around the corner?"
-Dialogs_Intro01_2_Grocery_2_3_1_2Sex_1_Sarah,62963859511,Are exhaust gases leaking into the cabin?
-Dialogs_Intro01_2_Grocery_2_3_1_2Sex_2_Sarah,62963859512,Or how else would you explain what the hell is wrong with you?
-Dialogs_Intro01_2_Grocery_2_3_1_2Sex_3_Player,62963859513,It was just a joke...
-Dialogs_Intro01_2_Grocery_2_3_1_2Sex_4_Sarah,62963859514,Idiot...
-Dialogs_Intro01_2_Grocery_3_1AfterHandOnThigh_0_Story_0,62963859515,"Until the end of the ride to the grocery store, you and Sarah sat in awkward silence"
-Dialogs_Intro01_2_Grocery_3_2AfterNoHandOnThigh_0_Story_0,62963859516,You and Sarah made small talk for the rest of the drive to the grocery store
+Dialogs_Intro01_2_Grocery_2_3_1_1Bug_4_Sarah,62963859508,Por que não tira a mão da minha perna?
+Dialogs_Intro01_2_Grocery_2_3_1_1Bug_5_Player,62963859509,"Sim, certo... desculpe"
+Dialogs_Intro01_2_Grocery_2_3_1_2Sex_0_Player,62963859510,"Para ser justo, eu realmente quero você agora ... Não quer parar ali na esquina?"
+Dialogs_Intro01_2_Grocery_2_3_1_2Sex_1_Sarah,62963859511,Os gases de escape estão vazando dontro do carro?
+Dialogs_Intro01_2_Grocery_2_3_1_2Sex_2_Sarah,62963859512,Ou de que outra forma você explicaria o que diabos há de errado com você?
+Dialogs_Intro01_2_Grocery_2_3_1_2Sex_3_Player,62963859513,Era só uma piada...
+Dialogs_Intro01_2_Grocery_2_3_1_2Sex_4_Sarah,62963859514,Idiota...
+Dialogs_Intro01_2_Grocery_3_1AfterHandOnThigh_0_Story_0,62963859515,"Até o final do passeio até o mercado, você e Sarah sentaram em um silêncio estranho "
+Dialogs_Intro01_2_Grocery_3_2AfterNoHandOnThigh_0_Story_0,62963859516,Você e Sarah conversaram pelo resto da viagem até o mercado
 Dialogs_Intro01_2_Grocery_4_1SarahNoThigh_0_Sarah,62963859517,Aqui estamos nós
 Dialogs_Intro01_2_Grocery_4_2SarahThighBug_0_Sarah,62963859518,Ehmm....
-Dialogs_Intro01_2_Grocery_4_2SarahThighBug_1_Sarah,62963859519,Let’s just quickly grab everything we came for and head back home
-Dialogs_Intro01_2_Grocery_4_3SarahThighSex_0_Sarah,62963859520,Let’s forget what happened in the car and focus on why we’re here
-Dialogs_Intro01_2_Grocery_5_MiaSpeaks_0_Mia,62963859521,Mrs. Williams?
+Dialogs_Intro01_2_Grocery_4_2SarahThighBug_1_Sarah,62963859519,Vamos pegar tudo e voltar para casa
+Dialogs_Intro01_2_Grocery_4_3SarahThighSex_0_Sarah,62963859520,Vamos esquecer o que aconteceu no carro e focar em porque estamos aqui
+Dialogs_Intro01_2_Grocery_5_MiaSpeaks_0_Mia,62963859521,Sra. Williams?
 Dialogs_Intro01_2_Grocery_5_MiaSpeaks_0_Sarah,62963859522,Hm?
-Dialogs_Intro01_2_Grocery_5_MiaSpeaks_1_Mia,62963859523,"Hello there, Mrs. Williams!"
+Dialogs_Intro01_2_Grocery_5_MiaSpeaks_1_Mia,62963859523,"Olá, sra. Williams!"
 Dialogs_Intro01_2_Grocery_5_MiaSpeaks_1_Sarah,62963859524,Mia?
-Dialogs_Intro01_2_Grocery_5_MiaSpeaks_2_Sarah,62963859525,Since when do you work here?
-Dialogs_Intro01_2_Grocery_5_MiaSpeaks_3_Mia,62963859526,Since this week
-Dialogs_Intro01_2_Grocery_5_MiaSpeaks_4_Mia,62963859527,"How are you, Mrs. Williams? How is your husband?"
-Dialogs_Intro01_2_Grocery_5_MiaSpeaks_5_Sarah,62963859528,"Wait a second, honey"
-Dialogs_Intro01_2_Grocery_5_MiaSpeaks_6_Sarah,62963859529,There’s no need to shout across the whole store
-Dialogs_Intro01_2_Grocery_5_MiaSpeaks_7_Sarah,62963859530,I'll come to you in a second
-Dialogs_Intro01_2_Grocery_5_MiaSpeaks_8_Sarah,62963859531,So... where did I leave off?
-Dialogs_Intro01_2_Grocery_5_1WhoIsShe_0_Player,62963859532,Who is this girl?
-Dialogs_Intro01_2_Grocery_5_1WhoIsShe_1_Sarah,62963859533,Why do you ask?
-Dialogs_Intro01_2_Grocery_5_1WhoIsShe_2_Sarah,62963859534,Did she caught your eye?
-Dialogs_Intro01_2_Grocery_5_1_1Cute_0_Player,62963859535,"She's pretty cute, yeah"
-Dialogs_Intro01_2_Grocery_5_1_1Cute_1_Sarah,62963859536,How adorable
-Dialogs_Intro01_2_Grocery_5_1_1Cute_2_Sarah,62963859537,Maybe you should ask for her name yourself then
-Dialogs_Intro01_2_Grocery_5_1_2JustAsking_0_Player,62963859538,"No, I'm just asking"
-Dialogs_Intro01_2_Grocery_5_1_2JustAsking_1_Sarah,62963859539,Her name is Mia
-Dialogs_Intro01_2_Grocery_5_1_2JustAsking_2_Sarah,62963859540,She's a friend of Lisa
+Dialogs_Intro01_2_Grocery_5_MiaSpeaks_2_Sarah,62963859525,Desde quando trabalha aqui?
+Dialogs_Intro01_2_Grocery_5_MiaSpeaks_3_Mia,62963859526,Desde essa semana
+Dialogs_Intro01_2_Grocery_5_MiaSpeaks_4_Mia,62963859527,"Como você está, Sra. Williams? Como vai seu marido?"
+Dialogs_Intro01_2_Grocery_5_MiaSpeaks_5_Sarah,62963859528,"Espere um pouco, querida"
+Dialogs_Intro01_2_Grocery_5_MiaSpeaks_6_Sarah,62963859529,Não há necessidade de gritar por toda a loja
+Dialogs_Intro01_2_Grocery_5_MiaSpeaks_7_Sarah,62963859530,Eu vou até você em um segundo
+Dialogs_Intro01_2_Grocery_5_MiaSpeaks_8_Sarah,62963859531,Então... Onde eu parei?
+Dialogs_Intro01_2_Grocery_5_1WhoIsShe_0_Player,62963859532,Quem é esta garota?
+Dialogs_Intro01_2_Grocery_5_1WhoIsShe_1_Sarah,62963859533,Por que a pergunta?
+Dialogs_Intro01_2_Grocery_5_1WhoIsShe_2_Sarah,62963859534,Ela chamou sua atenção?
+Dialogs_Intro01_2_Grocery_5_1_1Cute_0_Player,62963859535,"Ela é bem bonita, sim"
+Dialogs_Intro01_2_Grocery_5_1_1Cute_1_Sarah,62963859536,Que adorável
+Dialogs_Intro01_2_Grocery_5_1_1Cute_2_Sarah,62963859537,"Talvez você devesse perguntar o nome dela, então"
+Dialogs_Intro01_2_Grocery_5_1_2JustAsking_0_Player,62963859538,"Não, só estou perguntando.."
+Dialogs_Intro01_2_Grocery_5_1_2JustAsking_1_Sarah,62963859539,Ela se chama Mia
+Dialogs_Intro01_2_Grocery_5_1_2JustAsking_2_Sarah,62963859540,Ela é amiga da Lisa
 Dialogs_Intro01_2_Grocery_5_2FinishFast_0_Sarah,62963859541,Ah... certo.
-Dialogs_Intro01_2_Grocery_6_SarahGivePaper_0_Sarah,62963859542,Here’s the list of what we have to buy
-Dialogs_Intro01_2_Grocery_6_SarahGivePaper_1_Sarah,62963859543,I’d say just go ahead and grab everything on the list
-Dialogs_Intro01_2_Grocery_6_SarahGivePaper_2_Sarah,62963859544,And I'll take what I forgot to add to the list
-Dialogs_Intro01_2_Grocery_6_SarahGivePaper_3_Player,62963859545,And what is it?
-Dialogs_Intro01_2_Grocery_6_SarahGivePaper_4_Sarah,62963859546,...
-Dialogs_Intro01_2_Grocery_6_SarahGivePaper_5_Sarah,62968053760,It's nothing too important
-Dialogs_Intro01_2_Grocery_6_SarahGivePaper_6_Sarah,62968053761,Take the list
-Dialogs_Intro01_2_Grocery_7_AfterPaperTook_0_Sarah,62968053762,Let's meet at the cashier
+Dialogs_Intro01_2_Grocery_6_SarahGivePaper_0_Sarah,62963859542,Aqui está a lista do que temos que comprar
+Dialogs_Intro01_2_Grocery_6_SarahGivePaper_1_Sarah,62963859543,Eu diria apenas vá em frente e pegue tudo na lista
+Dialogs_Intro01_2_Grocery_6_SarahGivePaper_2_Sarah,62963859544,E vou pegar o que esqueci de adicionar à lista
+Dialogs_Intro01_2_Grocery_6_SarahGivePaper_3_Player,62963859545,E o que é isso?
+Dialogs_Intro01_2_Grocery_6_SarahGivePaper_4_Sarah,62963859546,- ...
+Dialogs_Intro01_2_Grocery_6_SarahGivePaper_5_Sarah,62968053760,Não é nada muito importante
+Dialogs_Intro01_2_Grocery_6_SarahGivePaper_6_Sarah,62968053761,Pegue a lista
+Dialogs_Intro01_2_Grocery_7_AfterPaperTook_0_Sarah,62968053762,Nos encontramos no caixa
 Dialogs_Intro01_2_Grocery_8_ListContent_0_Story_0,62968053763,"Os seguintes itens estão listados no papel: Laranjas, Tomates, Leite, Ovos, Pão, Batata chips (queijo)."
-Dialogs_Intro01_2_Grocery_8_ListContent_1_Player,62968053764,"""Not really much for such a big family"""
-Dialogs_Intro01_2_Grocery_9_GotAllItems_0_Player,62968053765,"""I think I got everything"""
-Dialogs_Intro01_2_Grocery_9_GotAllItems_1_Player,62968053766,"""No... there was something else on the list"""
-Dialogs_Intro01_2_Grocery_9_GotAllItems_2_Player,62968053767,"""Oh, right! How could I forget? Cheese-flavored chips"""
-Dialogs_Intro01_2_Grocery_9_GotAllItems_3_Player,62968053768,"""Let’s find them and meet Sarah at the checkout"""
-Dialogs_Intro01_2_Grocery_10_FoundChip_0_Player,62968053769,"""Here they are"""
-Dialogs_Intro01_2_Grocery_10_FoundChip_1_Player,62968053770,"""Let's go to the cashier"""
+Dialogs_Intro01_2_Grocery_8_ListContent_1_Player,62968053764,"""Não muito para uma família tão grande."""
+Dialogs_Intro01_2_Grocery_9_GotAllItems_0_Player,62968053765,"""Acho que tenho tudo"""
+Dialogs_Intro01_2_Grocery_9_GotAllItems_1_Player,62968053766,"""Não... havia outra coisa na lista"""
+Dialogs_Intro01_2_Grocery_9_GotAllItems_2_Player,62968053767,"""Ah, certo! Como poderia esquecer? Batatas chips sabor de queijo"""
+Dialogs_Intro01_2_Grocery_9_GotAllItems_3_Player,62968053768,"""Vamos acha-lo e encontrar Sarah no caixa"""
+Dialogs_Intro01_2_Grocery_10_FoundChip_0_Player,62968053769,"""Aqui estão eles"""
+Dialogs_Intro01_2_Grocery_10_FoundChip_1_Player,62968053770,"""Vamos para o caixa"""
 Dialogs_Intro01_2_Grocery_11_BackAtSarah_0_Sarah,62968053771,Aí está você
-Dialogs_Intro01_2_Grocery_11_BackAtSarah_1_Sarah,62968053772,Got everything?
+Dialogs_Intro01_2_Grocery_11_BackAtSarah_1_Sarah,62968053772,Pegou tudo?
 Dialogs_Intro01_2_Grocery_11_BackAtSarah_2_Player,62968053773,Sim
-Dialogs_Intro01_2_Grocery_11_BackAtSarah_3_Sarah,62968053774,Ótimo!
-Dialogs_Intro01_2_Grocery_11_BackAtSarah_4_Sarah,62968053775,Put all the stuff in the shopping bag
-Dialogs_Intro01_2_Grocery_12_SarahInterupts_0_Sarah,62968053776,Do not unpack it
-Dialogs_Intro01_2_Grocery_12_SarahInterupts_1_Sarah,62968053777,Just scan it through the bag
-Dialogs_Intro01_2_Grocery_12_SarahInterupts_2_Mia,62968053778,Yeah... sure
-Dialogs_Intro01_2_Grocery_12_SarahInterupts_3_Player,62968053779,"""How would that work?"""
-Dialogs_Intro01_2_Grocery_12_SarahInterupts_4_Sarah,62968053780,Shoot
-Dialogs_Intro01_2_Grocery_12_SarahInterupts_5_Sarah,62968053781,I forgot my purse in the car
-Dialogs_Intro01_2_Grocery_12_SarahInterupts_6_Sarah,62968053782,I'll be back in a second
-Dialogs_Intro01_2_Grocery_13_1HowYouScan_0_Player,62968053783,How are you scanning the products through the bag?
-Dialogs_Intro01_2_Grocery_13_1HowYouScan_1_Player,62968053784,"I mean how do you know, you're not scanning the same thing twice?"
+Dialogs_Intro01_2_Grocery_11_BackAtSarah_3_Sarah,62968053774,Excelente!
+Dialogs_Intro01_2_Grocery_11_BackAtSarah_4_Sarah,62968053775,Coloque todas as coisas na sacola de compras
+Dialogs_Intro01_2_Grocery_12_SarahInterupts_0_Sarah,62968053776,Não desempacote isso
+Dialogs_Intro01_2_Grocery_12_SarahInterupts_1_Sarah,62968053777,Basta escaneá-lo através do saco
+Dialogs_Intro01_2_Grocery_12_SarahInterupts_2_Mia,62968053778,Sim... Claro
+Dialogs_Intro01_2_Grocery_12_SarahInterupts_3_Player,62968053779,"""Como isso funcionaria?"""
+Dialogs_Intro01_2_Grocery_12_SarahInterupts_4_Sarah,62968053780,Poxa!
+Dialogs_Intro01_2_Grocery_12_SarahInterupts_5_Sarah,62968053781,Esqueci minha bolsa no carro
+Dialogs_Intro01_2_Grocery_12_SarahInterupts_6_Sarah,62968053782,Volto num segundo
+Dialogs_Intro01_2_Grocery_13_1HowYouScan_0_Player,62968053783,"Como escaneia os produtos através da sacola? "
+Dialogs_Intro01_2_Grocery_13_1HowYouScan_1_Player,62968053784,"Quero dizer, como você sabe, você não está escaneando o mesmo duas vezes?"
 Dialogs_Intro01_2_Grocery_13_1HowYouScan_2_Mia,62968053785,Não sei
-Dialogs_Intro01_2_Grocery_13_1HowYouScan_3_Mia,62968053786,But I just move it like this and it works
-Dialogs_Intro01_2_Grocery_13_1HowYouScan_4_Player,62968053787,Crazy...
-Dialogs_Intro01_2_Grocery_13_2Name_0_Player,62968053788,What is your name?
+Dialogs_Intro01_2_Grocery_13_1HowYouScan_3_Mia,62968053786,Mas eu movo assim e funciona
+Dialogs_Intro01_2_Grocery_13_1HowYouScan_4_Player,62968053787,Loucura...
+Dialogs_Intro01_2_Grocery_13_2Name_0_Player,62968053788,Qual é o seu nome?
 Dialogs_Intro01_2_Grocery_13_2Name_1_Mia,62968053789,O quê?
-Dialogs_Intro01_2_Grocery_13_2Name_2_Player,62968053790,I asked what you name is
+Dialogs_Intro01_2_Grocery_13_2Name_2_Player,62968053790,Perguntei o seu nome
 Dialogs_Intro01_2_Grocery_13_2Name_3_Mia,62968053791,Oh
-Dialogs_Intro01_2_Grocery_13_2Name_4_Mia,62968053792,My name is Mia
-Dialogs_Intro01_2_Grocery_13_2_1Beautilful_0_Player,62968053793,That's a beautiful name
-Dialogs_Intro01_2_Grocery_13_2_1Beautilful_1_Mia,62968053794,Obrigado
-Dialogs_Intro01_2_Grocery_13_2_1Beautilful_2_Mia,62968053795,And who are you?
-Dialogs_Intro01_2_Grocery_13_2_1Beautilful_3_Player,62968053796,I'm @{player}
+Dialogs_Intro01_2_Grocery_13_2Name_4_Mia,62968053792,O meu nome é Mia
+Dialogs_Intro01_2_Grocery_13_2_1Beautilful_0_Player,62968053793,É um nome bonito
+Dialogs_Intro01_2_Grocery_13_2_1Beautilful_1_Mia,62968053794,Obrigada
+Dialogs_Intro01_2_Grocery_13_2_1Beautilful_2_Mia,62968053795,E quem é você?
+Dialogs_Intro01_2_Grocery_13_2_1Beautilful_3_Player,62968053796,Eu sou o @{player}
 Dialogs_Intro01_2_Grocery_13_2_1Beautilful_4_Mia,62968053797,"Prazer em te conheçer, @{player}"
-Dialogs_Intro01_2_Grocery_13_2_1_1Number_0_Player,62968053798,May I have your number?
-Dialogs_Intro01_2_Grocery_13_2_1_1Number_1_Mia,62968053799,"S... sure, why not?"
-Dialogs_Intro01_2_Grocery_13_2_1_1Number_2_Player,62968053800,"""Nice... but why did it feel so weird?"""
-Dialogs_Intro01_2_Grocery_13_3HowRU_0_Player,62968053801,How are you?
-Dialogs_Intro01_2_Grocery_13_3HowRU_1_Mia,62968053802,"Fine, thanks for asking"
-Dialogs_Intro01_2_Grocery_13_3HowRU_2_Player,62968053803,"""This was rather a short answer"""
+Dialogs_Intro01_2_Grocery_13_2_1_1Number_0_Player,62968053798,Posso ter seu número?
+Dialogs_Intro01_2_Grocery_13_2_1_1Number_1_Mia,62968053799,"Cla... Claro, por que não?"
+Dialogs_Intro01_2_Grocery_13_2_1_1Number_2_Player,62968053800,"""Legal... mas por que ficou tão estranho?"""
+Dialogs_Intro01_2_Grocery_13_3HowRU_0_Player,62968053801,Como vai?
+Dialogs_Intro01_2_Grocery_13_3HowRU_1_Mia,62968053802,"Bem, obrigada por perguntar"
+Dialogs_Intro01_2_Grocery_13_3HowRU_2_Player,62968053803,"""Esta foi uma resposta bastante curta"""
 Dialogs_Intro01_2_Grocery_15_NotPopular_0_Mia,62968053804,Hm?
-Dialogs_Intro01_2_Grocery_15_NotPopular_1_Mia,62968053805,Como assim?
-Dialogs_Intro01_2_Grocery_15_NotPopular_2_Player,62968053806,Not many people are interested in working here
-Dialogs_Intro01_2_Grocery_15_NotPopular_3_Mia,62968053807,Oh... you're talking about that paper
-Dialogs_Intro01_2_Grocery_15_NotPopular_4_Mia,62968053808,I guess no one wants to work a regular job these days
-Dialogs_Intro01_2_Grocery_15_NotPopular_5_Mia,62968053809,All my friends are doing crypto and this...
-Dialogs_Intro01_2_Grocery_15_NotPopular_6_Mia,62968053810,What was it called again...?
+Dialogs_Intro01_2_Grocery_15_NotPopular_1_Mia,62968053805,Como assím?
+Dialogs_Intro01_2_Grocery_15_NotPopular_2_Player,62968053806,Pouca gente está interessada em trabalhar aqui
+Dialogs_Intro01_2_Grocery_15_NotPopular_3_Mia,62968053807,Oh... você está falando sobre aquele papel
+Dialogs_Intro01_2_Grocery_15_NotPopular_4_Mia,62968053808,Acho que ninguém quer trabalhar normalmente hoje em dia
+Dialogs_Intro01_2_Grocery_15_NotPopular_5_Mia,62968053809,Todos os meus amigos estão fazendo cripto e isso...
+Dialogs_Intro01_2_Grocery_15_NotPopular_6_Mia,62968053810,Como se chamava mesmo...?
 Dialogs_Intro01_2_Grocery_15_NotPopular_7_Mia,62968053811,Drop... dropship
-Dialogs_Intro01_2_Grocery_15_NotPopular_8_Mia,62968053812,"I don't know what it's called, but it doesn't matter"
-Dialogs_Intro01_2_Grocery_15_NotPopular_9_Mia,62968053813,I think they're just all lazy
-Dialogs_Intro01_2_Grocery_15_NotPopular_10_Mia,62968053814,"And because of that, I have to work here alone"
-Dialogs_Intro01_2_Grocery_15_NotPopular_11_Mia,62968053815,But it's alright
-Dialogs_Intro01_2_Grocery_15_NotPopular_12_Mia,62968053816,Imma just continue scanning the products
-Dialogs_Intro01_2_Grocery_15_NotPopular_13_Player,62968053817,"""Maybe I should take the number, just in case"""
-Dialogs_Intro01_2_Grocery_16_OhNo_0_Mia,62968053818,Oh no
-Dialogs_Intro01_2_Grocery_17_LetMeFix_0_Mia,62968053819,Let me fix this quickly
-Dialogs_Intro01_2_Grocery_17_LetMeFix_1_Player,62968053820,"""Wait... is this?"""
+Dialogs_Intro01_2_Grocery_15_NotPopular_8_Mia,62968053812,"Não sei o nome, mas não importa"
+Dialogs_Intro01_2_Grocery_15_NotPopular_9_Mia,62968053813,Acho que eles são preguiçosos
+Dialogs_Intro01_2_Grocery_15_NotPopular_10_Mia,62968053814,"E por causa disso, tenho que trabalhar aqui sozinha"
+Dialogs_Intro01_2_Grocery_15_NotPopular_11_Mia,62968053815,Mas tudo bem
+Dialogs_Intro01_2_Grocery_15_NotPopular_12_Mia,62968053816,Eu só vou continuar escaneando os produtos.
+Dialogs_Intro01_2_Grocery_15_NotPopular_13_Player,62968053817,"""Talvez eu deva pegar o número, por precaução"""
+Dialogs_Intro01_2_Grocery_16_OhNo_0_Mia,62968053818,Oh não
+Dialogs_Intro01_2_Grocery_17_LetMeFix_0_Mia,62968053819,Deixe-me resolver isso rapidinho
+Dialogs_Intro01_2_Grocery_17_LetMeFix_1_Player,62968053820,"""Espera... é isso?"""
 Dialogs_Intro01_2_Grocery_18_Ehhh_0_Mia,62968053821,Ehhh?
-Dialogs_Intro01_2_Grocery_18_1EhCont_0_Player,62968053822,"""Yeah... I think it is"""
+Dialogs_Intro01_2_Grocery_18_1EhCont_0_Player,62968053822,Sim... Eu acho que é
 Dialogs_Intro01_2_Grocery_19_SarahIsBack_0_Sarah,62968053823,Tô aqui
 Dialogs_Intro01_2_Grocery_19_SarahIsBack_1_Sarah,62968053824,Hm?
-Dialogs_Intro01_2_Grocery_19_SarahIsBack_2_Sarah,62968053825,Are you both alright?
-Dialogs_Intro01_2_Grocery_19_SarahIsBack_3_Sarah,62968053826,Why is Mia so red?
+Dialogs_Intro01_2_Grocery_19_SarahIsBack_2_Sarah,62968053825,Vocês dois estão bem?
+Dialogs_Intro01_2_Grocery_19_SarahIsBack_3_Sarah,62968053826,Por que Mia está tão vermelha?
 Dialogs_Intro01_2_Grocery_19_SarahIsBack_4_Mia,62968053827,Estou bem.
-Dialogs_Intro01_2_Grocery_19_SarahIsBack_5_Mia,62968053828,Would you like to pay with cash or card?
-Dialogs_Intro01_2_Grocery_19_SarahIsBack_6_Sarah,62968053829,What did you do to her?
+Dialogs_Intro01_2_Grocery_19_SarahIsBack_5_Mia,62968053828,Gostaria de pagar com dinheiro ou cartão?
+Dialogs_Intro01_2_Grocery_19_SarahIsBack_6_Sarah,62968053829,O que você fez com ela?
 Dialogs_Intro01_2_Grocery_20_Nothing_0_Player,62968053830,Nada...
-Dialogs_Intro01_2_Grocery_20_Nothing_1_Sarah,62968053831,"Card, sweetie"
-Dialogs_Intro01_2_Grocery_21_Check_0_Mia,62968053832,Do you need the receipt?
+Dialogs_Intro01_2_Grocery_20_Nothing_1_Sarah,62968053831,"Cartão, querida"
+Dialogs_Intro01_2_Grocery_21_Check_0_Mia,62968053832,Precisa do recibo?
 Dialogs_Intro01_2_Grocery_21_Check_1_Sarah,62968053833,"Não, tudo bem."
-Dialogs_Intro01_2_Grocery_21_Check_2_Sarah,62968053834,What are you waiting for?
-Dialogs_Intro01_2_Grocery_21_Check_3_Sarah,62968053835,Help your mom’s best friend carry the bag to the car
-Dialogs_Intro01_2_Grocery_21_Check_4_Mia,62968053836,Mom's best friend...?
-Dialogs_Intro01_2_Grocery_21_Check_5_Sarah,62968053837,"Yeah, why?"
-Dialogs_Intro01_2_Grocery_21_Check_6_Mia,62968053838,Phew
-Dialogs_Intro01_2_Grocery_21_Check_7_Mia,62968053839,It's nothing
+Dialogs_Intro01_2_Grocery_21_Check_2_Sarah,62968053834,O que você está esperando?
+Dialogs_Intro01_2_Grocery_21_Check_3_Sarah,62968053835,Ajude a melhor amiga da sua mãe a carregar a sacola até o carro
+Dialogs_Intro01_2_Grocery_21_Check_4_Mia,62968053836,A melhor amiga da mãe...?
+Dialogs_Intro01_2_Grocery_21_Check_5_Sarah,62968053837,"É, por quê?"
+Dialogs_Intro01_2_Grocery_21_Check_6_Mia,62968053838,Ufa
+Dialogs_Intro01_2_Grocery_21_Check_7_Mia,62968053839,Não foi nada
 Dialogs_Intro01_2_Grocery_21_Check_8_Mia,62968053840,Tenha um bom dia
-Dialogs_Intro01_2_Grocery_21_Check_9_Sarah,62968053841,Ok... you too
-Dialogs_Intro01_2_Grocery_21_Check_10_Sarah,62968053842,Weird...
+Dialogs_Intro01_2_Grocery_21_Check_9_Sarah,62968053841,Certo... você também
+Dialogs_Intro01_2_Grocery_21_Check_10_Sarah,62968053842,Estranho...
 Dialogs_Intro01_2_Grocery_21_Check_11_Sarah,62968053843,Tanto faz...
-Dialogs_Intro01_2_Grocery_21_Check_12_Sarah,62968053844,"Let's go, take the bag"
-Dialogs_Intro01_2_Grocery_22_DriveHome_0_Story_0,62968053845,You and Sarah drive back home
-Dialogs_Intro01_3_KitchenLucy_2_WhatDoYouWant_0_Lucy,62968053846,O que você quer?
-Dialogs_Intro01_3_KitchenLucy_3_RoughNight_0_Player,62968053847,"Why do you have to be so rude, Lucy?"
-Dialogs_Intro01_3_KitchenLucy_3_RoughNight_1_Player,62968053848,"Seems like you had a pretty rough night, huh?"
+Dialogs_Intro01_2_Grocery_21_Check_12_Sarah,62968053844,"Vamos, pegue a sacola"
+Dialogs_Intro01_2_Grocery_22_DriveHome_0_Story_0,62968053845,Você e Sarah voltam para casa
+Dialogs_Intro01_3_KitchenLucy_2_WhatDoYouWant_0_Lucy,62968053846,O que você está querendo?
+Dialogs_Intro01_3_KitchenLucy_3_RoughNight_0_Player,62968053847,"Por que tem que ser tão rude, Lucy?"
+Dialogs_Intro01_3_KitchenLucy_3_RoughNight_1_Player,62968053848,"Parece que teve uma noite difícil, hein?"
 Dialogs_Intro01_3_KitchenLucy_4_LucyNo_0_Lucy,62968053849,<shake>NÃO!</shake>
-Dialogs_Intro01_3_KitchenLucy_5_Ouch_0_Player,62972248064,"""Ouch!"""
-Dialogs_Intro01_3_KitchenLucy_5_Ouch_1_Player,62972248065,"""It can't be that she just kicked me"""
+Dialogs_Intro01_3_KitchenLucy_5_Ouch_0_Player,62972248064,"""Oh!"""
+Dialogs_Intro01_3_KitchenLucy_5_Ouch_1_Player,62972248065,"""Não pode ser que ela me chutou"""
 Dialogs_Intro01_3_KitchenLucy_5_Ouch_2_Benjamin,62972248066,Hm?
-Dialogs_Intro01_3_KitchenLucy_5_Ouch_3_Benjamin,62972248067,Why are you so loud?
-Dialogs_Intro01_3_KitchenLucy_5_Ouch_4_Benjamin,62972248068,And why was your last night so rough?
-Dialogs_Intro01_3_KitchenLucy_5_Ouch_5_Benjamin,62972248069,I wasn't listening
-Dialogs_Intro01_3_KitchenLucy_6_LucyResponds_0_Lucy,62972248070,Oh... it's because...
-Dialogs_Intro01_3_KitchenLucy_7_IllBeWaiting_0_Lucy,62972248071,I'll be waiting in my room
-Dialogs_Intro01_3_KitchenLucy_7_LucyResCont_0_Lucy,62972248072,I've been studying a lot
-Dialogs_Intro01_3_KitchenLucy_7_LucyResCont_1_Lucy,62972248073,Yeah.... this is why
-Dialogs_Intro01_3_KitchenLucy_7_LucyResCont_2_Benjamin,62972248074,Don't push yourself too hard
-Dialogs_Intro01_3_KitchenLucy_7_LucyResCont_3_Lucy,62972248075,"Of course not, dad"
-Dialogs_Intro01_3_KitchenLucy_7_LucyResCont_4_Lucy,62972248076,"By the way, @{player}"
-Dialogs_Intro01_3_KitchenLucy_7_LucyResCont_5_Lucy,62972248077,Could you help me with one task?
-Dialogs_Intro01_3_KitchenLucy_7_LucyResCont_6_Lucy,62972248078,I couldn't solve it yesterday
+Dialogs_Intro01_3_KitchenLucy_5_Ouch_3_Benjamin,62972248067,Por que você está tão barulhento?
+Dialogs_Intro01_3_KitchenLucy_5_Ouch_4_Benjamin,62972248068,E por que sua última noite foi tão difícil?
+Dialogs_Intro01_3_KitchenLucy_5_Ouch_5_Benjamin,62972248069,Eu não estava ouvindo
+Dialogs_Intro01_3_KitchenLucy_6_LucyResponds_0_Lucy,62972248070,Oh... é porque...
+Dialogs_Intro01_3_KitchenLucy_7_IllBeWaiting_0_Lucy,62972248071,Vou esperar no meu quarto
+Dialogs_Intro01_3_KitchenLucy_7_LucyResCont_0_Lucy,62972248072,Eu tenho estudado muito
+Dialogs_Intro01_3_KitchenLucy_7_LucyResCont_1_Lucy,62972248073,Sim... é por isso que..
+Dialogs_Intro01_3_KitchenLucy_7_LucyResCont_2_Benjamin,62972248074,Não se esforce demais
+Dialogs_Intro01_3_KitchenLucy_7_LucyResCont_3_Lucy,62972248075,"Claro que não, pai"
+Dialogs_Intro01_3_KitchenLucy_7_LucyResCont_4_Lucy,62972248076,"A propósito, @{player}"
+Dialogs_Intro01_3_KitchenLucy_7_LucyResCont_5_Lucy,62972248077,Pode me ajudar em uma tarefa?
+Dialogs_Intro01_3_KitchenLucy_7_LucyResCont_6_Lucy,62972248078,Eu não consegui resolver ontem
 Dialogs_Intro01_4_LucyRoom_1_NotHere_0_Player,62972248079,Hum?
-Dialogs_Intro01_4_LucyRoom_2_NotHere2_0_Player,62972248080,"""She's not here"""
-Dialogs_Intro01_4_LucyRoom_3_WhatThe_0_Player,62972248081,"""What the...?"""
-Dialogs_Intro01_4_LucyRoom_4_LucySpeaks_0_Lucy,62972248082,"So you think you're funny, huh?"
-Dialogs_Intro01_4_LucyRoom_4_LucySpeaks_1_Player,62972248083,"Whoa, no need to get grabby"
-Dialogs_Intro01_4_LucyRoom_4_LucySpeaks_2_Lucy,62972248084,What was that in the kitchen?
-Dialogs_Intro01_4_LucyRoom_4_1WhatDoYouMean_0_Player,62972248085,"""What do you mean?"""
-Dialogs_Intro01_4_LucyRoom_4_1WhatDoYouMean_1_Lucy,62972248086,Don't pretend like you're dumb
-Dialogs_Intro01_4_LucyRoom_4_1WhatDoYouMean_2_Lucy,62972248087,You know exactly what I mean
-Dialogs_Intro01_4_LucyRoom_4_2ItWasAJoke_0_Player,62972248088,"Chill, Lucy"
-Dialogs_Intro01_4_LucyRoom_4_2ItWasAJoke_1_Player,62972248089,I was just playing with you
-Dialogs_Intro01_4_LucyRoom_4_2ItWasAJoke_2_Lucy,62972248090,So you do think you're funny
-Dialogs_Intro01_4_LucyRoom_4_2ItWasAJoke_3_Lucy,62972248091,I'm not a fucking toy for you to play with
-Dialogs_Intro01_4_LucyRoom_4_2ItWasAJoke_4_Lucy,62972248092,Do you understand!?
-Dialogs_Intro01_4_LucyRoom_4_2_1FuckingToy_0_Player,62972248093,I definitely wish you were my 'fucking toy' though. Hehe
-Dialogs_Intro01_4_LucyRoom_4_2_1FuckingToy_1_Lucy,62972248094,"You're sounding like a creep, dude"
-Dialogs_Intro01_4_LucyRoom_4_2_1FuckingToy_2_Player,62972248095,"But look at you, you're all red"
+Dialogs_Intro01_4_LucyRoom_2_NotHere2_0_Player,62972248080,"""Ela não está aqui"""
+Dialogs_Intro01_4_LucyRoom_3_WhatThe_0_Player,62972248081,"""Mas que...?"""
+Dialogs_Intro01_4_LucyRoom_4_LucySpeaks_0_Lucy,62972248082,"Então você se acha engraçado, hein?"
+Dialogs_Intro01_4_LucyRoom_4_LucySpeaks_1_Player,62972248083,"Uou, não precisa ficar me agarrando"
+Dialogs_Intro01_4_LucyRoom_4_LucySpeaks_2_Lucy,62972248084,O que foi aquilo na cozinha?
+Dialogs_Intro01_4_LucyRoom_4_1WhatDoYouMean_0_Player,62972248085,"""Como assim?"""
+Dialogs_Intro01_4_LucyRoom_4_1WhatDoYouMean_1_Lucy,62972248086,Não finja que é burro
+Dialogs_Intro01_4_LucyRoom_4_1WhatDoYouMean_2_Lucy,62972248087,Você sabe exatamente o que quero dizer
+Dialogs_Intro01_4_LucyRoom_4_2ItWasAJoke_0_Player,62972248088,"Relaxe, Lucy"
+Dialogs_Intro01_4_LucyRoom_4_2ItWasAJoke_1_Player,62972248089,Eu só estava brincando com você
+Dialogs_Intro01_4_LucyRoom_4_2ItWasAJoke_2_Lucy,62972248090,Então você se acha engraçado
+Dialogs_Intro01_4_LucyRoom_4_2ItWasAJoke_3_Lucy,62972248091,Eu não sou um maldito brinquedo para você brincar.
+Dialogs_Intro01_4_LucyRoom_4_2ItWasAJoke_4_Lucy,62972248092,Você entendeu?
+Dialogs_Intro01_4_LucyRoom_4_2_1FuckingToy_0_Player,62972248093,Eu definitivamente queria que você fosse o meu 'brinquedo'. Hehe
+Dialogs_Intro01_4_LucyRoom_4_2_1FuckingToy_1_Lucy,62972248094,"Você tá agindo como um nojento, cara"
+Dialogs_Intro01_4_LucyRoom_4_2_1FuckingToy_2_Player,62972248095,"Olha só pra você, tá toda vermelha"
 Dialogs_Intro01_4_LucyRoom_4_2_1FuckingToy_3_Lucy,62972248096,Cale a boca!
-Dialogs_Intro01_4_LucyRoom_4_3DontRespond_0_Lucy,62972248097,I think you forgot that I've seen you perving on my parents
-Dialogs_Intro01_4_LucyRoom_4_3DontRespond_1_Lucy,62972248098,And I can joke around my dad too
-Dialogs_Intro01_4_LucyRoom_4_3DontRespond_2_Lucy,62972248099,So this is my last warning
-Dialogs_Intro01_4_LucyRoom_5_YouDontHaveAnythingOnMe_0_Player,62972248100,You don't have anything on me
-Dialogs_Intro01_4_LucyRoom_5_YouDontHaveAnythingOnMe_1_Lucy,62972248101,You neither
-Dialogs_Intro01_4_LucyRoom_5_YouDontHaveAnythingOnMe_2_Lucy,62972248102,But you still think it's funny to mention this around my father
-Dialogs_Intro01_4_LucyRoom_5_YouDontHaveAnythingOnMe_3_Lucy,62972248103,You know what...
-Dialogs_Intro01_4_LucyRoom_5_YouDontHaveAnythingOnMe_4_Lucy,62972248104,I think it's funny too
-Dialogs_Intro01_4_LucyRoom_5_YouDontHaveAnythingOnMe_5_Lucy,62972248105,I also prepared some jokes
-Dialogs_Intro01_4_LucyRoom_5_YouDontHaveAnythingOnMe_6_Lucy,62972248106,I wonder if dad would like it
-Dialogs_Intro01_4_LucyRoom_5_YouDontHaveAnythingOnMe_7_Lucy,62972248107,Let's go and find out
+Dialogs_Intro01_4_LucyRoom_4_3DontRespond_0_Lucy,62972248097,Acho que você esqueceu que eu vi você de olho nos meus pais
+Dialogs_Intro01_4_LucyRoom_4_3DontRespond_1_Lucy,62972248098,Eu também posso brincar com meu pai.
+Dialogs_Intro01_4_LucyRoom_4_3DontRespond_2_Lucy,62972248099,Este é meu último aviso
+Dialogs_Intro01_4_LucyRoom_5_YouDontHaveAnythingOnMe_0_Player,62972248100,Você não tem nada contra mim
+Dialogs_Intro01_4_LucyRoom_5_YouDontHaveAnythingOnMe_1_Lucy,62972248101,Você também não
+Dialogs_Intro01_4_LucyRoom_5_YouDontHaveAnythingOnMe_2_Lucy,62972248102,Mas ainda acha engraçado mencionar isso perto do meu pai
+Dialogs_Intro01_4_LucyRoom_5_YouDontHaveAnythingOnMe_3_Lucy,62972248103,Sabe de uma coisa...
+Dialogs_Intro01_4_LucyRoom_5_YouDontHaveAnythingOnMe_4_Lucy,62972248104,Eu acho engraçado também
+Dialogs_Intro01_4_LucyRoom_5_YouDontHaveAnythingOnMe_5_Lucy,62972248105,Eu também preparei algumas piadas
+Dialogs_Intro01_4_LucyRoom_5_YouDontHaveAnythingOnMe_6_Lucy,62972248106,Eu me pergunto se papai gostaria
+Dialogs_Intro01_4_LucyRoom_5_YouDontHaveAnythingOnMe_7_Lucy,62972248107,Vamos lá e descobrir
 Dialogs_Intro01_4_LucyRoom_6_LucyHuh_0_Lucy,62972248108,Hã?
-Dialogs_Intro01_4_LucyRoom_7_WhatAreYou_0_Lucy,62972248109,What are you...
+Dialogs_Intro01_4_LucyRoom_7_WhatAreYou_0_Lucy,62972248109,O que você está...
 Dialogs_Intro01_4_LucyRoom_8_Ah_0_Lucy,62972248110,Ah~
-Dialogs_Intro01_4_LucyRoom_10_DidSheMoan_0_Player,62972248111,Don't you dare tell anyone anything!
-Dialogs_Intro01_4_LucyRoom_10_DidSheMoan_1_Player,62972248112,Ela acabou de gemer?
-Dialogs_Intro01_4_LucyRoom_10_DidSheMoan_2_Player,62972248113,"""It seems like she liked it"""
+Dialogs_Intro01_4_LucyRoom_10_DidSheMoan_0_Player,62972248111,Não ouse contar nada a ninguém!
+Dialogs_Intro01_4_LucyRoom_10_DidSheMoan_1_Player,62972248112,Ela acabou de Gemer?
+Dialogs_Intro01_4_LucyRoom_10_DidSheMoan_2_Player,62972248113,"""Parece que ela gostou"""
 Dialogs_Intro01_4_LucyRoom_10_DidSheMoan_3_Lucy,62972248114,O... Ok...
-Dialogs_Intro01_4_LucyRoom_14_LucyEnd_0_Lucy,62972248115,Get away from me
-Dialogs_Intro01_4_LucyRoom_14_LucyEnd_1_Lucy,62972248116,I'm not going to tell Dad
-Dialogs_Intro01_4_LucyRoom_14_LucyEnd_2_Lucy,62972248117,But you have to shut your mouth too
-Dialogs_Intro01_4_LucyRoom_14_LucyEnd_3_Lucy,62972248118,"This was the deal, and it stays that way"
-Dialogs_Intro01_4_LucyRoom_14_LucyEnd_4_Lucy,62972248119,Now get out!
-Dialogs_Intro01_4_LucyRoom_15_Afterthought_0_Player,62972248120,"""Shit it was too hot..."""
-Dialogs_Intro01_4_LucyRoom_15_Afterthought_1_Player,62972248121,"""And I don't know why..."""
-Dialogs_Intro01_4_LucyRoom_15_Afterthought_2_Player,62972248122,"""But anyway, it seems the fun is over for now"""
-Dialogs_Intro01_4_LucyRoom_15_Afterthought_3_Player,62972248123,"""I guess I have no choice but to leave Lucy in peace... for now"""
-Dialogs_Intro01_5_MiaHallway_1_MiaMeet_0_Player,62972248124,"""What is she doing here?"""
-Dialogs_Intro01_5_MiaHallway_1_MiaMeet_1_Mia,62972248125,Hello...
+Dialogs_Intro01_4_LucyRoom_14_LucyEnd_0_Lucy,62972248115,Saia de perto de mim
+Dialogs_Intro01_4_LucyRoom_14_LucyEnd_1_Lucy,62972248116,Eu não vou contar ao papai
+Dialogs_Intro01_4_LucyRoom_14_LucyEnd_2_Lucy,62972248117,Mas você tem que calar a boca também
+Dialogs_Intro01_4_LucyRoom_14_LucyEnd_3_Lucy,62972248118,"Esse era o acordo, e continua assim"
+Dialogs_Intro01_4_LucyRoom_14_LucyEnd_4_Lucy,62972248119,Agora saia!
+Dialogs_Intro01_4_LucyRoom_15_Afterthought_0_Player,62972248120,"""Merda, estava muito quente..."""
+Dialogs_Intro01_4_LucyRoom_15_Afterthought_1_Player,62972248121,"""E eu não sei por que..."""
+Dialogs_Intro01_4_LucyRoom_15_Afterthought_2_Player,62972248122,"""Mas de qualquer forma, parece que a diversão acabou por agora"""
+Dialogs_Intro01_4_LucyRoom_15_Afterthought_3_Player,62972248123,"""Acho que não tenho escolha a não ser deixar Lucy em paz... por enquanto"""
+Dialogs_Intro01_5_MiaHallway_1_MiaMeet_0_Player,62972248124,"""O que ela está fazendo aqui?"""
+Dialogs_Intro01_5_MiaHallway_1_MiaMeet_1_Mia,62972248125,Olá...
 Dialogs_Intro01_5_MiaHallway_2_MiaContinue_0_Player,62972248126,O que você está fazendo aqui?
-Dialogs_Intro01_5_MiaHallway_2_MiaContinue_1_Player,62972248127,"""I thought you had to work today"
-Dialogs_Intro01_5_MiaHallway_2_MiaContinue_2_Mia,62972248128,"I don't work there all day, silly"
-Dialogs_Intro01_5_MiaHallway_2_MiaContinue_3_Mia,62972248129,"Besides, today is Sunday"
-Dialogs_Intro01_5_MiaHallway_2_MiaContinue_4_Mia,62972248130,Gotta have some free time too
-Dialogs_Intro01_5_MiaHallway_2_MiaContinue_5_Player,62972248131,"""Is she the one Lisa mentioned at the table this morning?"""
-Dialogs_Intro01_5_MiaHallway_3_LisaOpensDoor_0_Lisa,62972248132,Ah it's you
-Dialogs_Intro01_5_MiaHallway_3_LisaOpensDoor_1_Lisa,62972248133,Come in quickly
-Dialogs_Intro01_5_MiaHallway_3_LisaOpensDoor_2_Lisa,62972248134,"You too, @{player}"
-Dialogs_Intro01_5_MiaHallway_3_LisaOpensDoor_3_Mia,62972248135,Ok...
-Dialogs_Intro01_5_MiaHallway_4_InRoom_0_Player,62972248136,"So what is it, Lisa?"
-Dialogs_Intro01_5_MiaHallway_4_InRoom_1_Player,62972248137,Why did you want me to come?
+Dialogs_Intro01_5_MiaHallway_2_MiaContinue_1_Player,62972248127,Pensei que tivesse que trabalhar hoje
+Dialogs_Intro01_5_MiaHallway_2_MiaContinue_2_Mia,62972248128,"Não trabalho lá o dia todo, bobo"
+Dialogs_Intro01_5_MiaHallway_2_MiaContinue_3_Mia,62972248129,"Além disso, hoje é domingo"
+Dialogs_Intro01_5_MiaHallway_2_MiaContinue_4_Mia,62972248130,Tenho que ter algum tempo livre também
+Dialogs_Intro01_5_MiaHallway_2_MiaContinue_5_Player,62972248131,"""Ela é aquela que Lisa mencionou na mesa esta manhã?"""
+Dialogs_Intro01_5_MiaHallway_3_LisaOpensDoor_0_Lisa,62972248132,"Ah, é você"
+Dialogs_Intro01_5_MiaHallway_3_LisaOpensDoor_1_Lisa,62972248133,Venha rápido
+Dialogs_Intro01_5_MiaHallway_3_LisaOpensDoor_2_Lisa,62972248134," Você também, @{player}"
+Dialogs_Intro01_5_MiaHallway_3_LisaOpensDoor_3_Mia,62972248135,Certo...
+Dialogs_Intro01_5_MiaHallway_4_InRoom_0_Player,62972248136,"O que houve, Lisa?"
+Dialogs_Intro01_5_MiaHallway_4_InRoom_1_Player,62972248137,Por que me chamou aqui?
 Dialogs_Intro01_5_MiaHallway_4_InRoom_2_Lisa,62972248138,Hã?
-Dialogs_Intro01_5_MiaHallway_4_InRoom_3_Lisa,62972248139,"Ah, it's nothing"
-Dialogs_Intro01_5_MiaHallway_4_InRoom_4_Lisa,62972248140,I just thought you wanted to join us in playing
-Dialogs_Intro01_5_MiaHallway_4_1PlayWhat_0_Player,62972248141,Playing what?
-Dialogs_Intro01_5_MiaHallway_4_1PlayWhat_1_Lisa,62972248142,What do you mean by 'what'?
-Dialogs_Intro01_5_MiaHallway_4_1PlayWhat_2_Lisa,62972248143,Don't you see what Mia is holding?
-Dialogs_Intro01_5_MiaHallway_4_1PlayWhat_3_Lisa,62972248144,"Ah, by the way, @{player}, this is Mia"
-Dialogs_Intro01_5_MiaHallway_4_1PlayWhat_4_Lisa,62972248145,"Mia, this is @{player}"
-Dialogs_Intro01_5_MiaHallway_5_1MiaMet_0_Mia,62972248146,We already know each other
-Dialogs_Intro01_5_MiaHallway_5_1MiaMet_1_Lisa,62972248147,You do?
-Dialogs_Intro01_5_MiaHallway_5_1MiaMet_2_Lisa,62972248148,"Wow, you're quick to meet new people, @{player}"
-Dialogs_Intro01_5_MiaHallway_5_2MiaNotMet_0_Mia,62972248149,"It's nice to meet you, @{player}"
-Dialogs_Intro01_5_MiaHallway_5_2MiaNotMet_1_Player,62976442368,Likewise
-Dialogs_Intro01_5_MiaHallway_6_LisaContinue_0_Lisa,62976442369,Anyways
-Dialogs_Intro01_5_MiaHallway_6_LisaContinue_1_Lisa,62976442370,"This is DnD, don't you know?"
-Dialogs_Intro01_5_MiaHallway_6_1WhatIsDnD_0_Player,62976442371,What is DnD?
-Dialogs_Intro01_5_MiaHallway_6_1WhatIsDnD_1_Lisa,62976442372,Oqueeee?
+Dialogs_Intro01_5_MiaHallway_4_InRoom_3_Lisa,62972248139,"Ah, não foi nada"
+Dialogs_Intro01_5_MiaHallway_4_InRoom_4_Lisa,62972248140,Eu só pensei que você queria se juntar a nós no jogo
+Dialogs_Intro01_5_MiaHallway_4_1PlayWhat_0_Player,62972248141,Jogando o quê?
+Dialogs_Intro01_5_MiaHallway_4_1PlayWhat_1_Lisa,62972248142,"O que quer dizer com ""o quê""?"
+Dialogs_Intro01_5_MiaHallway_4_1PlayWhat_2_Lisa,62972248143,Não vê o que Mia está segurando?
+Dialogs_Intro01_5_MiaHallway_4_1PlayWhat_3_Lisa,62972248144,"Ah, a propósito, essa é Mia"
+Dialogs_Intro01_5_MiaHallway_4_1PlayWhat_4_Lisa,62972248145,"Mia, esse é o @{player}"
+Dialogs_Intro01_5_MiaHallway_5_1MiaMet_0_Mia,62972248146,Nós já nos conhecemos
+Dialogs_Intro01_5_MiaHallway_5_1MiaMet_1_Lisa,62972248147,Sério?
+Dialogs_Intro01_5_MiaHallway_5_1MiaMet_2_Lisa,62972248148,Você é rápida em conhecer pessoas novas
+Dialogs_Intro01_5_MiaHallway_5_2MiaNotMet_0_Mia,62972248149,"Prazer em conhecê-lo, @{player}"
+Dialogs_Intro01_5_MiaHallway_5_2MiaNotMet_1_Player,62976442368,Igualmente
+Dialogs_Intro01_5_MiaHallway_6_LisaContinue_0_Lisa,62976442369,Enfim..
+Dialogs_Intro01_5_MiaHallway_6_LisaContinue_1_Lisa,62976442370,"Isso é DND, não sabe?"
+Dialogs_Intro01_5_MiaHallway_6_1WhatIsDnD_0_Player,62976442371,O que é DND?
+Dialogs_Intro01_5_MiaHallway_6_1WhatIsDnD_1_Lisa,62976442372,Oqueee?
 Dialogs_Intro01_5_MiaHallway_6_1WhatIsDnD_2_Lisa,62976442373,Você não sabe o que é DnD?
 Dialogs_Intro01_5_MiaHallway_6_1WhatIsDnD_3_Player,62976442374,"Bom, eu já ouvi falar... Mas nunca tive a chance de jogar"
-Dialogs_Intro01_5_MiaHallway_6_1WhatIsDnD_4_Lisa,62976442375,Então hoje é o dia que você irá jogar 
+Dialogs_Intro01_5_MiaHallway_6_1WhatIsDnD_4_Lisa,62976442375,"Então hoje é o dia que você irá jogar "
 Dialogs_Intro01_5_MiaHallway_6_1WhatIsDnD_5_Lisa,62976442376,A menos que você não queira
 Dialogs_Intro01_5_MiaHallway_6_2Nerds_0_Player,62976442377,Então vocês duas são tipo... nerds?
 Dialogs_Intro01_5_MiaHallway_6_2Nerds_1_Mia,62976442378,Hahaha
@@ -1741,7 +1741,7 @@ Dialogs_Intro01_6_StoryInstall_7_FinancialState_5_Player,62980636724,"""Havia um
 Dialogs_Intro01_6_StoryInstall_7_FinancialState_6_Player,62980636725,"""Ainda bem que levei o número comigo."""
 Dialogs_Intro01_6_StoryInstall_7_FinancialState_7_Player,62980636726,"""Vou tentar esse emprego por enquanto, até que apareça algo melhor."""
 Dialogs_Intro01_7_JobApplication_1_JobCall_0_Unknown,62980636727,Olá?
-Dialogs_Intro01_7_JobApplication_1_JobCall_1_Player,62980636728,Olá! Meu nome é @{player} e eu estou ligando pela vaga de emprego 
+Dialogs_Intro01_7_JobApplication_1_JobCall_1_Player,62980636728,"Olá! Meu nome é @{player} e eu estou ligando pela vaga de emprego "
 Dialogs_Intro01_7_JobApplication_1_JobCall_2_Unknown,62980636729,Finalmente... *limpa a garganta* ... Quero dizer... sim claro
 Dialogs_Intro01_7_JobApplication_1_JobCall_3_Unknown,62980636730,Estamos procurando novas pessoas
 Dialogs_Intro01_7_JobApplication_1_JobCall_4_Unknown,62980636731,Você pode começar... amanhã?
@@ -1782,146 +1782,146 @@ Dialogs_Mia_Bar_BornHere_BornHere_2_Mia,62984830980,And I will stay here
 Dialogs_Mia_Bar_Compliment_BuzzedCompl_0_Mia,62984830981,Obrigado!
 Dialogs_Mia_Bar_Compliment_DrunkCompl_0_Mia,62984830982,Obrigado!
 Dialogs_Mia_Bar_Compliment_SoberCompl_0_Mia,62984830983,Obrigado
-Dialogs_Mia_Bar_Future_1_WhyWouldHe_0_Player,62984830984,Why would he?
-Dialogs_Mia_Bar_Future_1_WhyWouldHe_1_Mia,62984830985,Because who needs art in life?
-Dialogs_Mia_Bar_Future_1_WhyWouldHe_2_Mia,62984830986,It's stupid when your daughter studies what she likes
-Dialogs_Mia_Bar_Future_1_WhyWouldHe_3_Mia,62984830987,And not what could potentially make her more money...
-Dialogs_Mia_Bar_Future_1_WhyWouldHe_4_Mia,62984830988,... right?
-Dialogs_Mia_Bar_Future_2_FatherWants_0_Player,62984830989,"Oh, I get it now..."
-Dialogs_Mia_Bar_Future_2_FatherWants_1_Mia,62984830990,My father is a businessman
-Dialogs_Mia_Bar_Future_2_FatherWants_2_Mia,62984830991,And I'm his only daughter...
-Dialogs_Mia_Bar_Future_2_FatherWants_3_Mia,62984830992,...so he wants me to be prepared
-Dialogs_Mia_Bar_Future_2_FatherWants_4_Mia,62984830993,"So, you know... I might continue his work"
-Dialogs_Mia_Bar_Future_2_FatherWants_5_Mia,62984830994,"And unfortunately, he doesn't care about what I want"
-Dialogs_Mia_Bar_Future_2_FatherWants_6_Mia,62984830995,"But I swear, if it ever becomes mine..."
-Dialogs_Mia_Bar_Future_2_FatherWants_7_Mia,62984830996,I'll just sell it
-Dialogs_Mia_Bar_Future_3_rude_0_Player,62984830997,That's kinda rude
-Dialogs_Mia_Bar_Future_3_rude_1_Player,62984830998,I bet your father wants the best for you
-Dialogs_Mia_Bar_Future_3_rude_2_Player,62984830999,And I am pretty sure he did a lot of work to make his business successful
-Dialogs_Mia_Bar_Future_3_rude_3_Player,62984831000,It would be a shame if you just sell all his work
-Dialogs_Mia_Bar_Future_3_rude_4_Mia,62984831001,Talvez você esteja certo...
-Dialogs_Mia_Bar_Future_3_rude_5_Mia,62984831002,But I don't care...
-Dialogs_Mia_Bar_Future_3_rude_6_Mia,62984831003,The same way like he doesn't
-Dialogs_Mia_Bar_Future_3_rude_7_Mia,62984831004,"And anyway, he isn’t dying anytime soon"
-Dialogs_Mia_Bar_Future_3_rude_8_Mia,62984831005,So it's too soon to talk about that
-Dialogs_Mia_Bar_Future_3_1deservesIt_0_Player,62984831006,"Well, I think he deserves that"
-Dialogs_Mia_Bar_Future_3_1deservesIt_1_Mia,62984831007,That’s exactly what I’m saying
-Dialogs_Mia_Bar_Future_WhatToDoInFuture_0_Player,62984831008,What do you want to do in the future?
-Dialogs_Mia_Bar_Future_WhatToDoInFuture_1_Player,62984831009,"You don’t plan to work at the store your whole life, right?"
-Dialogs_Mia_Bar_Future_WhatToDoInFuture_2_Mia,62984831010,"I wish I could, haha"
-Dialogs_Mia_Bar_Future_WhatToDoInFuture_3_Mia,62984831011,But I don't know
-Dialogs_Mia_Bar_Future_WhatToDoInFuture_4_Mia,62984831012,I just want to enjoy life as it is right now..
-Dialogs_Mia_Bar_Future_WhatToDoInFuture_5_Mia,62984831013,And don't think about the future...
-Dialogs_Mia_Bar_Future_WhatToDoInFuture_6_Mia,62984831014, I’ll eventually figure out what I like
-Dialogs_Mia_Bar_Future_WhatToDoInFuture_7_Mia,62984831015,Maybe I'll go back to university
-Dialogs_Mia_Bar_Future_WhatToDoInFuture_8_Mia,62984831016,In the arts faculty
-Dialogs_Mia_Bar_Future_WhatToDoInFuture_9_Mia,62984831017,"My father would hate me for that, haha"
-Dialogs_Mia_Bar_Hobbies_1_Sex_0_Player,62984831018,I like having sex
-Dialogs_Mia_Bar_Hobbies_1_Sex_1_Mia,62984831019,Ok...
+Dialogs_Mia_Bar_Future_1_WhyWouldHe_0_Player,62984830984,Por que ele faria isso?
+Dialogs_Mia_Bar_Future_1_WhyWouldHe_1_Mia,62984830985,Porque quem precisa de arte na vida?
+Dialogs_Mia_Bar_Future_1_WhyWouldHe_2_Mia,62984830986,É estúpido quando sua filha estuda o que gosta
+Dialogs_Mia_Bar_Future_1_WhyWouldHe_3_Mia,62984830987,E não o que poderia potencialmente fazê-la ganhar mais dinheiro...
+Dialogs_Mia_Bar_Future_1_WhyWouldHe_4_Mia,62984830988,... certo?
+Dialogs_Mia_Bar_Future_2_FatherWants_0_Player,62984830989,"Oh, entendi agora..."
+Dialogs_Mia_Bar_Future_2_FatherWants_1_Mia,62984830990,Meu pai é um homem de negócios
+Dialogs_Mia_Bar_Future_2_FatherWants_2_Mia,62984830991,E eu sou a única filha dele...
+Dialogs_Mia_Bar_Future_2_FatherWants_3_Mia,62984830992,... então ele quer que eu esteja preparada
+Dialogs_Mia_Bar_Future_2_FatherWants_4_Mia,62984830993,"Então, sabe... Eu posso continuar o trabalho dele"
+Dialogs_Mia_Bar_Future_2_FatherWants_5_Mia,62984830994,"Infelizmente, ele não se importa com o que eu quero"
+Dialogs_Mia_Bar_Future_2_FatherWants_6_Mia,62984830995,"Mas eu juro, se alguma vez se tornar meu..."
+Dialogs_Mia_Bar_Future_2_FatherWants_7_Mia,62984830996,Vou vendê-lo
+Dialogs_Mia_Bar_Future_3_rude_0_Player,62984830997,Isso é meio rude
+Dialogs_Mia_Bar_Future_3_rude_1_Player,62984830998,Aposto que seu pai quer o melhor para você
+Dialogs_Mia_Bar_Future_3_rude_2_Player,62984830999,E tenho certeza que ele fez um monte de trabalho para tornar seu negócio bem sucedido
+Dialogs_Mia_Bar_Future_3_rude_3_Player,62984831000,Seria uma pena se você vendesse todo o trabalho dele
+Dialogs_Mia_Bar_Future_3_rude_4_Mia,62984831001,Talvez você estaja certo...
+Dialogs_Mia_Bar_Future_3_rude_5_Mia,62984831002,Mas eu não ligo...
+Dialogs_Mia_Bar_Future_3_rude_6_Mia,62984831003,Da mesma forma que ele não faz
+Dialogs_Mia_Bar_Future_3_rude_7_Mia,62984831004,"E de qualquer forma, ele não vai morrer tão cedo"
+Dialogs_Mia_Bar_Future_3_rude_8_Mia,62984831005,É muito cedo para falar sobre isso
+Dialogs_Mia_Bar_Future_3_1deservesIt_0_Player,62984831006,"Bem, eu acho que ele merece isso"
+Dialogs_Mia_Bar_Future_3_1deservesIt_1_Mia,62984831007,Isso é exatamente o que estou dizendo
+Dialogs_Mia_Bar_Future_WhatToDoInFuture_0_Player,62984831008,O que você quer fazer no futuro?
+Dialogs_Mia_Bar_Future_WhatToDoInFuture_1_Player,62984831009,"Você não planeja trabalhar na loja a vida toda, certo?"
+Dialogs_Mia_Bar_Future_WhatToDoInFuture_2_Mia,62984831010,"Eu queria poder, haha"
+Dialogs_Mia_Bar_Future_WhatToDoInFuture_3_Mia,62984831011,Mas eu não sei
+Dialogs_Mia_Bar_Future_WhatToDoInFuture_4_Mia,62984831012,Só quero aproveitar a vida como ela é agora.
+Dialogs_Mia_Bar_Future_WhatToDoInFuture_5_Mia,62984831013,E não pensar no futuro...
+Dialogs_Mia_Bar_Future_WhatToDoInFuture_6_Mia,62984831014,Vou acabar descobrindo do que gosto
+Dialogs_Mia_Bar_Future_WhatToDoInFuture_7_Mia,62984831015,Talvez eu volte à universidade
+Dialogs_Mia_Bar_Future_WhatToDoInFuture_8_Mia,62984831016,Na faculdade de artes
+Dialogs_Mia_Bar_Future_WhatToDoInFuture_9_Mia,62984831017,"Meu pai me odiaria por isso, haha"
+Dialogs_Mia_Bar_Hobbies_1_Sex_0_Player,62984831018,Eu gosto de fazer sexo
+Dialogs_Mia_Bar_Hobbies_1_Sex_1_Mia,62984831019,Certo...
 Dialogs_Mia_Bar_Hobbies_2_Guitar_0_Player,62984831020,Gosto de tocar violão.
 Dialogs_Mia_Bar_Hobbies_2_Guitar_1_Mia,62984831021,Wooow
-Dialogs_Mia_Bar_Hobbies_2_Guitar_2_Mia,62984831022,That's super cool
-Dialogs_Mia_Bar_Hobbies_2_Guitar_3_Mia,62984831023,Will you play something for me?
-Dialogs_Mia_Bar_Hobbies_2_Guitar_4_Player,62984831024,"Of course, when I buy one"
+Dialogs_Mia_Bar_Hobbies_2_Guitar_2_Mia,62984831022,Isso é super legal
+Dialogs_Mia_Bar_Hobbies_2_Guitar_3_Mia,62984831023,Pode tocar algo para mim?
+Dialogs_Mia_Bar_Hobbies_2_Guitar_4_Player,62984831024,"Claro, quando eu comprar um"
 Dialogs_Mia_Bar_Hobbies_2_Guitar_5_Mia,62984831025,Legal
-Dialogs_Mia_Bar_Hobbies_3_sport_0_Player,62984831026,I like doing some sport
-Dialogs_Mia_Bar_Hobbies_3_sport_1_Player,62984831027,Lifting weights and jogging
+Dialogs_Mia_Bar_Hobbies_3_sport_0_Player,62984831026,Eu gosto de fazer algum esporte
+Dialogs_Mia_Bar_Hobbies_3_sport_1_Player,62984831027,Levantar pesos e correr
 Dialogs_Mia_Bar_Hobbies_3_sport_2_Mia,62984831028,Que bom!
-Dialogs_Mia_Bar_Hobbies_3_sport_3_Mia,62984831029,You definitely look like you love sports
-Dialogs_Mia_Bar_Hobbies_4_DontHaveHobby_0_Player,62984831030,I don't have a hobby
-Dialogs_Mia_Bar_Hobbies_4_DontHaveHobby_1_Mia,62984831031,That's sad
-Dialogs_Mia_Bar_Hobbies_4_DontHaveHobby_2_Mia,62984831032,"Well, you can always work yourself to death"
-Dialogs_Mia_Bar_Hobbies_4_DontHaveHobby_3_Player,62984831033,I guess...
-Dialogs_Mia_Bar_Hobbies_Hobbies_0_Player,62984831034,What do you like to do in your free time?
-Dialogs_Mia_Bar_Hobbies_Hobbies_1_Mia,62984831035,I like having fun
-Dialogs_Mia_Bar_Hobbies_Hobbies_2_Mia,62984831036,This includes visiting places
-Dialogs_Mia_Bar_Hobbies_Hobbies_3_Mia,62984831037,Going to bars with my friends
-Dialogs_Mia_Bar_Hobbies_Hobbies_4_Mia,62984831038,And playing video games
-Dialogs_Mia_Bar_Hobbies_Hobbies_5_Mia,62984831039,What about you?
+Dialogs_Mia_Bar_Hobbies_3_sport_3_Mia,62984831029,Você definitivamente parece que ama esportes
+Dialogs_Mia_Bar_Hobbies_4_DontHaveHobby_0_Player,62984831030,Não tenho um hobby
+Dialogs_Mia_Bar_Hobbies_4_DontHaveHobby_1_Mia,62984831031,Isso é triste
+Dialogs_Mia_Bar_Hobbies_4_DontHaveHobby_2_Mia,62984831032,"Bem, você sempre pode trabalhar até a morte"
+Dialogs_Mia_Bar_Hobbies_4_DontHaveHobby_3_Player,62984831033,Eu acho...
+Dialogs_Mia_Bar_Hobbies_Hobbies_0_Player,62984831034,O que você gosta de fazer no seu tempo livre?
+Dialogs_Mia_Bar_Hobbies_Hobbies_1_Mia,62984831035,Gosto de me divertir
+Dialogs_Mia_Bar_Hobbies_Hobbies_2_Mia,62984831036,Isso inclui lugares de visita
+Dialogs_Mia_Bar_Hobbies_Hobbies_3_Mia,62984831037,Indo a bares com meus amigos
+Dialogs_Mia_Bar_Hobbies_Hobbies_4_Mia,62984831038,E jogando videogames
+Dialogs_Mia_Bar_Hobbies_Hobbies_5_Mia,62984831039,E quanto a você?
 Dialogs_Mia_Bar_HowMetLisa_2_ShesMyFriend_0_Player,62984831040,Ela é filha da amiga da minha mãe.
 Dialogs_Mia_Bar_HowMetLisa_2_ShesMyFriend_1_Mia,62984831041,Oh
-Dialogs_Mia_Bar_HowMetLisa_HowMetLisa_0_Player,62984831042,You and Lisa seem to be good friends
-Dialogs_Mia_Bar_HowMetLisa_HowMetLisa_1_Player,62984831043,Como vocês duas se conheceram?
+Dialogs_Mia_Bar_HowMetLisa_HowMetLisa_0_Player,62984831042,Você e Lisa parecem ser bons amigos
+Dialogs_Mia_Bar_HowMetLisa_HowMetLisa_1_Player,62984831043,Como vocês duas se conhecem?
 Dialogs_Mia_Bar_HowMetLisa_HowMetLisa_2_Mia,62984831044,Hmmmm
-Dialogs_Mia_Bar_HowMetLisa_HowMetLisa_3_Mia,62984831045,There’s nothing interesting about how we met
-Dialogs_Mia_Bar_HowMetLisa_HowMetLisa_4_Mia,62984831046,We just had some mutual friends in highschool
-Dialogs_Mia_Bar_HowMetLisa_HowMetLisa_5_Mia,62984831047,And everyone knew each other anyway
-Dialogs_Mia_Bar_HowMetLisa_HowMetLisa_6_Mia,62984831048,We became friends very quickly...
-Dialogs_Mia_Bar_HowMetLisa_HowMetLisa_7_Mia,62984831049,...while working on a chemistry project together
-Dialogs_Mia_Bar_HowMetLisa_HowMetLisa_8_Mia,62984831050,Or was it physics?
-Dialogs_Mia_Bar_HowMetLisa_HowMetLisa_9_Mia,62984831051,"Anyway, that's how we became friends"
-Dialogs_Mia_Bar_HowMetLisa_HowMetLisa_10_Mia,62984831052,Como vocês duas se conheceram?
+Dialogs_Mia_Bar_HowMetLisa_HowMetLisa_3_Mia,62984831045,Não há nada interessante em como nos conhecemos
+Dialogs_Mia_Bar_HowMetLisa_HowMetLisa_4_Mia,62984831046,Tivemos alguns amigos em comum na escola
+Dialogs_Mia_Bar_HowMetLisa_HowMetLisa_5_Mia,62984831047,E todos se conheciam de qualquer forma
+Dialogs_Mia_Bar_HowMetLisa_HowMetLisa_6_Mia,62984831048,Nós nos tornamos amigas muito rápido...
+Dialogs_Mia_Bar_HowMetLisa_HowMetLisa_7_Mia,62984831049,...enquanto trabalhávamos em um projeto de química juntas
+Dialogs_Mia_Bar_HowMetLisa_HowMetLisa_8_Mia,62984831050,Ou foi física?
+Dialogs_Mia_Bar_HowMetLisa_HowMetLisa_9_Mia,62984831051,"Enfim, foi assim que nos tornamos amigas"
+Dialogs_Mia_Bar_HowMetLisa_HowMetLisa_10_Mia,62984831052,Como vocês duas se conhecem?
 Dialogs_Mia_Bar_LikeAlcohol_1_ILikeIt_0_Player,62984831053,"Sim, eu gosto"
 Dialogs_Mia_Bar_LikeAlcohol_1_ILikeIt_1_Mia,62984831054,Viu?
-Dialogs_Mia_Bar_LikeAlcohol_1_ILikeIt_2_Mia,62984831055,I think it's normal as long as we don’t drink every day
-Dialogs_Mia_Bar_LikeAlcohol_2_IDontDrink_0_Player,62984831056,"Usually, I don't drink"
-Dialogs_Mia_Bar_LikeAlcohol_2_IDontDrink_1_Mia,62984831057,But you're drinking right now
-Dialogs_Mia_Bar_LikeAlcohol_2_IDontDrink_2_Player,62984831058,That's because we're in a bar
-Dialogs_Mia_Bar_LikeAlcohol_2_IDontDrink_3_Mia,62984831059,So you're telling me that you don't like drinking?
-Dialogs_Mia_Bar_LikeAlcohol_2_IDontDrink_4_Player,62984831060,"No, not really"
-Dialogs_Mia_Bar_LikeAlcohol_2_IDontDrink_5_Mia,62984831061,You're weird
-Dialogs_Mia_Bar_LikeAlcohol_3_Why_0_Player,62984831062,Why do you enjoy drinking?
-Dialogs_Mia_Bar_LikeAlcohol_3_Why_1_Player,62984831063,What exactly makes you like it?
+Dialogs_Mia_Bar_LikeAlcohol_1_ILikeIt_2_Mia,62984831055,"Acho normal, desde que não bebamos todos os dias"
+Dialogs_Mia_Bar_LikeAlcohol_2_IDontDrink_0_Player,62984831056,"Geralmente, eu não bebo"
+Dialogs_Mia_Bar_LikeAlcohol_2_IDontDrink_1_Mia,62984831057,Mas está bebendo agora
+Dialogs_Mia_Bar_LikeAlcohol_2_IDontDrink_2_Player,62984831058,Isso é porque estamos em um bar
+Dialogs_Mia_Bar_LikeAlcohol_2_IDontDrink_3_Mia,62984831059,Está dizendo que não gosta de beber?
+Dialogs_Mia_Bar_LikeAlcohol_2_IDontDrink_4_Player,62984831060,"Não, na verdade não"
+Dialogs_Mia_Bar_LikeAlcohol_2_IDontDrink_5_Mia,62984831061,Você é esquisito
+Dialogs_Mia_Bar_LikeAlcohol_3_Why_0_Player,62984831062,Por que você gosta de beber?
+Dialogs_Mia_Bar_LikeAlcohol_3_Why_1_Player,62984831063,O que te faz gostar?
 Dialogs_Mia_Bar_LikeAlcohol_3_Why_2_Mia,62984831064,Não sei
-Dialogs_Mia_Bar_LikeAlcohol_3_Why_3_Mia,62984831065,It just feels nice and funny
-Dialogs_Mia_Bar_LikeAlcohol_LikeAlcohol_0_Player,62984831066,You seem to enjoy drinking
-Dialogs_Mia_Bar_LikeAlcohol_LikeAlcohol_1_Mia,62984831067,"Everyone does, right?"
-Dialogs_Mia_Bar_LikeAlcohol_LikeAlcohol_2_Mia,62984831068,Don't you like it?
-Dialogs_Mia_Bar_LikeItHere_LIkeItHere_0_Player,62984831069,So you like it here in this town?
+Dialogs_Mia_Bar_LikeAlcohol_3_Why_3_Mia,62984831065,É uma sensação agradável e engraçada
+Dialogs_Mia_Bar_LikeAlcohol_LikeAlcohol_0_Player,62984831066,Você parece gostar de beber
+Dialogs_Mia_Bar_LikeAlcohol_LikeAlcohol_1_Mia,62984831067,"Todo mundo faz, certo?"
+Dialogs_Mia_Bar_LikeAlcohol_LikeAlcohol_2_Mia,62984831068,Você não gosta?
+Dialogs_Mia_Bar_LikeItHere_LIkeItHere_0_Player,62984831069,"Então você gosta daqui, nesta cidade?"
 Dialogs_Mia_Bar_LikeItHere_LIkeItHere_1_Mia,62984831070,Eu amo isso!
-Dialogs_Mia_Bar_LikeItHere_LIkeItHere_2_Player,62984831071,Have you never thought about leaving?
-Dialogs_Mia_Bar_LikeItHere_LIkeItHere_3_Mia,62984831072,No... Why should I?
-Dialogs_Mia_Bar_LikeItHere_LIkeItHere_4_Player,62984831073,"Bem... algumas pessoas querem deixar suas pequenas cidades e procurar oportunidades, não sei."
-Dialogs_Mia_Bar_LikeItHere_LIkeItHere_5_Mia,62984831074,I'm not one of them
-Dialogs_Mia_Bar_LikeItHere_LIkeItHere_6_Mia,62984831075,I love this city
-Dialogs_Mia_Bar_LikeItHere_LIkeItHere_7_Mia,62984831076,It has everything one could need
-Dialogs_Mia_Bar_LikeItHere_LIkeItHere_8_Mia,62984831077,"A beach, pubs, clubs—haha!"
-Dialogs_Mia_Bar_LikeItHere_LIkeItHere_9_Mia,62989025280,And all my friends are here too
-Dialogs_Mia_Bar_LikeItHere_LIkeItHere_10_Mia,62989025281,Why would I leave this wonderful place?
-Dialogs_Mia_Bar_LiveWithParents_1_1InstantNoodles_0_Player,62989025282,So you just eat instant noodles instead?
+Dialogs_Mia_Bar_LikeItHere_LIkeItHere_2_Player,62984831071,Nunca pensou em ir embora?
+Dialogs_Mia_Bar_LikeItHere_LIkeItHere_3_Mia,62984831072,Não... por que eu deveria?
+Dialogs_Mia_Bar_LikeItHere_LIkeItHere_4_Player,62984831073,"Bem... Algumas pessoas que deixam suas cidades e procuram oportunidades, não sei. "
+Dialogs_Mia_Bar_LikeItHere_LIkeItHere_5_Mia,62984831074,Não sou um deles
+Dialogs_Mia_Bar_LikeItHere_LIkeItHere_6_Mia,62984831075,Eu amo esta cidade
+Dialogs_Mia_Bar_LikeItHere_LIkeItHere_7_Mia,62984831076,Tem tudo o que se precisa
+Dialogs_Mia_Bar_LikeItHere_LIkeItHere_8_Mia,62984831077,"Praia, bares, clubes..!"
+Dialogs_Mia_Bar_LikeItHere_LIkeItHere_9_Mia,62989025280,E todos os meus amigos estão aqui também
+Dialogs_Mia_Bar_LikeItHere_LIkeItHere_10_Mia,62989025281,Por que eu deixaria este lugar maravilhoso?
+Dialogs_Mia_Bar_LiveWithParents_1_1InstantNoodles_0_Player,62989025282,Então você come macarrão instantâneo?
 Dialogs_Mia_Bar_LiveWithParents_1_1InstantNoodles_1_Mia,62989025283,Haha
-Dialogs_Mia_Bar_LiveWithParents_1_1InstantNoodles_2_Mia,62989025284,"I'm trying my best, ok?"
-Dialogs_Mia_Bar_LiveWithParents_1_1InstantNoodles_3_Mia,62989025285,I just love that ramen and I can not help it
-Dialogs_Mia_Bar_LiveWithParents_1_2Why_0_Player,62989025286,Why don't you want your mom to cook?
-Dialogs_Mia_Bar_LiveWithParents_1_2Why_1_Mia,62989025287,Ah.. it's complicated
-Dialogs_Mia_Bar_LiveWithParents_1_2Why_2_Mia,62989025288,Let's just say... she already has enough work to do
-Dialogs_Mia_Bar_LiveWithParents_1_2Why_3_Mia,62989025289,I don't want to bother her with feeding me too
-Dialogs_Mia_Bar_LiveWithParents_1_2Why_4_Player,62989025290,"""That’s strange, but I guess it’s none of my business anyway"""
-Dialogs_Mia_Bar_LiveWithParents_LiveWithParents_0_Player,62989025291,When you were eating ramen at the store back then...
-Dialogs_Mia_Bar_LiveWithParents_LiveWithParents_1_Player,62989025292,You told me that you don’t like to cook
-Dialogs_Mia_Bar_LiveWithParents_LiveWithParents_2_Player,62989025293,So does this mean you don't live with your parents anymore?
-Dialogs_Mia_Bar_LiveWithParents_LiveWithParents_3_Mia,62989025294,"No, I still live with my parents"
-Dialogs_Mia_Bar_LiveWithParents_LiveWithParents_4_Player,62989025295,Does your mom not cook for you then?
-Dialogs_Mia_Bar_LiveWithParents_LiveWithParents_5_Mia,62989025296,She does...
-Dialogs_Mia_Bar_LiveWithParents_LiveWithParents_6_Mia,62989025297,But I don't want her to
-Dialogs_Mia_Bar_SMalltalk_1_Weather_0_Player,62989025298,The weather is nice today
-Dialogs_Mia_Bar_SMalltalk_1_Weather_1_Mia,62989025299,"Yes, it is"
-Dialogs_Mia_Bar_SMalltalk_2_YouLIkeItHere_0_Player,62989025300,Do you like it here?
+Dialogs_Mia_Bar_LiveWithParents_1_1InstantNoodles_2_Mia,62989025284,"Estou dando o meu melhor, ok?"
+Dialogs_Mia_Bar_LiveWithParents_1_1InstantNoodles_3_Mia,62989025285,Eu amo aquele miojo e não posso evitar
+Dialogs_Mia_Bar_LiveWithParents_1_2Why_0_Player,62989025286,Por que você não quer que sua mãe cozinhe?
+Dialogs_Mia_Bar_LiveWithParents_1_2Why_1_Mia,62989025287,É complicado
+Dialogs_Mia_Bar_LiveWithParents_1_2Why_2_Mia,62989025288,Digamos que... ela já tem trabalho suficiente para fazer
+Dialogs_Mia_Bar_LiveWithParents_1_2Why_3_Mia,62989025289,Não quero incomodá-la me alimentando também
+Dialogs_Mia_Bar_LiveWithParents_1_2Why_4_Player,62989025290,"""Isso é estranho, mas acho que não é da minha conta mesmo"""
+Dialogs_Mia_Bar_LiveWithParents_LiveWithParents_0_Player,62989025291,Quando você estava comendo ramen na loja naquela época…
+Dialogs_Mia_Bar_LiveWithParents_LiveWithParents_1_Player,62989025292,Você me disse que não gosta de cozinhar
+Dialogs_Mia_Bar_LiveWithParents_LiveWithParents_2_Player,62989025293,Significa que não mora mais com seus pais?
+Dialogs_Mia_Bar_LiveWithParents_LiveWithParents_3_Mia,62989025294,"Não, ainda moro com meus pais"
+Dialogs_Mia_Bar_LiveWithParents_LiveWithParents_4_Player,62989025295,Sua mãe não cozinha para você?
+Dialogs_Mia_Bar_LiveWithParents_LiveWithParents_5_Mia,62989025296,Ela tem...
+Dialogs_Mia_Bar_LiveWithParents_LiveWithParents_6_Mia,62989025297,Mas eu não quero que ela
+Dialogs_Mia_Bar_SMalltalk_1_Weather_0_Player,62989025298,O tempo está bom hoje
+Dialogs_Mia_Bar_SMalltalk_1_Weather_1_Mia,62989025299,"É, sim"
+Dialogs_Mia_Bar_SMalltalk_2_YouLIkeItHere_0_Player,62989025300,Você gosta daqui?
 Dialogs_Mia_Bar_SMalltalk_2_YouLIkeItHere_1_Mia,62989025301,Sim
-Dialogs_Mia_Bar_SMalltalk_2_YouLIkeItHere_2_Mia,62989025302,That's my favourite bar after all
-Dialogs_Mia_Bar_SMalltalk_3_Music_0_Player,62989025303,Do you like the music here?
-Dialogs_Mia_Bar_SMalltalk_3_Music_1_Mia,62989025304,I love it...
-Dialogs_Mia_Bar_SMalltalk_4_WeekendPlans_0_Player,62989025305,What's you ideal way to spend a weekend?
-Dialogs_Mia_Bar_SMalltalk_4_WeekendPlans_1_Mia,62989025306,I like spending it here haha
-Dialogs_Mia_Bar_SMalltalk_4_WeekendPlans_2_Mia,62989025307,A nice drink makes the weekend better
-Dialogs_Mia_Bar_SMalltalk_5_ShotChallenge_0_Player,62989025308,Think you could beat me in a shot-for-shot challenge?
-Dialogs_Mia_Bar_SMalltalk_5_ShotChallenge_1_Mia,62989025309,Easy
-Dialogs_Mia_Bar_SMalltalk_5_ShotChallenge_2_Mia,62989025310,But let's not do it...
-Dialogs_Mia_Bar_SMalltalk_5_ShotChallenge_3_Mia,62989025311,Last time I did something like that...
-Dialogs_Mia_Bar_SMalltalk_5_ShotChallenge_4_Mia,62989025312,...it didn't go as planned
-Dialogs_Mia_Bar_Study_1_1DontLike_0_Player,62989025313,You didn't like it or what?
-Dialogs_Mia_Bar_Study_1_1DontLike_1_Mia,62989025314,Noo... it was fun
-Dialogs_Mia_Bar_Study_1_1DontLike_2_Mia,62989025315,But it wasn't what I wanted at that moment
-Dialogs_Mia_Bar_Study_1_1DontLike_3_Mia,62989025316,So I left and started working
+Dialogs_Mia_Bar_SMalltalk_2_YouLIkeItHere_2_Mia,62989025302,Esse é meu bar favorito
+Dialogs_Mia_Bar_SMalltalk_3_Music_0_Player,62989025303,Você gosta da música daqui?
+Dialogs_Mia_Bar_SMalltalk_3_Music_1_Mia,62989025304,Eu amo...
+Dialogs_Mia_Bar_SMalltalk_4_WeekendPlans_0_Player,62989025305,Qual é o seu jeito ideal de passar o fim de semana?
+Dialogs_Mia_Bar_SMalltalk_4_WeekendPlans_1_Mia,62989025306,Eu gosto de gastar aqui haha
+Dialogs_Mia_Bar_SMalltalk_4_WeekendPlans_2_Mia,62989025307,Uma boa bebida melhora o fim de semana
+Dialogs_Mia_Bar_SMalltalk_5_ShotChallenge_0_Player,62989025308,Acha que pode me vencer em um desafio?
+Dialogs_Mia_Bar_SMalltalk_5_ShotChallenge_1_Mia,62989025309,Fácil
+Dialogs_Mia_Bar_SMalltalk_5_ShotChallenge_2_Mia,62989025310,Mas não vamos fazer isso...
+Dialogs_Mia_Bar_SMalltalk_5_ShotChallenge_3_Mia,62989025311,A última vez que fiz algo assim...
+Dialogs_Mia_Bar_SMalltalk_5_ShotChallenge_4_Mia,62989025312,...não foi como planejado
+Dialogs_Mia_Bar_Study_1_1DontLike_0_Player,62989025313,Não gostou ou o quê?
+Dialogs_Mia_Bar_Study_1_1DontLike_1_Mia,62989025314,Não... foi divertido
+Dialogs_Mia_Bar_Study_1_1DontLike_2_Mia,62989025315,Mas não era o que eu queria naquele momento
+Dialogs_Mia_Bar_Study_1_1DontLike_3_Mia,62989025316,Então eu saí e comecei a trabalhar
 Dialogs_Mia_Bar_Study_1_2Why_0_Player,62989025317,Por quê?
 Dialogs_Mia_Bar_Study_1_2Why_1_Mia,62989025318,Eu...
-Dialogs_Mia_Bar_Study_1_2Why_2_Mia,62989025319,...wanted to explore a little bit more...
-Dialogs_Mia_Bar_Study_1_2Why_3_Mia,62989025320,Starting right after school didn’t feel right to me
-Dialogs_Mia_Bar_Study_1_2Why_4_Mia,62989025321,So I started working
-Dialogs_Mia_Bar_Study_Study_0_Player,62989025322,What do you study at the university?
-Dialogs_Mia_Bar_Study_Study_1_Mia,62989025323,I don't study
+Dialogs_Mia_Bar_Study_1_2Why_2_Mia,62989025319,...queria explorar um pouco mais...
+Dialogs_Mia_Bar_Study_1_2Why_3_Mia,62989025320,Começar logo depois da escola não me pareceu certo
+Dialogs_Mia_Bar_Study_1_2Why_4_Mia,62989025321,Então eu comecei a trabalhar
+Dialogs_Mia_Bar_Study_Study_0_Player,62989025322,O que estuda na universidade?
+Dialogs_Mia_Bar_Study_Study_1_Mia,62989025323,Eu não estudo
 Dialogs_Mia_Bar_Study_Study_2_Player,62989025324,Por que não?
-Dialogs_Mia_Bar_Study_Study_3_Mia,62989025325,It's a long story
+Dialogs_Mia_Bar_Study_Study_3_Mia,62989025325,É uma longa história
 Dialogs_Mia_Bar_Study_Study_4_Mia,62989025326,I was in university for one semester
 Dialogs_Mia_Bar_Study_Study_5_Mia,62989025327,But then I left
 Dialogs_Mia_Bar_UsuallyOrder_1_Snacks_0_Player,62989025328,And what about the snacks?
@@ -2553,7 +2553,7 @@ Dialogs_Story2_Home_SarahSofa_7_HaveToAdmit_4_Sarah,63018385497,"Just flowers fr
 Dialogs_Story2_Home_SarahSofa_7_HaveToAdmit_5_Sarah,63018385498,I'm his wife after all
 Dialogs_Story2_Home_SarahSofa_7_HaveToAdmit_6_Sarah,63018385499,Or at least a foot massage
 Dialogs_Story2_Home_SarahSofa_7_HaveToAdmit_7_Sarah,63018385500,"I'm on my feet all day, cleaning the house and cooking"
-Dialogs_Story2_Home_SarahSofa_7_HaveToAdmit_8_Sarah,63018385501,But he's just too tired for that... 
+Dialogs_Story2_Home_SarahSofa_7_HaveToAdmit_8_Sarah,63018385501,"But he's just too tired for that... "
 Dialogs_Story2_Home_SarahSofa_7_HaveToAdmit_9_Player,63018385502,"""Wow... she's letting everything go out"""
 Dialogs_Story2_Home_SarahSofa_7_HaveToAdmit_10_Sarah,63018385503,And it's not like I'm complaining...
 Dialogs_Story2_Home_SarahSofa_7_HaveToAdmit_11_Sarah,63018385504,But... yeah...
@@ -2877,7 +2877,7 @@ Dialogs_Story3_Lucy_Gym_17_FckHer_1_Lucy,63035162631,Not gonna let some bitch ru
 Dialogs_Story3_Lucy_Gym_17_FckHer_2_Lucy,63035162632,Even if she was my friend once
 Dialogs_Story3_Lucy_Gym_18_1Boyfriend_0_Player,63035162633,So you and your boyfriend...
 Dialogs_Story3_Lucy_Gym_18_1Boyfriend_1_Lucy,63035162634,Yeah... we broke up
-Dialogs_Story3_Lucy_Gym_18_1Boyfriend_2_Lucy,63035162635,But it’s none of your business… 
+Dialogs_Story3_Lucy_Gym_18_1Boyfriend_2_Lucy,63035162635,"But it’s none of your business… "
 Dialogs_Story3_Lucy_Gym_18_1Boyfriend_3_Lucy,63035162636,so just forget about it
 Dialogs_Story3_Lucy_Gym_18_1_1HopeAlright_0_Player,63035162637,I hope you're alright
 Dialogs_Story3_Lucy_Gym_18_1_1HopeAlright_1_Lucy,63035162638,Of course I am...
@@ -3018,7 +3018,7 @@ Dialogs_Story3_Mia_17_1Bed_4_Player,63039356975,Make yourself comfortable then..
 Dialogs_Story3_Mia_17_1Bed_5_Player,63039356976,I’ll grab my laptop
 Dialogs_Story3_Mia_17_1Bed_6_Mia,63039356977,Uh-huh
 Dialogs_Story3_Mia_17_2Floor_0_Player,63039356978,We can watch the movie on the floor
-Dialogs_Story3_Mia_17_2Floor_1_Mia,63039356979,Você está falando sério? 
+Dialogs_Story3_Mia_17_2Floor_1_Mia,63039356979,"Você está falando sério? "
 Dialogs_Story3_Mia_17_2Floor_2_Mia,63039356980,There isn't even a carpet here
 Dialogs_Story3_Mia_17_2Floor_3_Mia,63039356981,It's better to watch it on the bed then
 Dialogs_Story3_Mia_17_2Floor_4_Player,63039356982,I guess you're right
@@ -3216,7 +3216,7 @@ Dialogs_Story3_SarahStory_Date_1_1IHaveTheSuit_6_Sarah,63047745574,How about we 
 Dialogs_Story3_SarahStory_Date_1_1_1Friday_0_Player,63047745575,Friday sounds good
 Dialogs_Story3_SarahStory_Date_1_1_1Friday_1_Sarah,63047745576,Ótimo
 Dialogs_Story3_SarahStory_Date_1_1_1Friday_2_Sarah,63047745577,"I'll be looking forward to Friday, then"
-Dialogs_Story3_SarahStory_Date_1_1_1Saturday_0_Player,63047745578,Friday doesn't really work for me... 
+Dialogs_Story3_SarahStory_Date_1_1_1Saturday_0_Player,63047745578,"Friday doesn't really work for me... "
 Dialogs_Story3_SarahStory_Date_1_1_1Saturday_1_Player,63047745579,...could we do Saturday instead?
 Dialogs_Story3_SarahStory_Date_1_1_1Saturday_2_Sarah,63047745580,Hmmm...
 Dialogs_Story3_SarahStory_Date_1_1_1Saturday_3_Sarah,63047745581,"Yeah, Saturday works well for me"
@@ -3470,7 +3470,7 @@ Dialogs_Story4_Lucy_BeforeParty_4_1_3Cont_5_Lucy,63056134234,Obviously he doesn�
 Dialogs_Story4_Lucy_BeforeParty_4_1_3Cont_6_Lucy,63056134235,I'd be grounded six ways from Sunday if he did
 Dialogs_Story4_Lucy_BeforeParty_4_1_3Cont_7_Lucy,63056134236,Good thing Mom’s the reasonable one
 Dialogs_Story4_Lucy_BeforeParty_4_2_1ToldAbtSarah_0_Player,63056134237,Let's talk about my reward now...
-Dialogs_Story4_Lucy_BeforeParty_4_2_1ToldAbtSarah_1_Lucy,63056134238,You know… 
+Dialogs_Story4_Lucy_BeforeParty_4_2_1ToldAbtSarah_1_Lucy,63056134238,"You know… "
 Dialogs_Story4_Lucy_BeforeParty_4_2_1ToldAbtSarah_2_Lucy,63056134239,since Mom already knows...
 Dialogs_Story4_Lucy_BeforeParty_4_2_1ToldAbtSarah_3_Lucy,63056134240,I guess your help wasn’t that necessary
 Dialogs_Story4_Lucy_BeforeParty_4_2_1ToldAbtSarah_4_Player,63056134241,You little...
@@ -3590,7 +3590,7 @@ Dialogs_Story4_Lucy_Party_OliviaDialog_1_1_1_1_1_1_1_1ThoughtNeverAsk_1_Olivia,6
 Dialogs_Story4_Lucy_Party_OliviaDialog_1_1_1_1_1_1_1_1ThoughtNeverAsk_2_Olivia,63064522759,I like that...
 Dialogs_Story4_Lucy_Party_OliviaDialog_1_1_1_1_1_1_1_1ThoughtNeverAsk_3_Olivia,63064522760,How about we find somewhere a bit more private?
 Dialogs_Story4_Lucy_Party_OliviaDialog_1_1_1_1_1_1_1_2Sure_0_Player,63064522761,Sure… do all the guests get such special 'treatment'?
-Dialogs_Story4_Lucy_Party_OliviaDialog_1_1_1_1_1_1_1_2Sure_1_Olivia,63064522762,Only the cute ones 
+Dialogs_Story4_Lucy_Party_OliviaDialog_1_1_1_1_1_1_1_2Sure_1_Olivia,63064522762,"Only the cute ones "
 Dialogs_Story4_Lucy_Party_OliviaDialog_1_1_1_1_1_1_1_2Sure_2_Olivia,63064522763,"We’re about to start a game soon, by the way"
 Dialogs_Story4_Lucy_Party_OliviaDialog_1_1_1_1_1_1_1_2Sure_3_Olivia,63064522764,You in?
 Dialogs_Story4_Lucy_Party_OliviaDialog_1_1_1_1_1_1_1_2Sure_4_Olivia,63064522765,Or do you want something...
@@ -4051,7 +4051,7 @@ Dialogs_Story4_Sarah_KitchenAftrKiss_4_1IDontCare_12_Sarah,63081300043,Entendo..
 Dialogs_Story4_Sarah_KitchenAftrKiss_5_KissEnd_0_Sarah,63081300044,How did it come to this?
 Dialogs_Story4_Sarah_KitchenAftrKiss_6_BenjInterupts_0_Benjamin,63081300045,Sarah?
 Dialogs_Story4_Sarah_KitchenAftrKiss_7_SarahResponds_0_Sarah,63081300046,"What's wrong, darling?"
-Dialogs_Story4_Sarah_KitchenAftrKiss_7_SarahResponds_1_Benjamin,63081300047,What were those noises? 
+Dialogs_Story4_Sarah_KitchenAftrKiss_7_SarahResponds_1_Benjamin,63081300047,"What were those noises? "
 Dialogs_Story4_Sarah_KitchenAftrKiss_7_SarahResponds_2_Benjamin,63081300048,What were you doing?
 Dialogs_Story4_Sarah_KitchenAftrKiss_7_SarahResponds_3_Sarah,63081300049,I... I'm...
 Dialogs_Story4_Sarah_KitchenAftrKiss_7_SarahResponds_4_Sarah,63081300050,I was moving some objects around...
@@ -4102,7 +4102,7 @@ Dialogs_Story4_Sarah_Nightmare_4_CallContinue_15_Sarah,63085494306,"He’s young
 Dialogs_Story4_Sarah_Nightmare_4_CallContinue_16_Player,63085494307,"""Young and handsome, hehe… that’s definitely me"""
 Dialogs_Story4_Sarah_Nightmare_4_CallContinue_17_Sarah,63085494308,The alcohol... and... he
 Dialogs_Story4_Sarah_Nightmare_4_CallContinue_18_Sarah,63085494309,Made me feel like I’m a young girl again
-Dialogs_Story4_Sarah_Nightmare_4_CallContinue_19_Sarah,63085494310,This adrenaline… 
+Dialogs_Story4_Sarah_Nightmare_4_CallContinue_19_Sarah,63085494310,"This adrenaline… "
 Dialogs_Story4_Sarah_Nightmare_4_CallContinue_20_Sarah,63085494311,doing something so wrong…
 Dialogs_Story4_Sarah_Nightmare_4_CallContinue_21_Sarah,63085494312,I have to admit it... I liked it
 Dialogs_Story4_Sarah_Nightmare_4_CallContinue_22_Player,63085494313,"""I knew it... Sarah liked the kiss too"""
@@ -4166,7 +4166,7 @@ Dialogs_Story4_Sarah_SofaFirst_5_Wym_3_Player,63085494370,Wait… so you knew al
 Dialogs_Story4_Sarah_SofaFirst_5_Wym_4_Sarah,63085494371,Of course… why wouldn’t I?
 Dialogs_Story4_Sarah_SofaFirst_5_Wym_5_Player,63085494372,Benjamin doesn’t let her go to parties
 Dialogs_Story4_Sarah_SofaFirst_5_Wym_6_Player,63085494373,I figured you’d be the same
-Dialogs_Story4_Sarah_SofaFirst_5_Wym_7_Sarah,63085494374,Of course not... 
+Dialogs_Story4_Sarah_SofaFirst_5_Wym_7_Sarah,63085494374,"Of course not... "
 Dialogs_Story4_Sarah_SofaFirst_5_Wym_8_Sarah,63085494375,She's a grown girl now...
 Dialogs_Story4_Sarah_SofaFirst_5_Wym_9_Sarah,63085494376,she can decide for herself when to party
 Dialogs_Story4_Sarah_SofaFirst_5_Wym_10_Sarah,63085494377,Just make sure Benjamin doesn’t find out
@@ -4220,7 +4220,7 @@ Dialogs_Story4_Sarah_SrRoom_Kissed_2_DidKiss_14_Sarah,63089688621,again
 Dialogs_Story4_Sarah_SrRoom_Kissed_3_BadWife_0_Sarah,63089688622,I'm such a bad wife...
 Dialogs_Story4_Sarah_SrRoom_Kissed_3_BadWife_1_Sarah,63089688623,And a terrible mom...
 Dialogs_Story4_Sarah_SrRoom_Kissed_5_YourNot_0_Player,63089688624,"No, you're not, Sarah!"
-Dialogs_Story4_Sarah_SrRoom_Kissed_5_YourNot_1_Player,63089688625,You're not a bad person... 
+Dialogs_Story4_Sarah_SrRoom_Kissed_5_YourNot_1_Player,63089688625,"You're not a bad person... "
 Dialogs_Story4_Sarah_SrRoom_Kissed_5_YourNot_2_Player,63089688626,Not a bad wife... and definitely not a bad mom
 Dialogs_Story4_Sarah_SrRoom_Kissed_5_YourNot_3_Player,63089688627,"You're one of the most genuine, warm-hearted people I've ever known"
 Dialogs_Story4_Sarah_SrRoom_Kissed_5_YourNot_4_Player,63089688628,You’re kind…
@@ -4461,7 +4461,7 @@ Dialogs_Story5_Sarah_1_RmTalk_9_Sarah,63098077254,It's too risky
 Dialogs_Story5_Sarah_2_HeWillHit_0_Player,63098077255,Wow… what’s he gonna do — beat me?
 Dialogs_Story5_Sarah_2_HeWillHit_1_Player,63098077256,Or beat you?
 Dialogs_Story5_Sarah_2_HeWillHit_2_Player,63098077257,"Whatever it is, I am not gonna allow it"
-Dialogs_Story5_Sarah_2_HeWillHit_3_Sarah,63098077258,Você está falando sério? 
+Dialogs_Story5_Sarah_2_HeWillHit_3_Sarah,63098077258,"Você está falando sério? "
 Dialogs_Story5_Sarah_2_HeWillHit_4_Sarah,63098077259,It’s not about who’s stronger or better
 Dialogs_Story5_Sarah_2_HeWillHit_5_Sarah,63098077260,It’ll tear this family apart... if he finds out
 Dialogs_Story5_Sarah_2_HeWillHit_6_Sarah,63098077261,This would crush the girls…
@@ -4611,7 +4611,7 @@ Dialogs_Test_2_Sarah,63102271591,After a while this
 Dialogs_Test_3_Sarah,63102271592,And finally this
 Dialogs_TestCall_0_Player,63106465792,ghj ghj
 Dialogs_Generic_Date_Appointment_Mia_Decline_0_Player,63110660096,"I'm sorry, but we can not go today"
-Dialogs_Generic_Date_Appointment_Mia_Decline_1_Mia,63110660097,Você está falando sério? 
+Dialogs_Generic_Date_Appointment_Mia_Decline_1_Mia,63110660097,"Você está falando sério? "
 Dialogs_Generic_Date_Appointment_Mia_LetsGo_0_Player,63110660098,Vamos nessa
 Dialogs_Generic_Date_Appointment_Mia_LetsGo_1_Mia,63110660099,I'll follow you
 Dialogs_Generic_Date_Bar_DialogParts_Mia_Finish_FinishDateSuccessful_0_Mia,63110660100,It was nice
