@@ -39,8 +39,12 @@ Sua ajuda é muito bem-vinda! Você pode:
 
 Agradecemos a todos que ajudaram nesta tradução! 🎉
 
-[![ZeffTheCreator](https://avatars.githubusercontent.com/u/234838814?v=4&size=50)](https://github.com/ZeffTheCreator)
-[![iDzmon](https://avatars.githubusercontent.com/u/234838045?s=400&v=4&size=50)](https://github.com/iDzmon)
+<a href="https://github.com/iDzmon">
+  <img src="https://avatars.githubusercontent.com/u/234838045?v=4" width="50" height="50" alt="iDzmon" />
+</a>
+<a href="https://github.com/ZeffTheCreator">
+  <img src="https://avatars.githubusercontent.com/u/234838814?v=4" width="50" height="50" alt="ZeffTheCreator" />
+</a>
 
 ---
 
