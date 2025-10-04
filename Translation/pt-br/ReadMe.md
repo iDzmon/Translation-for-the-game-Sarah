@@ -11,7 +11,7 @@ O projeto ainda está em andamento, então algumas partes podem não estar tradu
 
 ## 📊 Progresso atual
 
-* **1923 / 4639 frases** traduzidas ✅
+* **3287 / 4639 frases** traduzidas ✅
 
 *(atualizado manualmente — pode variar conforme novas contribuições)*
 
