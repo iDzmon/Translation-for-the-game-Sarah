@@ -20,6 +20,7 @@ Você pode encontrar o jogo *Sarah* aqui:
 As traduções são organizadas por pasta, cada uma representando um idioma. Clique no idioma para abrir a pasta correspondente:
 
 * [🇧🇷 Português](Translation/pt-br)
+* [🇫🇷 French](Translation/fr)
 * [🇬🇧 Inglês](Translation/en)
 * ... *(mais idiomas podem ser adicionados pela comunidade)*
 

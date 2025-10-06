@@ -21,6 +21,7 @@ You can find the game *Sarah* here:
 Translations are organized in folders, each representing a language. Click the language to open the corresponding folder:
 
 * [🇧🇷 Portuguese](Translation/pt-br)
+* [🇫🇷 French](Translation/fr)
 * [🇬🇧 English](Translation/en)
 * ... *(more languages can be added by the community)*
 
